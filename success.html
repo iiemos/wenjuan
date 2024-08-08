@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800|Roboto:400,500,700" rel="stylesheet">
+    <!-- Theme CSS -->
+    <link type="text/css" href="./assets/css/theme.css" rel="stylesheet">
+    <link type="text/css" href="./assets/css/demo.css" rel="stylesheet">
+    <link href="./assets/css/index.css" rel="stylesheet">
+    <style>
+      .success_box{
+        position: relative;
+        padding: 50px 60px;
+        margin-top: 20px;
+        -webkit-box-shadow: 0 8px 30px 0 rgba(117, 219, 141, .24);
+        box-shadow: 0 8px 30px 0 rgba(117, 219, 141, .24);
+        border-radius: 16px;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        background: #fff;
+      }
+      .pool-balance{
+        font-size: 42px;
+        text-align: center;
+        font-weight: 600;
+        color: #44df84;
+        line-height: 1.1;
+        margin: 0 -30px;
+      }
+      .balance-tips{
+        font-size: 18px;
+        font-weight: 500;
+        color: #505f79;
+        text-align: center;
+        margin-top: 12px;
+      }
+      .success_icon{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+      }
+      .success_icon svg{
+        width: auto;
+        height: auto;
+      }
+    </style>
+</head>
+<body>
+  <main class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="success_box">
+          <div class="success_tlt">
+           <h2 class="heading h3 mb-0 text-center">Congratulations on your successful submission</h2>
+          </div>
+          <div class="success_icon">
+            <div id="lottie-container" style="width: 400px; height: 400px;"></div>
+          </div>
+          <div class="pool-balance">
+            + <span id="random-number">0</span>
+          </div>
+          <div class="balance-tips">
+            Personal account points
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="/lottie/lottie.min.js"></script>
+  <script>
+    function getRandomNumber(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+      function updateNumber() {
+          var numberElement = document.getElementById('random-number');
+          numberElement.textContent = getRandomNumber(3, 9);
+      }
+
+    // 在文档加载完毕后运行这段代码
+    document.addEventListener("DOMContentLoaded", function() {
+      // 获取容器元素
+      var container = document.getElementById('lottie-container');
+      
+      // 加载 Lottie 动画
+      var animation = lottie.loadAnimation({
+        container: container, // 容器元素
+        renderer: 'svg', // 使用 SVG 渲染器
+        loop: true, // 循环播放
+        autoplay: true, // 自动播放
+        path: '/lottie/Animation1723098116344.json' // 动画 JSON 文件的路径
+      });
+      updateNumber();
+    });
+  </script>
+</body>
+</html>

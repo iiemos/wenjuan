@@ -1,0 +1,23 @@
+.radio_box{
+  padding: 10px 1rem;
+}
+.radio_box:hover{
+  background: #479cff1c;
+}
+.radio_lable{
+  cursor: pointer;
+  width: 90%; 
+}
+.custom-control{
+  padding-left: 40px;
+}
+.custom-control-label::after{
+  top:50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
+.custom-control-label::before{
+  top:50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
