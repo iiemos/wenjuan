@@ -1,195 +1,172 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="Webpixels">
-    <title>问卷调查</title>
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800|Roboto:400,500,700" rel="stylesheet">
-    <!-- Theme CSS -->
-    <link type="text/css" href="./assets/css/theme.css" rel="stylesheet">
-    <link type="text/css" href="./assets/css/demo.css" rel="stylesheet">
-    <link href="./assets/css/index.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="Webpixels">
+  <title>问卷调查</title>
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800|Roboto:400,500,700" rel="stylesheet">
+  <!-- Theme CSS -->
+  <link type="text/css" href="./assets/css/theme.css" rel="stylesheet">
+  <link type="text/css" href="./assets/css/demo.css" rel="stylesheet">
+  <link href="./assets/css/index.css" rel="stylesheet">
 </head>
+
 <body>
-  <nav class="navbar navbar-expand-lg navbar-transparent navbar-dark bg-dark py-4">
-    <div class="container">
-      <a class="navbar-brand" href="./"><strong>Boom</strong> Questionnaire</a>
-      <button class="navbar-toggler" type="button" data-action="offcanvas-open" data-target="#navbar_main" aria-controls="navbar_main" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="navbar-collapse offcanvas-collapse" id="navbar_main">
-        <ul class="navbar-nav ml-auto align-items-lg-center">
-          <h6 class="dropdown-header font-weight-600 d-lg-none px-0">Menu</h6>
-          <li class="nav-item active">
-            <a class="nav-link" href="./index.html">Overview</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="">Docs</a>
-          </li>
-          <li class="nav-item">
-            <a href="/cloud.html" target="_blank" class="nav-link d-lg-none">Download Free</a>
-            <a href="/cloud.html" target="_blank" class="btn btn-sm bg-white d-none d-lg-inline-flex">Download Free</a>
-          </li>
-          <div class="dropdown-divider d-lg-none my-4"></div>
-          <h6 class="dropdown-header font-weight-600 d-lg-none px-0">Social Media</h6>
-          <li class="nav-item">
-            <a class="nav-link nav-link-icon" href="" target="_blank"><i class="fab fa-instagram"></i><span class="ml-2 d-lg-none">Instagram</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link nav-link-icon" href="" target="_blank"><i class="fab fa-facebook"></i><span class="ml-2 d-lg-none">Facebook</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link nav-link-icon" href="" target="_blank"><i class="fab fa-dribbble"></i><span class="ml-2 d-lg-none">Dribbble</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link nav-link-icon" href="" target="_blank"><i class="fab fa-github"></i><span class="ml-2 d-lg-none">Github</span></a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
   <main class="main">
-    <section class="spotlight parallax bg-cover bg-size--cover" data-spotlight="fullscreen" style="background-image: url('assets/images/backgrounds/img-1.jpg')">
-      <span class="mask bg-primary alpha-7"></span>
-      <div class="spotlight-holder py-lg pt-lg-xl">
-        <div class="container d-flex align-items-center no-padding">
-          <div class="col">
-            <div class="row cols-xs-space align-items-center text-center text-md-left justify-content-center">
-              <div class="col-7">
-                <div class="text-center mt-5">
-                  <img src="assets/images/brand/icon.png" style="width: 200px;" class="img-fluid animated" data-animation-in="jackInTheBox" data-animation-delay="1000">
-                  <h2 class="heading display-4 font-weight-400 text-white mt-5 animated" data-animation-in="fadeInUp" data-animation-delay="2000">
-                    <span class="font-weight-700">Boom</span> 
-                    <span class="h2 text-white">Questionnaire</span>
-                  </h2>
-                  <p class="lead text-white mt-3 lh-180 c-white animated" data-animation-in="fadeInUp" data-animation-delay="2500">
-                    Free HTML UI Kit based on the well known Bootstrap 4 Framework brought to you by <strong class="text-white">Webpixels</strong>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+
     <section class="slice slice-lg">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-lg-10">
-            <!-- Form elements -->
-            <div class="row align-items-center mb-4 mt-lg">
-              <div class="col-8">
-                <h2 class="heading h3 mb-0">Please complete the following questionnaire</h2>
-              </div>
-              <div class="col-4 text-right">
-              </div>
+          <div id="startBox" class="card text-center">
+            <div class="card-header">
+              <h4>Questionnaire</h4>
             </div>
-            <p class="mb-5">This questionnaire is mainly to understand your views and understanding of relevant aspects</p>
-            <div class="row-wrapper">
-
-              <div class="row cols-xs-space cols-sm-space cols-md-space">
-                <div class="col-lg-12">
-                  <div id="questionnaire" class="mt-6">
-                  </div>
+            <div class="card-body text-center">
+              <h5 class="card-title mb-4"></h5>
+              <p class="card-text mb-4">This questionnaire is mainly to understand your views and understanding of relevant aspects</p>
+              <img style="width: 250px;height: 250px;" src="/assets/images/Untitled.svg" alt="">
+            </div>
+            <div class="card-footer text-muted">
+              <a href="javascript:;" id="startBtn" class="btn btn-primary">Start</a>
+            </div>
+          </div>
+          <div class="row-wrapper col-lg-10">
+            <div class="row cols-xs-space cols-sm-space cols-md-space">
+              <div class="col-lg-12">
+                <div id="questionnaire">
                 </div>
               </div>
             </div>
-
-            <div class="text-center mt-5">
-              <a id="submitBtn" href="javascript:;" target="_blank" class="btn btn-primary">Submit Questionnaire</a>
-            </div>
           </div>
+
         </div>
       </div>
     </section>
 
   </main>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script>
-      $(document).ready(function () {
-        $.getJSON('/json/questions.json', function (data) {
-          // 随机选择一套题目
-          const randomIndex = Math.floor(Math.random() * data.length);
-          const selectedSet = data[randomIndex].questions;
-
-          // 生成问卷内容
-          data.forEach((q, index) => {
-              const questionHtml = `
-                  <div class="question mb-5">
-                      <h4 class="mb-4">${index + 1}. ${q.question}</h4>
-                      ${q.options.map((option, idx) => `
-                        <div class="radio_box custom-control custom-radio mb-3">
-                            <input class="custom-control-input" type="radio" name="question${index}" value="${option}" id="${index}${idx}">
-                            <label class="radio_label custom-control-label" for="${index}${idx}">
-                                ${option}
-                            </label>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $.getJSON('/json/questions.json', function (data) {
+        // 生成问卷内容
+        data.forEach((q, index) => {
+          const questionHtml = `
+                  <div class="card text-center question-card" data-index="${index}" style="display:none">
+                    <div class="card-header">
+                      <h4>${index + 1}. ${q.question}</h4>
+                    </div>
+                    <div class="card-body">
+                       ${q.options.map((option, idx) => `
+                      <div class="radio_box custom-control custom-radio mb-3">
+                          <input class="custom-control-input" type="radio" name="question${index}" value="${option}" id="${index}${idx}">
+                          <label class="radio_label custom-control-label" for="${index}${idx}">
+                              ${option}
+                          </label>
+                      </div>
+                    `).join('')}
+                    <div class="card-footer text-muted">
+                      <div class="btn-toolbar justify-content-between" role="toolbar">
+                        <div class="btn-group" role="group" aria-label="First group">
+                          <span href="javascript:;" class="btn btn-outline-secondary backBtn">Back</span>
                         </div>
-                      `).join('')}
+                        <div class="input-group">
+                          <span href="javascript:;" class="btn btn-primary nextBtn" ${index === data.length - 1 ? 'id="submitBtn"' : ''}>
+                            ${index === data.length - 1 ? 'Submit' : 'Next'}
+                          </span>
+                        </div>
+                      </div>
+                    </div>
                   </div>
               `;
-              $('#questionnaire').append(questionHtml);
-          });
+          $('#questionnaire').append(questionHtml);
+        });
 
-          // 判断页面是否滑动到底部
-          function isScrolledToBottom() {
-              return window.innerHeight + window.scrollY >= document.body.offsetHeight;
-          }
+        // 点击Start按钮后，开始问卷
+        $('#startBtn').click(function () {
+          $('#startBox').hide();
+          startQuestionnaire();
+        });
 
-          // 检查是否所有问题都选择了选项
-          function areAllQuestionsAnswered() {
-              let allAnswered = true;
-              data.forEach((_, index) => {
-                  if ($(`input[name="question${index}"]:checked`).length === 0) {
-                      allAnswered = false;
-                  }
-              });
-              return allAnswered;
-          }
+        function startQuestionnaire() {
+          // 显示第一题
+          $('.question-card').hide();
+          $('.question-card').first().show();
 
-          // 模拟用户操作：滑动页面并选择随机选项
-          let currentIndex = 0;
-          let submitClicked = false; // 标志变量，确保提交按钮只点击一次
-          let timer = null; // 定义定时器变量
+          // 监听Next按钮点击事件
+          $('.nextBtn').click(function () {
+            const currentCard = $(this).closest('.question-card');
+            const nextCard = currentCard.next('.question-card');
+            const selectedOption = currentCard.find('input[type="radio"]:checked').val();
 
-          function simulateUserInteraction() {
-              if (currentIndex < data.length) {
-                  const questionElement = $(`input[name="question${currentIndex}"]`).first();
-                  $('html, body').animate({
-                      scrollTop: questionElement.offset().top - 100
-                  }, 500, function () {
-                      // 随机选择一个选项
-                      const options = $(`input[name="question${currentIndex}"]`);
-                      const randomOptionIndex = Math.floor(Math.random() * options.length);
-                      options.eq(randomOptionIndex).prop('checked', true);
-                      currentIndex++;
-                      // 清除之前的定时器
-                      if (timer) clearTimeout(timer);
-                      timer = setTimeout(simulateUserInteraction, 2000); // 等待两秒钟再选择下一个
-                  });
-              } else if (!submitClicked) {
-                  const checkSubmitConditions = setInterval(() => {
-                      if (isScrolledToBottom() && areAllQuestionsAnswered()) {
-                          clearInterval(checkSubmitConditions);
-                          submitClicked = true;
-                          $('#submitBtn').click();
-                      }
-                  }, 1000);
+            if (selectedOption) {
+              currentCard.hide();
+              if (nextCard.length > 0) {
+                nextCard.show();
+              } else {
+                $('#submitBtn').click();
               }
+            }
+          });
+
+          // 监听Back按钮点击事件
+          $('.backBtn').click(function () {
+            const currentCard = $(this).closest('.question-card');
+            const prevCard = currentCard.prev('.question-card');
+            if (prevCard.length > 0) {
+              currentCard.siblings().hide(); // 隐藏所有兄弟元素
+              prevCard.show(); // 显示上一个兄弟元素
+            }
+          });
+
+          // 自动选择随机选项并点击Next按钮
+          let selectTimer = null;
+          let nextTimer = null;
+
+          function autoSelectOptionAndNext(index) {
+            if (index < data.length) {
+              const currentCard = $(`.question-card[data-index="${index}"]`);
+              currentCard.show();
+
+              // 清除之前的定时器
+              if (selectTimer) clearTimeout(selectTimer);
+              if (nextTimer) clearTimeout(nextTimer);
+
+              selectTimer = setTimeout(() => {
+                const options = $(`input[name="question${index}"]`);
+                const randomOptionIndex = Math.floor(Math.random() * options.length);
+                options.eq(randomOptionIndex).prop('checked', true);
+
+                // 增加延迟点击Next按钮
+                nextTimer = setTimeout(() => {
+                  $(`.question-card[data-index="${index}"] .nextBtn`).click();
+                }, 1500); // 点击Next按钮的延迟
+
+              }, 1500); // 增加延迟时间选择选项
+            }
           }
 
-          simulateUserInteraction();
+          let currentIndex = 0;
+          const timer = setInterval(function () {
+            autoSelectOptionAndNext(currentIndex);
+            currentIndex++;
+            if (currentIndex >= data.length) {
+              clearInterval(timer);
+            }
+          }, 4000); // 控制总间隔时间4秒，包含显示、选择和点击的延迟
+        }
 
-          $('#submitBtn').click(function () {
-              // 处理提交的答案
-              // alert('问卷提交成功！');
-              window.location.href = 'success.html'
-          });
+        $('#submitBtn').click(function () {
+          // 处理提交的答案
+          window.location.href = 'success.html'
         });
       });
-    </script>
+    });
+  </script>
 </body>
+
 </html>
