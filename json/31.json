@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "question": "Your most common means of public transport for daily travel are:",
+    "options": [
+      "Buses",
+      "Subway",
+      "Light rail",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "The main reasons you choose public transport are:",
+    "options": [
+      "Low cost",
+      "Convenient and fast",
+      "Environmental protection",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What do you think the public transport fares are:",
+    "options": [
+      "It's very cheap",
+      "It's cheaper",
+      "Reasonable",
+      "More expensive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Are you satisfied with the frequency of the buses?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How crowded do you think the subway is?",
+    "options": [
+      "It's very crowded",
+      "It's crowded",
+      "Not too crowded",
+      "Very loose"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How do you feel about hygiene on public transport?",
+    "options": [
+      "Very clean",
+      "It's relatively clean",
+      "General",
+      "Not clean"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your rate of punctuality on public transport is:",
+    "options": [
+      "Very punctual",
+      "High punctuality rate",
+      "Punctuality is average",
+      "Often late"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Public transport station Settings for you:",
+    "options": [
+      "It's very reasonable and convenient",
+      "More reasonable, basically convenient",
+      "General, some inconvenience",
+      "It's unreasonable and inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What do you think of the seat comfort on public transport?",
+    "options": [
+      "It's very comfortable",
+      "It's comfortable",
+      "General",
+      "Not comfortable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Safety facilities on public transport in your opinion:",
+    "options": [
+      "It's perfect",
+      "Relatively perfect",
+      "General",
+      "Not perfect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Have you ever encountered pickpocketing and other security issues on public transport?",
+    "options": [
+      "Never encountered",
+      "Rarely encountered",
+      "Occasional encounters",
+      "Often encountered"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "How convenient public transportation is? Do you think:",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "General",
+      "Not convenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "How do you rate the driving skills of public transport drivers:",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "How helpful announcements and alerts on public transport are to you:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "How do you feel about the attitude of public transport staff:",
+    "options": [
+      "Very enthusiastic",
+      "Be enthusiastic",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "The effect of air conditioning on public transport do you think:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What is your opinion about accessibility in public transport:",
+    "options": [
+      "It's perfect",
+      "Relatively perfect",
+      "General",
+      "Not perfect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "The availability of electronic devices (such as charging outlets, etc.) on public transport:",
+    "options": [
+      "Very sufficient",
+      "It's quite sufficient",
+      "General",
+      "Insufficient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "In your opinion, the line coverage of public transport:",
+    "options": [
+      "Very extensive",
+      "More extensive",
+      "General",
+      "Stenosis"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Public transport operating hours for you:",
+    "options": [
+      "Very sufficient",
+      "It's quite sufficient",
+      "General",
+      "Insufficient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Your evaluation of the design of public transport vehicles is:",
+    "options": [
+      "Very beautiful",
+      "More beautiful",
+      "General",
+      "It's not pretty"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Number of advertisements on public transport Do you think:",
+    "options": [
+      "Very few",
+      "Relatively few",
+      "Appropriate amount",
+      "Too much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Public transport in-car noise in your opinion:",
+    "options": [
+      "Very small",
+      "It's relatively small",
+      "General",
+      "Big"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "How do you feel about the ventilation of public transport:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Public transport ticketing methods for you:",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "General",
+      "Not convenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Your knowledge of public transport complaints channels:",
+    "options": [
+      "Very clear",
+      "More clear",
+      "General",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you think the information service of public transport (real-time bus inquiry, etc.) :",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "In your opinion, the energy-saving and emission reduction effect of public transportation:",
+    "options": [
+      "Very significant",
+      "Relatively significant",
+      "General",
+      "Not obvious"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Your assessment of the intelligence of public transport is:",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "Low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "The role of public transport in alleviating urban traffic congestion in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "How do you think public transport contributes to the improvement of the urban environment:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "The role of public transport in promoting urban economic development in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "How fast do you think public transport is developing:",
+    "options": [
+      "Very fast",
+      "It's faster",
+      "General",
+      "Slow"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "The future development of public transport You:",
+    "options": [
+      "Very optimistic",
+      "More optimistic",
+      "General",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you think public transport safety promotion work:",
+    "options": [
+      "Very good",
+      "More in place",
+      "General",
+      "Not in place"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "The role of public transport in enhancing the image of a city in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Your evaluation of the connection between public transport and other modes of transport (e.g. private cars, taxis) is:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "The role of public transport in promoting coordinated regional development in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What do you think of the fare adjustment mechanism of public transport?",
+    "options": [
+      "Very reasonable",
+      "It's reasonable",
+      "General",
+      "Unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "The role of public transport in improving the quality of life of residents in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What is your opinion on the frequency of infrastructure renewal in public transport:",
+    "options": [
+      "Very often",
+      "Relatively frequent",
+      "General",
+      "Rarely updated"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Public transport vehicle maintenance status Do you think:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you think the route planning of public transport is reasonable:",
+    "options": [
+      "Very reasonable",
+      "It's reasonable",
+      "General",
+      "Unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "In your opinion, the role of public transport in promoting cultural exchanges in cities:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Your evaluation of public transport emergency response capacity is:",
+    "options": [
+      "Very strong",
+      "Relatively strong",
+      "General",
+      "Weak"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "The role of public transport in promoting the development of urban tourism in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "How do you feel about the clarity of public transport signs:",
+    "options": [
+      "Very clear",
+      "It's clear",
+      "General",
+      "Not clear"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "In your opinion, public transportation measures to ensure the travel of special groups:",
+    "options": [
+      "It's perfect",
+      "Relatively perfect",
+      "General",
+      "Not perfect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Your experience with intelligent payment methods (such as mobile payment) for public transport is:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "In your opinion, the role of public transport in promoting technological innovation in cities:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "How fast do you think the quality of public transport services is improving?",
+    "options": [
+      "Very fast",
+      "It's faster",
+      "General",
+      "Slow"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "The role of public transport in promoting sustainable urban development in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Your assessment of the efficiency of handling complaints about public transport is:",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "Low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "The role of public transport in enhancing the competitiveness of a city in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the level of public transport operation management:",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "Low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "The role of public transport in enhancing urban public services in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "What is your opinion on the safety supervision of public transport?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "The role of public transport in promoting social equity in cities in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think the public transport energy conservation and emission reduction publicity work:",
+    "options": [
+      "Very good",
+      "More in place",
+      "General",
+      "Not in place"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "The role of public transport in promoting the construction of urban informatization in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Your evaluation of the implementation of industry norms for public transport is:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "The role of public transport in promoting urban industrial upgrading in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think the service innovation ability of public transport:",
+    "options": [
+      "Very strong",
+      "Relatively strong",
+      "General",
+      "Weak"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "The role of public transport in promoting green urban development in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What is your opinion on the humanized design of public transport facilities:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "The role of public transport in strengthening urban social governance in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "In your opinion, the industry development policy of public transport:",
+    "options": [
+      "Very reasonable",
+      "It's reasonable",
+      "General",
+      "Unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "The role of public transport in promoting urban regional integration in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Your evaluation of the resource allocation efficiency of public transport is:",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "Low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "In your opinion, the role of public transport in improving the comprehensive carrying capacity of a city:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "In your opinion, the regulatory system of public transport industry:",
+    "options": [
+      "It's perfect",
+      "Relatively perfect",
+      "General",
+      "Not perfect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "The role of public transport in promoting coordinated urban development in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "What is your opinion on the service quality supervision mechanism of public transport:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "The role of public transport in promoting urban modernization in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "How do you feel about industry self-regulation in public transport?",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "The role of public transport in enhancing urban public safety in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Your evaluation of the emergency rescue capability of public transport is:",
+    "options": [
+      "Very strong",
+      "Relatively strong",
+      "General",
+      "Weak"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "The role of public transport in promoting the construction of urban ecological civilization",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Do you think the development prospects of public transport industry:",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "The role of public transport in enhancing the vitality of urban development in your opinion:",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "small"
+    ],
+    "correctAnswer": ""
+  }
+]

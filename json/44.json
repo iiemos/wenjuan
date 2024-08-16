@@ -1,0 +1,887 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you buy cat food?",
+    "options": [
+      "Once A week",
+      "Once every two weeks",
+      "Once a month",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Which packaging of cat food do you usually choose to buy?",
+    "options": [
+      "In bags",
+      "Canning",
+      "Bulk",
+      "Gift box"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is the most important factor you pay attention to when buying cat food?",
+    "options": [
+      "Price",
+      "Brand",
+      "Ingredients",
+      "Word of mouth"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Will you choose domestic cat food or imported cat food?",
+    "options": [
+      "Domestic",
+      "Import"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What do you buy cat food for?",
+    "options": [
+      "Young cats",
+      "Adult cats",
+      "Elderly cats",
+      "For all ages"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you care about the protein content of cat food?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following cat food flavors is your cat's favorite?",
+    "options": [
+      "Chicken flavor",
+      "Fish taste",
+      "Beef flavor",
+      "Mix flavors"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What is your budget for buying cat food?",
+    "options": [
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "More than $200"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Where do you usually buy cat food?",
+    "options": [
+      "Pet stores",
+      "Supermarkets",
+      "E-commerce platform",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Will you choose gluten-free cat food?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Will you buy cat food because of the promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Which of the following ingredients would you like to have higher levels of in your cat food?",
+    "options": [
+      "Vitamins",
+      "Minerals",
+      "Dietary fiber",
+      "Probiotics"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Will you choose natural grain or commercial grain?",
+    "options": [
+      "Natural foods",
+      "Commercial grain"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you think the grain size of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Would you buy cat food with added fish oil?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Will you choose dry food or wet food?",
+    "options": [
+      "Dry food",
+      "Wet food"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following brands of cat food have you purchased?",
+    "options": [
+      "The Royal Family",
+      "Desire",
+      "Suleko",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Will you buy cat food with specific functions, such as grooming and removing hairballs?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you think the smell of cat food has any influence on your choice?",
+    "options": [
+      "Very large impact",
+      "It has certain influence",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you buy cat food because of its packaging design?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you choose cat food containing preservatives?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Which of the following cat food shapes do you prefer?",
+    "options": [
+      "Round",
+      "Triangle",
+      "Square",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you buy organic cat food?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you think the color of cat food will affect your choice?",
+    "options": [
+      "Very large impact",
+      "It has certain influence",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you choose cat food that contains grain?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Will you buy prebiotic cat food?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Which of the following cat food textures do you prefer?",
+    "options": [
+      "Crispy",
+      "Soft",
+      "Chewy",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you choose hypoallergenic cat food?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you buy cat food because it is advertised?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you think the grain uniformity of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Would you choose cat food containing Chinese herbal medicine?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Will you buy taurine added cat food?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Which of the following cat foods do you think your cat would prefer?",
+    "options": [
+      "Crispy",
+      "Soft and waxy",
+      "Be resilient",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Would you choose a cat food containing astaxanthin?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you buy cat food on the recommendation of a friend?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you think the shelf life of cat food has any influence on your choice?",
+    "options": [
+      "Very large impact",
+      "It has certain influence",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Would you choose a cat food containing lecithin?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you buy cat food with added amino acids?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Which of the following cat food flavors do you think your cat would prefer?",
+    "options": [
+      "It smells fishy",
+      "The smell is strong",
+      "Light taste",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Would you choose cat food containing cranberries?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you buy cat food because of where it comes from?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think the grain hardness of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Would you choose a cat food containing lactoferrin?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Would you buy cat food with added nucleotides?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Which of the following cat food colors do you find more attractive?",
+    "options": [
+      "Golden yellow",
+      "Dark brown",
+      "Light pink",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Would you choose cat food containing yucca extract?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you buy cat food because of its brand awareness?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think the grain size uniformity of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you choose cat food containing glucan?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you buy cat food with L-carnitine added?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which of the following cat foods do you prefer for surface smoothness?",
+    "options": [
+      "It's very smooth",
+      "Slightly rough",
+      "Not too concerned",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Would you choose cat food containing shrimp shell powder?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you buy cat food because of a spokesperson?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think the variety of grain shapes in cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Would you choose a cat food containing green lip mussels?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you buy cat food with added medium-chain triglycerides?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Which of the following cat food storage methods do you find more convenient?",
+    "options": [
+      "Sealable bag",
+      "Seal the jar",
+      "Self-sealing packaging",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Would you choose cat food containing chitosan?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Will you buy cat food because of the packaging material?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the grain dryness of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you choose cat food containing psyllium seeds?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you buy cat food with evening primrose oil?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Which of the following cat food has a more reasonable shelf life after opening?",
+    "options": [
+      "One month",
+      "Two months",
+      "Three months",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Would you choose cat food containing pumpkin seeds?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you buy cat food because of its brand image?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think the crispness of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Would you choose cat food containing flaxseed?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you buy cat food with added conjugated linoleic acid?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Which of the following cat food sealing methods do you think is more stringent?",
+    "options": [
+      "Zipper type",
+      "Clip type",
+      "Tape type",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you choose cat food containing alfalfa?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you buy cat food because of its brand history?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you think the grain fat of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Would you choose a cat food containing chicory root?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Would you buy cat food with chondroitin sulfate added?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Which of the following cat food packaging patterns do you prefer?",
+    "options": [
+      "Cute cat image",
+      "Clean lines",
+      "Rich colors",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Would you choose cat food containing brewer's yeast?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you buy cat food because of its brand reputation?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you think the grain fullness of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Would you choose cat food containing kelp powder?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Will you buy cat food with glucosamine added?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "Do you think the grain gloss of cat food is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  }
+]

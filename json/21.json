@@ -1,0 +1,773 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you buy shoes?",
+    "options": [
+      "More than once A week",
+      "Once a month",
+      "Once a quarter",
+      "Once a year or less"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What do you pay more attention to when buying shoes?",
+    "options": [
+      "Brand",
+      "Style",
+      "Price",
+      "Comfort"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Which of the following places do you usually buy shoes from?",
+    "options": [
+      "Specialty Stores",
+      "Shopping malls",
+      "Online shopping platform",
+      "Corner store"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you buy a certain shoe because of an advertisement?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What kind of shoes do you prefer?",
+    "options": [
+      "Leather",
+      "Fabric",
+      "Rubber",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Which color do you prefer when buying shoes?",
+    "options": [
+      "Black",
+      "White",
+      "Color",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Do you buy limited edition shoes?",
+    "options": [
+      "Definitely will",
+      "The price is right",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What do you think is a reasonable price range for a pair of shoes?",
+    "options": [
+      "Less than 100",
+      "100-300",
+      "301-500",
+      "More than 500"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you buy shoes considering how easy it is to match your outfit?",
+    "options": [
+      "Very much",
+      "Comparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which style of shoes do you prefer to buy?",
+    "options": [
+      "Leisure",
+      "Exercise",
+      "Formal",
+      "Fashion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you buy different types of shoes because of the seasons?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you buy used shoes?",
+    "options": [
+      "Buy it often",
+      "Occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you use your friends' advice when buying shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you think the quality of the shoes is more important or the appearance?",
+    "options": [
+      "Quality",
+      "Appearance",
+      "Both are equally important",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Would you buy shoes because of the brand spokesperson?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Which sole material do you prefer?",
+    "options": [
+      "Rubber sole",
+      "Air cushion bottom",
+      "Wooden base",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you pay attention to environmental performance when you buy shoes?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you buy customized shoes?",
+    "options": [
+      "Definitely will",
+      "The price is right",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you think the packaging of shoes has an impact on your purchasing decision?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you prefer to buy domestic shoes or imported shoes?",
+    "options": [
+      "Domestic",
+      "Import",
+      "It doesn't matter",
+      "It depends on the specific situation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you buy shoes you didn't intend to buy because of shoe promotions?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you consider whether your shoes are waterproof when you buy them?",
+    "options": [
+      "Very much",
+      "Comparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Which heel height do you prefer?",
+    "options": [
+      "Flat heels",
+      "Low heel (1-3 cm)",
+      "Middle heel (3-5 cm)",
+      "High heels (5 cm or more)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you buy children's shoes for yourself (if you like the style)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think the breathability of shoes is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Will you buy the shoes of celebrities?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you consider non-slip when buying shoes?",
+    "options": [
+      "Very much",
+      "Comparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Which type of shoelace do you prefer?",
+    "options": [
+      "Traditional shoelaces",
+      "Velcro",
+      "No shoelaces",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you buy height raising shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you think the weight of your shoes has an impact on your wearing experience?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Would you buy hand-painted shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you pay attention to wear resistance when you buy shoes?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Which toe shape do you prefer?",
+    "options": [
+      "Round head",
+      "The pointy end",
+      "Square head",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you buy vintage shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you think the after-sales service of shoes is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Would you buy smart shoes (such as step-counting)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "When you buy shoes, do you consider whether they are easy to clean?",
+    "options": [
+      "Very much",
+      "Comparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Which vamp pattern do you prefer?",
+    "options": [
+      "Solid colors",
+      "Stripes",
+      "Printing",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you buy handmade shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think the size standard of shoes has an impact on your purchasing decision?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Will you buy shoes with special features (such as corrective insoles)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you pay attention to shock absorption when you buy shoes?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Which upper height do you prefer?",
+    "options": [
+      "Low help",
+      "Middle Gang",
+      "High Top",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you buy anime co-branded shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you think the brand history of shoes is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Would you buy shoes with metal trim?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "When you buy shoes, do you consider whether they are light?",
+    "options": [
+      "Very much",
+      "Comparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+
+  {
+    "id": 48,
+    "question": "Which tread do you prefer?",
+    "options": [
+      "Straight lines",
+      "Curve lines",
+      "Grid lines",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you buy designer shoes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you think the origin of shoes has an impact on your purchasing decision?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you buy shoes made of environmentally friendly materials?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you care if your shoes are deodorant when you buy them?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Which insole material do you prefer?",
+    "options": [
+      "Sponge",
+      "Latex",
+      "Memory pad",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Would you buy shoes with glow-in-the-dark features?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the manufacturing process of shoes is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Would you buy shoes with smart tracking?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you consider whether shoes are warm when you buy them?",
+    "options": [
+      "Very much",
+      "ComparComparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Which tongue design do you prefer?",
+    "options": [
+      "Short tongue",
+      "Middle shoe tongue",
+      "Long tongue",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Would you buy shoes with music playback?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the brand awareness of shoes has an impact on your purchasing decision?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you buy shoes with massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "When you buy shoes, do you pay attention to whether they breathe and absorb sweat?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Which shoe interior design do you prefer?",
+    "options": [
+      "Loose",
+      "Moderate",
+      "Compact",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you buy shoes with heating?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you think the color of shoes is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you buy shoes with positioning function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "When you buy shoes, do you consider whether they are easy to store?",
+    "options": [
+      "Very much",
+      "Comparative consideration",
+      "Think about it occasionally",
+      "Don't consider it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Which heel shape do you prefer?",
+    "options": [
+      "Skinny heels",
+      "Chunky heels",
+      "Wedges",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you buy shoes with projection function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think the speed of shoe style update has an impact on your purchase decision?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  }
+]

@@ -1,0 +1,865 @@
+[
+  {
+    "id": 1,
+    "question": "Do you have any investment experience?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "The main purpose of your investment is:",
+    "options": [
+      "Asset appreciation",
+      "Pension reserve",
+      "Children's education",
+      "Short-term profit",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "The main sources of your investment funds are:",
+    "options": [
+      "Personal savings",
+      "Salary income",
+      "Borrowing",
+      "Family support",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "When you first came into contact with investment:",
+    "options": [
+      "Within 1 year",
+      "1-3 years",
+      "3-5 years",
+      "5-10 years",
+      "More than 10 years"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Your average annual investment as a percentage of your annual income is:",
+    "options": [
+      "Less than 10 per cent",
+      "10% - 20%",
+      "20% - 30%",
+      "30% - 50%",
+      "More than 50 per cent"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you make a detailed investment plan before investing?",
+    "options": [
+      "Definitely will",
+      "Usually",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following ways do you get investment information?",
+    "options": [
+      "Financial news",
+      "Investment books",
+      "Internet forums",
+      "Professional investment advisor",
+      "Recommendations from friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Which of the following investment products do you think has the highest risk?",
+    "options": [
+      "Stocks",
+      "Funds",
+      "Bonds",
+      "Futures",
+      "Foreign Exchange"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Which of the following investment products do you think has the highest return?",
+    "options": [
+      "Stocks",
+      "Funds",
+      "Bonds",
+      "Futures",
+      "Foreign Exchange"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How often do you invest in stocks?",
+    "options": [
+      "Trade daily",
+      "Several times a week",
+      "Several times a month",
+      "Several times a year",
+      "Rarely trade"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "The factors you look for most when choosing a stock are:",
+    "options": [
+      "Company performance",
+      "Industry prospects",
+      "Stock price fluctuations",
+      "Macroeconomics",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "The types of funds you invest in are:",
+    "options": [
+      "Equity funds",
+      "Bond funds",
+      "Hybrid funds",
+      "Money funds",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "The factors you look for most when choosing a fund are:",
+    "options": [
+      "Fund manager performance",
+      "Fund size",
+      "Rates",
+      "Investment strategy",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Your main purpose of investing in bonds is to:",
+    "options": [
+      "Stable earnings",
+      "Asset allocation",
+      "Short-term capital turnover",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What is your experience in investing in futures:",
+    "options": [
+      "Enrichment",
+      "Have some experience",
+      "Try small amounts",
+      "Never set foot in"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "The main ways you invest in forex are:",
+    "options": [
+      "Bank foreign exchange transactions",
+      "Foreign exchange margin trading",
+      "Foreign exchange futures",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Have you ever invested in real estate?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "If investing in real estate, your main purpose is to:",
+    "options": [
+      "Long-term rental",
+      "Short-term speculation",
+      "Self-occupancy and investment",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What is your opinion on gold investment:",
+    "options": [
+      "is an important store of value",
+      "It has certain investment value",
+      "The risk is high",
+      "Not considering investment"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Have you ever invested in insurance products as an investment tool?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "The main purpose of your investment in insurance products is:",
+    "options": [
+      "Security first, taking into account investment",
+      "Mainly pursue investment returns",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "In terms of investment risk tolerance, you consider yourself to be:",
+    "options": [
+      "High risk tolerance",
+      "Medium and high risk tolerance",
+      "Moderate risk tolerance",
+      "Medium-low risk tolerance",
+      "Low risk tolerance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What you can do when you lose money on your investment:",
+    "options": [
+      "Cut your losses immediately",
+      "Wait for the rebound",
+      "Additional investment",
+      "At a loss"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "In your opinion, the most important factors affecting investment returns are:",
+    "options": [
+      "Macroeconomic situation",
+      "Industry development",
+      "Fundamentals of the company",
+      "Policies and regulations",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you invest according to market hot spots?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What is your understanding of portfolio diversification?",
+    "options": [
+      "Very important, active configuration",
+      "More important, due consideration",
+      "Average, not very concerned",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you understand quantitative investment strategies?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Yes",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What is your attitude towards investing in emerging industries (such as artificial intelligence intelligence, blockchain, etc.) :",
+    "options": [
+      "Be actively involved",
+      "Watch carefully",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you refer to the research reports of professional institutions when investing?",
+    "options": [
+      "Definitely will",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "In your opinion, the key to investment success lies in:",
+    "options": [
+      "Expertise",
+      "Luck",
+      "Market timing",
+      "Stick with it for the long haul",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Have you ever invested in overseas markets?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "If investing in overseas markets, the main regions you choose are:",
+    "options": [
+      "European and American markets",
+      "Asia Pacific market",
+      "Emerging markets",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What is your opinion on investing in private funds?",
+    "options": [
+      "High income, willing to participate",
+      "High risk, consider carefully",
+      "Do not understand, do not consider"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Will you invest in startups?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What percentage of your family or friends' opinions influence your investment decisions:",
+    "options": [
+      "Big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you invest in art or collectibles?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "If investing in art or collectibles, your main categories of interest are:",
+    "options": [
+      "Painting and Calligraphy",
+      "Porcelain",
+      "Jewelry",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What is your attitude towards investing in pension target funds?",
+    "options": [
+      "Very interested",
+      "It can be considered",
+      "Not paying much attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "In your opinion, the best time to invest is:",
+    "options": [
+      "Market trough",
+      "The market is stable",
+      "The market is booming",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Will you invest in green energy-related projects?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What is your understanding of investing in convertible bonds?",
+    "options": [
+      "Very familiar",
+      "Better understand",
+      "Know a thing or two",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "In your opinion, the most important psychological qualities for investment are:",
+    "options": [
+      "Calm and calm",
+      "Make decisive decisions",
+      "Be optimistic and positive",
+      "Wait patiently",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you invest in structured funds?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "What is your opinion on investing in NEEQ stocks:",
+    "options": [
+      "It has potential and is worth the investment",
+      "High risk, choose carefully",
+      "Do not understand, do not consider"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you pay attention to corporate social responsibility performance when investing?",
+    "options": [
+      "Definitely will",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you invest in REITs (Real Estate Investment Trusts)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "In your opinion, the importance of investing in education is:",
+    "options": [
+      "Very important, keep learning",
+      "More important, study properly",
+      "General, occasional study",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "What is your attitude towards investing in virtual currencies?",
+    "options": [
+      "Be actively involved",
+      "Wait-and-see attitude",
+      "Never touch"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you consider the impact of macro policies when investing?",
+    "options": [
+      "Definitely will",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you invest in index funds?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "The main reasons you choose an index fund are:",
+    "options": [
+      "Low cost",
+      "Spread the risk",
+      "Track market performance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you invest in precious metals (other than gold)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What is your opinion on investing in crowdfunding projects:",
+    "options": [
+      "Innovative and willing to experiment",
+      "Big risk, do not consider",
+      "No idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "In your opinion, the stop loss setting in the investment should:",
+    "options": [
+      "Strict implementation",
+      "Make appropriate adjustments",
+      "No stop loss"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you invest in preferred stock?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "What is your interest in investing in the stocks of the Science and Technology Board?",
+    "options": [
+      "Big",
+      "In general",
+      "Smaller",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you refer to technical analysis indicators when investing?",
+    "options": [
+      "Definitely will",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Will you invest in a convertible bond fund?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "In your opinion, the expected long-term rate of return of investment is:",
+    "options": [
+      "Less than 5%",
+      "5% - 10%",
+      "10% - 15%",
+      "More than 15%"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you invest in bank wealth management products?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What you pay most attention to when choosing bank financial products are:",
+    "options": [
+      "Yield",
+      "Risk level",
+      "Investment period",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Will you invest in Treasury reverse repos?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What are your views on investing in Hong Kong stocks?",
+    "options": [
+      "More opportunities, active participation",
+      "High risk, choose carefully",
+      "Do not understand, do not consider"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you invest in quantitative hedge funds?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "In your opinion, the most important thing in investment is control:",
+    "options": [
+      "Risk",
+      "Revenue",
+      "Cost",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you invest in FOF (Fund of Funds)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Your interest in investing in private equity is:",
+    "options": [
+      "Big",
+      "In general",
+      "Smaller",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you pay attention to the impact of the international political situation when investing?",
+    "options": [
+      "Definitely will",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you invest in commodity futures?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "In your opinion, after successful investment, you should:",
+    "options": [
+      "Continue to increase investment",
+      "Maintain current size",
+      "Appropriate reduction of investment",
+      "Exit all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you invest in closed-end funds?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "What are your views on investing in local government bonds?",
+    "options": [
+      "Safe and reliable, willing to invest",
+      "Low income, not much consideration",
+      "No idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you consider the governance structure of your business when investing?",
+    "options": [
+      "Definitely will",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Will you invest in a convertible bond arbitrage strategy?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "In your opinion, the main reasons for investment failure are:",
+    "options": [
+      "Lack of knowledge",
+      "Blindly follow the trend",
+      "Poor state of mind",
+      "Bad luck",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Will you invest in gold futures?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "What is your understanding of investing in exchangeable bonds?",
+    "options": [
+      "Very familiar",
+      "Better understand",
+      "Know a thing or two",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you pay attention to your company's R&D investment when investing?",
+    "options": [
+      "Definitely will",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Do you invest in financial derivatives (options, swaps, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "In your opinion, investment should pay more attention to:",
+    "options": [
+      "Short-term gains",
+      "Long-term value",
+      "Be balanced"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "Your confidence in the future investment market is:",
+    "options": [
+      "Very confident",
+      "More confident",
+      "Average confidence",
+      "Not very confident",
+      "Lack of confidence"
+    ],
+    "correctAnswer": ""
+  }
+]

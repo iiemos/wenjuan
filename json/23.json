@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you buy jewelry?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is the main reason you buy jewelry?",
+    "options": [
+      "Decorate yourself",
+      "Give it as a gift",
+      "Collection",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What kind of jewelry do you prefer to buy?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Gemstones",
+      "Pearls"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What is the first factor you consider when buying jewelry?",
+    "options": [
+      "Style",
+      "Price",
+      "Brand",
+      "Quality"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Which style of jewelry do you prefer?",
+    "options": [
+      "Simplicity",
+      "Gorgeous",
+      "Retro",
+      "Fashion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "When do you usually wear jewelry?",
+    "options": [
+      "Routine",
+      "Party",
+      "Formal occasions",
+      "Special holidays"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is your general jewelry budget?",
+    "options": [
+      "Less than 500",
+      "500-1000",
+      "1001-5000",
+      "More than 5000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What are your main channels for obtaining jewelry information?",
+    "options": [
+      "Physical stores",
+      "Network platform",
+      "Recommended by friends",
+      "Advertising"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you prefer to buy branded or non-branded jewelry?",
+    "options": [
+      "Branded jewelry",
+      "Non-branded jewelry",
+      "It doesn't matter, just the style and quality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you pay more attention to jewelry design?",
+    "options": [
+      "Uniqueness",
+      "Classic",
+      "Fashion trends",
+      "Personalization"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you think the packaging of jewelry is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you buy jewelry because of the promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you customize jewelry?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "How much care do you pay to your jewelry?",
+    "options": [
+      "Attach great importance to regular maintenance",
+      "More attention, occasional maintenance",
+      "Not much attention, little maintenance",
+      "Totally dismissive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What type of necklace do you prefer to buy?",
+    "options": [
+      "Short necklace",
+      "Mid-length necklace",
+      "Long necklace",
+      "Set chain"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you pay more attention when buying a ring?",
+    "options": [
+      "Diamond size",
+      "Ring rest style",
+      "The meaning of the ring",
+      "Brand awareness"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What is your preference for earrings?",
+    "options": [
+      "Stud earrings",
+      "Earrings",
+      "Earrings",
+      "It's all right"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "What kind of themed jewelry do you like?",
+    "options": [
+      "Animals",
+      "Plants",
+      "Constellations",
+      "Abstract patterns"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you think the color of your jewelry has a big impact on your purchase decision?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "Not big"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you buy used jewelry?",
+    "options": [
+      "Yes, it is cost-effective",
+      "Maybe, it depends",
+      "No, do not trust the quality",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you value the inlaying process of jewelry?",
+    "options": [
+      "Very important",
+      "More important",
+      "General",
+      "Not too much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you find the brand story of jewelry appealing to you?",
+    "options": [
+      "Very attractive",
+      "It has a certain appeal",
+      "Not very attractive",
+      "Totally unattractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you prefer to buy domestic jewelry or imported jewelry?",
+    "options": [
+      "Domestic jewelry",
+      "Imported jewelry",
+      "It doesn't matter, it depends on quality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you care about the after-sale service of your jewelry?",
+    "options": [
+      "Very concerned",
+      "More concerned",
+      "Not too concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you buy jewelry because celebrities wear it?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you pay more attention when buying a bracelet?",
+    "options": [
+      "Material",
+      "Style",
+      "Size",
+      "Price"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you value the preservation function of jewelry?",
+    "options": [
+      "Very important",
+      "More important",
+      "General",
+      "Not too much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What kind of jewelry-set jewelry do you prefer to buy?",
+    "options": [
+      "Diamonds",
+      "Rubies",
+      "Sapphire",
+      "Jade"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you think the size of the jewelry is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you buy limited edition jewelry?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "How much attention do you pay to the details of the jewelry process?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What do you consider when buying a brooch?",
+    "options": [
+      "Styling",
+      "Uses",
+      "Material",
+      "Price"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What kind of necklace chain do you prefer?",
+    "options": [
+      "Gold chain",
+      "Silver chain",
+      "Leather rope",
+      "Silk thread"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you think the brand image of jewelry will affect your purchase?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Which style of bracelet would you prefer to buy?",
+    "options": [
+      "Wide bracelets",
+      "Thin bracelet",
+      "Hollow bracelet",
+      "Solid bracelet"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "How receptive are you to innovative jewelry designs?",
+    "options": [
+      "Very receptive",
+      "More accepting",
+      "General",
+      "Not very receptive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you pay more attention when buying hair accessories?",
+    "options": [
+      "Style",
+      "Color",
+      "Material",
+      "Wearing comfort"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you think the weight of the jewelry has a big impact on your feeling?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "Not big"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What kind of gemstone do you prefer to buy for a ring?",
+    "options": [
+      "Emeralds",
+      "Cat's eye",
+      "Tourmaline",
+      "Garnet"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you value the cultural connotation of jewelry?",
+    "options": [
+      "Very important",
+      "More important",
+      "General",
+      "Not too much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you pay more attention when buying anklets?",
+    "options": [
+      "Length",
+      "Style",
+      "Material",
+      "Price"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think the popularity of jewelry designers is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Which metal earrings would you prefer to buy?",
+    "options": [
+      "Gold",
+      "White gold",
+      "Titanium steel",
+      "Copper"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you care about the moral interpretation of jewelry?",
+    "options": [
+      "Very concerned",
+      "More concerned",
+      "General",
+      "Not too concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you prefer to buy necklace pendants?",
+    "options": [
+      "Heart shape",
+      "Round",
+      "Square",
+      "Irregular shape"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you think the difficulty of making jewelry will affect your purchase?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Which style of bracelet do you prefer?",
+    "options": [
+      "National style",
+      "Western style",
+      "Japanese and Korean style",
+      "Chinese style"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you have high requirements for matching jewelry?",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "Not high"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you pay more attention to headwear?",
+    "options": [
+      "Decorative effect",
+      "Practicality",
+      "Quality",
+      "Price"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you think it is important that the jewelry brand has a long history?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which type of setting do you prefer to buy?",
+    "options": [
+      "Claw set",
+      "Bag setting",
+      "Force insert",
+      "Track mounting mounting"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Are you interested in personalized jewelry customization?",
+    "options": [
+      "Very interested",
+      "More interested",
+      "General",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you pay more attention to the chain when buying a necklace?",
+    "options": [
+      "Thickness",
+      "Luster",
+      "Hardness",
+      "Length"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think the brand reputation of jewelry will affect your purchase?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "What kind of bracelet would you prefer to buy?",
+    "options": [
+      "Jade",
+      "Agate",
+      "Wood",
+      "Glass"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you care about the way the jewelry brand is promoted?",
+    "options": [
+      "Very concerned",
+      "More concerned",
+      "General",
+      "Not too concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you pay more attention to earrings?",
+    "options": [
+      "Match with hair style",
+      "Match with clothing",
+      "Match skin tone",
+      "Match with face shape"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you think the brand positioning of jewelry has an impact on your purchasing decision?",
+    "options": [
+      "It has A great impact",
+      "It has certain influence",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Which style of brooch do you prefer to buy?",
+    "options": [
+      "Lovely wind",
+      "Elegant wind",
+      "Personality style",
+      "Business style"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you care about the brand spokesperson of jewelry?",
+    "options": [
+      "Very concerned",
+      "More concerned",
+      "General",
+      "Not too concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Are you more concerned when buying hair clips?",
+    "options": [
+      "Clamping force",
+      "Exterior design",
+      "Material quality",
+      "Price level"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you think the brand awareness of jewelry is directly proportional to the price?",
+    "options": [
+      "In direct proportion",
+      "It's basically proportional",
+      "Not necessarily in direct proportion",
+      "Totally out of proportion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What kind of anklet would you prefer to buy?",
+    "options": [
+      "Pearls",
+      "Crystals",
+      "Jade",
+      "Metal"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you agree with the brand marketing strategy of jewelry?",
+    "options": [
+      "I can't agree more",
+      "More agree",
+      "General",
+      "Disagree"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you care more about pendants when buying necklaces?",
+    "options": [
+      "Weight",
+      "Process",
+      "Meaning",
+      "Size"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think the social responsibility of jewelry brands is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Which style of headwear do you prefer to buy?",
+    "options": [
+      "Classical style",
+      "Modern style",
+      "Simple style",
+      "Luxury style"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "How do you evaluate the after-sales service of jewelry brands?",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you pay more attention to beads when buying bracelets?",
+    "options": [
+      "Material",
+      "Color",
+      "Shape",
+      "Size"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think the future trends of jewelry brands will affect your purchases?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  }
+]

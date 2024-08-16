@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "question": "How many times you brush your teeth per day:",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "More than three times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Each time you brush your teeth:",
+    "options": [
+      "Less than A minute",
+      "1-2 minutes",
+      "2-3 minutes",
+      "At least 3 minutes"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Type of toothbrush you use:",
+    "options": [
+      "Regular toothbrush",
+      "Electric toothbrush",
+      "Sonic toothbrush",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you floss:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Every day"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you change your toothbrush regularly:",
+    "options": [
+      "Never",
+      "About three months",
+      "About two months",
+      "About one month"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Have you ever had tooth decay:",
+    "options": [
+      "Never",
+      "I've had one or two",
+      "Had 3-5",
+      "More than 5 tablets"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Have you ever had a filling:",
+    "options": [
+      "No",
+      "Once or twice",
+      "3-5 times",
+      "More than 5 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Have you ever had a root canal treatment:",
+    "options": [
+      "No",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Have you ever had a tooth extraction:",
+    "options": [
+      "No",
+      "One or two",
+      "3-5 pills",
+      "More than 5 tablets"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you have bleeding gums:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you have sore and swollen gums?",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you have a bad breath problem:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+           "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you have regular oral check-ups:",
+    "options": [
+      "Never",
+      "Once every 1-2 years",
+      "Semi-annually - once a year",
+      "Once every three to six months"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "The main factors to consider when choosing a dentist:",
+    "options": [
+      "Close distance",
+      "Good reputation",
+      "The price is cheap",
+      "Advanced equipment"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you know the correct way to brush your teeth:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you know how to choose the right toothpaste for you:",
+    "options": [
+      "Very clear",
+      "Know a little",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Have you ever had a dental problem that prevented you from eating:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Have you ever had a dental problem that interfered with your sleep:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Have you ever had a dental problem that interfered with work or school:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Have you ever felt anxious or low self-esteem because of dental problems:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you know about orthodontics:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Have you ever considered orthodontics:",
+    "options": [
+      "Never",
+      "Thought, but did not act",
+      "Correction is under way",
+      "Correction has been completed"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you know about dental implants:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Have you ever considered dental implants:",
+    "options": [
+      "Never",
+      "Thought, but did not act",
+      "Thinking about it",
+      "Already planted"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you know the method of teeth whitening:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Have you ever had your teeth whitened:",
+    "options": [
+      "Never",
+      "Once or twice",
+      "Three to five times",
+      "More than 5 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you know about wisdom teeth:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Have you ever seen a doctor for a wisdom tooth problem:",
+    "options": [
+      "Never",
+      "Yes, but not handled",
+      "It has been removed",
+      "Under treatment"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you know the importance of dental care for children:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you take your child for regular oral checkups:",
+    "options": [
+      "Never",
+      "Once every 1-2 years",
+      "Semi-annually - once a year",
+      "Once every three to six months"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you know the elderly dental care precautions:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you care about your family's dental health:",
+    "options": [
+      "Very concerned",
+      "Occasional attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you think oral health has an impact on overall health?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you change your eating habits because of dental problems:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Would you recommend a good dentist to a friend:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Have you ever changed your dentist because of poor service attitude:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you think the skill level of a dentist is the most important factor in choosing a dentist:",
+    "options": [
+      "Absolutely",
+      "It's more important",
+      "Generally important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Have you ever felt nervous or scared during a visit to the dentist:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think the dentist's communication skills are important:",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Generally important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Have you ever had to take time off work because of dental problems:",
+    "options": [
+      "Never",
+      "Once or twice",
+      "Three to five times",
+      "More than 5 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Have you ever spent a lot of money because of dental problems:",
+    "options": [
+      "Never",
+      "Yes, but not many",
+      "Yes, more",
+      "Yes, a lot"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you know about dental insurance:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Have you ever purchased dental insurance:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think dental insurance is necessary to:",
+    "options": [
+      "Very necessary",
+      "It is necessary",
+      "Not necessary",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Have you ever searched the Internet for dental health related knowledge:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you follow the news and trends of the dental industry:",
+    "options": [
+      "Very concerned",
+      "Occasional attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Have you ever attended a dental health related lecture or event:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think the government should strengthen the promotion and education of dental health:",
+    "options": [
+      "Very much",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Have you ever felt pain due to dental problems:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you think dental health is related to quality of life:",
+    "options": [
+      "Absolutely relevant",
+      "Relative",
+      "Somewhat related",
+      "Totally irrelevant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you know how to prevent periodontitis:",
+    "options": [
+      "Very clear",
+      "Know something about it",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Have you ever had a dental problem that interfered with social interaction:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you know the causes of dental allergies and how to deal with them:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Have you ever missed an important opportunity because of dental problems:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think regular dental cleaning is good for dental health?",
+    "options": [
+      "It's very beneficial",
+      "It has certain benefits",
+      "Not sure",
+      "No benefit"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Have you ever received a dental cleaning service:",
+    "options": [
+      "Never",
+      "Once or twice",
+      "Three to five times",
+      "More than 5 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you know about dental veneers:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Have you ever considered dental veneers:",
+    "options": [
+      "Never",
+      "Thought, but did not act",
+      "Thinking about it",
+      "It has been carried out"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you know the best age for oral orthodontics:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Have you ever been bothered by irregular teeth:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you think the beauty of your teeth is important for your personal image?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Generally important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you know the materials and methods of dental restoration:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Have you ever had a dental problem that affected your mood:",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often",
+      "Always"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think dental health needs attention from an early age:",
+    "options": [
+      "Absolutely",
+      "More need",
+      "General needs",
+      "No need"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you know the effect of fluoride on children's teeth:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Whether you will have your child's teeth fluoridated:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you know the related knowledge of dental cavity and groove closure:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you have your child undergo dental cavity sealing:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you think the dentist should provide a personalized treatment plan:",
+    "options": [
+      "Absolutely",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Have you ever had a question about your dentist's treatment plan:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you think dentists should be constantly learning and updating their knowledge:",
+    "options": [
+      "Absolutely",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Have you ever been confused about a treatment because your dentist's explanation wasn't clear:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you think dentists should have good professional ethics:",
+    "options": [
+      "Absolutely",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Have you ever met a dentist with a good work ethic:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you think the dentist's work environment can affect the effectiveness of treatment:",
+    "options": [
+      "Absolutely",
+      "It might",
+      "Not sure",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Have you ever chosen another dentist because of a bad working environment:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you think dentists should be good team players:",
+    "options": [
+      "Absolutely",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Have you ever been dissatisfied with your treatment because your dental team didn't work well together:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Do you think dentists should pay attention to patient privacy protection:",
+    "options": [
+      "Absolutely",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Have you ever been upset that your dentist didn't protect your privacy:",
+    "options": [
+      "Never",
+      "Once",
+      "Two or three times",
+      "More than 3 times"
+    ],
+    "correctAnswer": ""
+  }
+]

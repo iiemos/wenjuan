@@ -19,30 +19,85 @@
   <main class="main">
 
     <section class="slice slice-lg">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div id="startBox" class="card text-center">
-            <div class="card-header">
-              <h4>Questionnaire</h4>
-            </div>
-            <div class="card-body text-center">
-              <h5 class="card-title mb-4"></h5>
-              <p class="card-text mb-4">This questionnaire is mainly to understand your views and understanding of relevant aspects</p>
-              <img style="width: 250px;height: 250px;" src="/assets/images/Untitled.svg" alt="">
-            </div>
-            <div class="card-footer text-muted">
-              <a href="javascript:;" id="startBtn" class="btn btn-primary">Start</a>
-            </div>
+      <header class="container">
+        <div class="header_top d-flex flex-row justify-content-left align-items-center">
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="#FFCA28" d="m7.625 6.4l2.8-3.625q.3-.4.713-.587T12 2t.863.188t.712.587l2.8 3.625l4.25 1.425q.65.2 1.025.738t.375 1.187q0 .3-.088.6t-.287.575l-2.75 3.9l.1 4.1q.025.875-.575 1.475t-1.4.6q-.05 0-.55-.075L12 19.675l-4.475 1.25q-.125.05-.275.063T6.975 21q-.8 0-1.4-.6T5 18.925l.1-4.125l-2.725-3.875q-.2-.275-.288-.575T2 9.75q0-.625.363-1.162t1.012-.763z"/></svg>
+          <div class="pinots_warp" style="font-size: 20px;">200</div>
+          <div class=" ml-4 btn btn-sm btn-light">
+            退出登录
           </div>
-          <div class="row-wrapper col-lg-10">
-            <div class="row cols-xs-space cols-sm-space cols-md-space">
-              <div class="col-lg-12">
-                <div id="questionnaire">
+        </div>
+        <ul class="nav py-4 ml-lg">
+          <li class="nav-item">
+            <a class="nav-link hd_nav" href="javascript:;">Surveys</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hd_nav" href="javascript:;">My Profile</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hd_nav" href="javascript:;">Rewards</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hd_nav" href="javascript:;">Articles</a>
+          </li>
+        </ul>
+      </header>
+      <div class="container">
+        <div class="active_surveys_page_description h-auto w-auto d-flex flex-column flex-md-row">
+          <div class="pt-2 p-3 px-md-4 py-md-1">
+              <img src="./assets/images/survey-check.svg">
+          </div>
+          <div class="study-body">
+              <h4 style="margin-top: 30px;">New studies are ready for you!</h4>
+              <p>Make your valued opinion heard. Start a survey to influence the future and earn up to:</p>
+              <div>
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="#000" d="M16.15 13H5q-.425 0-.712-.288T4 12t.288-.712T5 11h11.15L13.3 8.15q-.3-.3-.288-.7t.288-.7q.3-.3.713-.312t.712.287L19.3 11.3q.15.15.213.325t.062.375t-.062.375t-.213.325l-4.575 4.575q-.3.3-.712.288t-.713-.313q-.275-.3-.288-.7t.288-.7z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="#FFCA28" d="m7.625 6.4l2.8-3.625q.3-.4.713-.587T12 2t.863.188t.712.587l2.8 3.625l4.25 1.425q.65.2 1.025.738t.375 1.187q0 .3-.088.6t-.287.575l-2.75 3.9l.1 4.1q.025.875-.575 1.475t-1.4.6q-.05 0-.55-.075L12 19.675l-4.475 1.25q-.125.05-.275.063T6.975 21q-.8 0-1.4-.6T5 18.925l.1-4.125l-2.725-3.875q-.2-.275-.288-.575T2 9.75q0-.625.363-1.162t1.012-.763z"/></svg>
+                <span style="font-size: 24px; color: #000; font-weight: bold; vertical-align: text-bottom;">
+                 75 - 100 poinits
+                </span>
+              </div>
+              <p>We'll find the best study for your profile</p>
+              <div class="d-flex flex-lg-row flex-column gap-lg-3">
+                <div class="column_button fw-bold mt-4 mb-2">
+                    <a id="startBtn" href="/questionnaire.html">
+                      Start Study
+                    </a>
                 </div>
               </div>
-            </div>
           </div>
+      </div>
+      </div>
 
+      <div class="container mt-5">
+        <hr class="divider divider-fade divider-dark my-6">
+        <div class="row align-items-center justify-content-between">
+          <div class="col-md-4">
+            <span class="navbar-brand mr-2"><strong>Ipsos</strong></span>
+            © 2024 Ipsos
+          </div>
+          <div class="col-md-8">
+            <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
+              <li class="nav-item">
+                <a href="javascript:;">FAQ</a>
+              </li>
+              <li class="nav-item ml-2">
+                <a href="javascript:;">Cookies Policy</a>
+              </li>
+              <li class="nav-item ml-2">
+                <a href="javascript:;">Privacy Policy</a>
+              </li>
+              <li class="nav-item ml-2">
+                <a href="javascript:;">Terms and Conditions</a>
+              </li>
+              <li class="nav-item ml-2">
+                <a href="javascript:;">Partner with Us</a>
+              </li>
+              <li class="nav-item ml-2">
+                <a href="javascript:;">Do not sell my info</a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
@@ -52,119 +107,8 @@
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script>
     $(document).ready(function () {
-      $.getJSON('/json/questions.json', function (data) {
-        // 生成问卷内容
-        data.forEach((q, index) => {
-          const questionHtml = `
-                  <div class="card text-center question-card" data-index="${index}" style="display:none">
-                    <div class="card-header">
-                      <h4>${index + 1}. ${q.question}</h4>
-                    </div>
-                    <div class="card-body">
-                       ${q.options.map((option, idx) => `
-                      <div class="radio_box custom-control custom-radio mb-3">
-                          <input class="custom-control-input" type="radio" name="question${index}" value="${option}" id="${index}${idx}">
-                          <label class="radio_label custom-control-label" for="${index}${idx}">
-                              ${option}
-                          </label>
-                      </div>
-                    `).join('')}
-                    <div class="card-footer text-muted">
-                      <div class="btn-toolbar justify-content-between" role="toolbar">
-                        <div class="btn-group" role="group" aria-label="First group">
-                          <span href="javascript:;" class="btn btn-outline-secondary backBtn">Back</span>
-                        </div>
-                        <div class="input-group">
-                          <span href="javascript:;" class="btn btn-primary nextBtn" ${index === data.length - 1 ? 'id="submitBtn"' : ''}>
-                            ${index === data.length - 1 ? 'Submit' : 'Next'}
-                          </span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              `;
-          $('#questionnaire').append(questionHtml);
-        });
-
-        // 点击Start按钮后，开始问卷
-        $('#startBtn').click(function () {
-          $('#startBox').hide();
-          startQuestionnaire();
-        });
-
-        function startQuestionnaire() {
-          // 显示第一题
-          $('.question-card').hide();
-          $('.question-card').first().show();
-
-          // 监听Next按钮点击事件
-          $('.nextBtn').click(function () {
-            const currentCard = $(this).closest('.question-card');
-            const nextCard = currentCard.next('.question-card');
-            const selectedOption = currentCard.find('input[type="radio"]:checked').val();
-
-            if (selectedOption) {
-              currentCard.hide();
-              if (nextCard.length > 0) {
-                nextCard.show();
-              } else {
-                $('#submitBtn').click();
-              }
-            }
-          });
-
-          // 监听Back按钮点击事件
-          $('.backBtn').click(function () {
-            const currentCard = $(this).closest('.question-card');
-            const prevCard = currentCard.prev('.question-card');
-            if (prevCard.length > 0) {
-              currentCard.siblings().hide(); // 隐藏所有兄弟元素
-              prevCard.show(); // 显示上一个兄弟元素
-            }
-          });
-
-          // 自动选择随机选项并点击Next按钮
-          let selectTimer = null;
-          let nextTimer = null;
-
-          function autoSelectOptionAndNext(index) {
-            if (index < data.length) {
-              const currentCard = $(`.question-card[data-index="${index}"]`);
-              currentCard.show();
-
-              // 清除之前的定时器
-              if (selectTimer) clearTimeout(selectTimer);
-              if (nextTimer) clearTimeout(nextTimer);
-
-              selectTimer = setTimeout(() => {
-                const options = $(`input[name="question${index}"]`);
-                const randomOptionIndex = Math.floor(Math.random() * options.length);
-                options.eq(randomOptionIndex).prop('checked', true);
-
-                // 增加延迟点击Next按钮
-                nextTimer = setTimeout(() => {
-                  $(`.question-card[data-index="${index}"] .nextBtn`).click();
-                }, 1500); // 点击Next按钮的延迟
-
-              }, 1500); // 增加延迟时间选择选项
-            }
-          }
-
-          let currentIndex = 0;
-          const timer = setInterval(function () {
-            autoSelectOptionAndNext(currentIndex);
-            currentIndex++;
-            if (currentIndex >= data.length) {
-              clearInterval(timer);
-            }
-          }, 4000); // 控制总间隔时间4秒，包含显示、选择和点击的延迟
-        }
-
-        $('#submitBtn').click(function () {
-          // 处理提交的答案
-          window.location.href = 'success.html'
-        });
-      });
+      let poin = localStorage.getItem('points')
+      if(poin) $('.pinots_warp').text(poin)
     });
   </script>
 </body>

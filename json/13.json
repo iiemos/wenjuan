@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "question": "Do you like seafood?",
+    "options":  [
+      "Very much",
+      "Like",
+      "General",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "How many times do you eat seafood per month on average?",
+    "options": [
+      "More than 5 times",
+      "3 to 5 times",
+      "Once or twice",
+      "Hardly eat"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "When do you usually eat seafood?",
+    "options": [
+      "Family dinner",
+      "Friends' party",
+      "Business dinner",
+      "At home alone"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What is your main source of seafood purchase?",
+    "options": [
+      "Seafood market",
+      "Supermarkets",
+      "Buy online",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What do you care most about when choosing seafood?",
+    "options": [
+      "Freshness",
+      "Price",
+      "Varieties",
+      "Origin"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you think the price of seafood is reasonable?",
+    "options": [
+      "Very reasonable",
+      "Reasonable",
+      "It's a little expensive",
+      "It's too expensive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following seafood do you often buy?",
+    "options": [
+      "Shrimp",
+      "Crabs",
+      "Fish",
+      "Shellfish"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you prefer to buy live or frozen seafood?",
+    "options": [
+      "Live seafood",
+      "Frozen seafood",
+      "It doesn't matter",
+      "Look at the specific varieties"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you cook your own seafood?",
+    "options": [
+      "Do it yourself often",
+      "Make it yourself once in a while",
+      "Never cook by himself, only eat out",
+      "Never and don't like it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which cooking style of seafood do you think is the most delicious?",
+    "options": [
+      "Steaming",
+      "Braised in brown sauce",
+      "Frying",
+      "Sashimi"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What is the most common problem you encounter when cooking seafood?",
+    "options": [
+      "Don't know what to do",
+      "Bad cooking time",
+      "Bad seasoning",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Are you aware of the nutritional value of seafood?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What do you think are the biggest health benefits of seafood?",
+    "options": [
+      "Rich in protein",
+      "Low in fat",
+      "Rich in minerals",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Which of the following seafood do you think has the highest nutritional value?",
+    "options": [
+      "Salmon",
+      "Sea cucumber",
+      "Oysters",
+      "Abalone"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you eat more seafood because of its nutritional value?",
+    "options": [
+      "Will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Are you concerned about the food safety of seafood?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following factors do you think has the greatest impact on seafood food safety?",
+    "options": [
+      "Breeding environment",
+      "Transportation process",
+      "Processing method",
+      "Storage conditions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you check the relevant food safety inspection report when purchasing seafood?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "No, but will focus on the brand",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you know how to tell the freshness of seafood?",
+    "options": [
+      "Very clear",
+      "Know some methods",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Which of the following methods do you think is the best way to determine whether seafood is fresh?",
+    "options": [
+      "Look at the appearance",
+      "Smell the smell",
+      "Touch the texture",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you give up buying seafood because of its freshness?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No, as long as it's cheap",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Are you willing to try new seafood varieties?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you know the seasonal characteristics of seafood?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you buy seafood according to the season?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No, just like",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Which of the following seasons do you think is the fattest seafood?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you buy imported seafood?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "What are your main reasons for buying imported seafood?",
+    "options": [
+      "Rich variety",
+      "Good quality",
+      "The price is cheap",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Are you confident about the quality of imported seafood?",
+    "options": [
+      "Very relieved",
+      "More assured",
+      "I'm not sure",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you know some common seafood allergy symptoms?",
+    "options": [
+      "Very clear",
+      "Know some",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you know someone who is allergic to seafood?",
+    "options": [
+      "There are many",
+      "There are a few",
+      "Rarely",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you consider the risk of allergies before eating seafood?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you cut down on seafood because you're worried about allergies?",
+    "options": [
+      "Will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you choose organic seafood?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No, I don't think it's necessary",
+      "Don't know what organic seafood is"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What do you think are the advantages of organic seafood?",
+    "options": [
+      "Safer",
+      "More nutritious",
+      "More environmentally friendly",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Are you willing to pay more for organic seafood?",
+    "options": [
+      "Willing",
+      "Maybe",
+      "No",
+      "Look at the price gap"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you concerned about seafood sustainability?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Which of the following do you think contributes to the sustainable development of seafood?",
+    "options": [
+      "Rational fishing",
+      "Protection of the Marine environment",
+      "Development of aquaculture",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you change your buying habits because of seafood sustainability concerns?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you be attending seafood related events such as Seafood festivals?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "It depends"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What is your main purpose for participating in seafood related activities?",
+    "options": [
+      "Taste the food",
+      "Learn about seafood culture",
+      "Buy seafood products",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you pay attention to the reviews of seafood restaurants?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What is your main reason for choosing a seafood restaurant?",
+    "options": [
+      "Food taste",
+      "Price",
+      "Quality of service",
+      "Environment"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What is the average amount you spend at a seafood restaurant?",
+    "options": [
+      "Under 200",
+      "200 to 500",
+      "500 - 1000",
+      "More than 1000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you satisfied with the hygiene of the seafood restaurant?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Would you recommend your friends to go to your favorite seafood restaurant?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Look at your friend's needs"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you buy a seafood gift box as a gift?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What is the main purpose of buying the seafood gift box?",
+    "options": [
+      "Send friends and family",
+      "Business gifts",
+      "Enjoy by yourself",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you care about the packaging of the seafood gift box?",
+    "options": [
+      "Very concerned",
+      "More concerned",
+      "Not too concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "What do you think is a reasonable price range for a seafood gift box?",
+    "options": [
+      "Under 200",
+      "200 to 500",
+      "500 - 1000",
+      "More than 1000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you buy processed seafood, such as canned seafood, dried seafood products?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "What are your main reasons for buying processed seafood?",
+    "options": [
+      "Convenient storage",
+      "Easy to eat",
+      "The price is cheap",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Are you satisfied with the taste of processed seafood?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Are you reducing your purchase of processed seafood for health reasons?",
+    "options": [
+      "Will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you know the taboo of pairing seafood with other foods?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "When you eat seafood, do you pay attention to food collocation?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Which of the following foods do you think doesn't go well with seafood?",
+    "options": [
+      "Fruit",
+      "Beer",
+      "Vegetables",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Will you change your purchase plan because of the price fluctuation of seafood?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "What do you think is the main reason for the fluctuation of seafood prices?",
+    "options": [
+      "Seasonal factors",
+      "Market supply and demand",
+      "Transportation costs",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy seafood on sale?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No, I'm worried about the quality",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you pay attention to brands when buying seafood?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What do you think are the advantages of well-known brands of seafood?",
+    "options": [
+      "The quality is guaranteed",
+      "Good service",
+      "There are many varieties",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you buy certain seafood products because of brand promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you attend a seafood training course?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "What is the main purpose of your seafood training course?",
+    "options": [
+      "Improve your cooking skills",
+      "Learn new dishes",
+      "Make friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What do you think is a reasonable fee for a seafood training course?",
+    "options": [
+      "Under 200",
+      "200 to 500",
+      "500 - 1000",
+      "More than 1000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you follow seafood related news and information?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "What is your main source of seafood information?",
+    "options": [
+      "Television",
+      "Newspapers and magazines",
+      "Network",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Which of the following seafood related news has attracted you the most?",
+    "options": [
+      "New seafood varieties",
+      "Seafood market dynamics",
+      "Seafood cooking skills",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you cut back on seafood because of negative news related to seafood?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you buy books or magazines about seafood?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "What is your main reason for buying seafood related books and magazines?",
+    "options": [
+      "Learn knowledge",
+      "Look at pictures",
+      "Refer to the recipe",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you share seafood related content on social media?",
+    "options": [
+      "Share often",
+      "Share occasionally",
+      "Rarely share",
+      "Never share"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "What are the main reasons you share seafood related content on social media?",
+    "options": [
+      "Recommend food",
+      "Document your life",
+      "Talk to friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Will you participate in seafood related online events such as online cooking competitions?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Are you satisfied with your seafood online shopping experience?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "What do you think are the main problems in online seafood shopping?",
+    "options": [
+      "Freshness cannot be guaranteed",
+      "Long delivery time",
+      "Few varieties",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Will you purchase seafood related accessories, such as seafood themed tableware and accessories?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "What are your main reasons for buying seafood accessories?",
+    "options": [
+      "Love seafood culture",
+      "As a gift",
+      "Practical",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Would you choose to travel to a city by the sea to taste the local seafood?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "How do you think the seafood in seaside cities is different from the seafood in your city?",
+    "options": [
+      "Fresher",
+      "More varieties",
+      "The price is cheaper",
+      "Other"
+    ],
+    "correctAnswer": ""
+  }
+]

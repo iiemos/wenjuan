@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Over 45 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Business managers",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your monthly income level:",
+    "options": [
+      "Less than 3000 $",
+      "3001-6000 $",
+      "6001-9000 $",
+      "9001-12000 $",
+      "More than 12,000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How long you have owned your computer:",
+    "options": [
+      "Within 1 year",
+      "1-3 years",
+      "3-5 years",
+      "More than 5 years"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "The main uses of your computer:",
+    "options": [
+      "Study/work",
+      "Entertainment (games, movies, etc.)",
+      "Creative design (graphics, videos, etc.)",
+      "Programming development",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your average daily computer use:",
+    "options": [
+      "Less than 1 hour",
+      "1-3 hours",
+      "3-5 hours",
+      "More than 5 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you have multiple computers:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you plan to replace your computer in the next year:",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What computer brands do you know (multiple choices) :",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Asus",
+      "Acer",
+      "Huawei",
+      "Millet",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Which of the following computer brands do you think are internationally renowned (multiple choices) :",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Asus"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Which of the following computer brands do you think are well-known in China (multiple choices) :",
+    "options": [
+      "Association",
+      "Huawei",
+      "Millet",
+      "Shenzhou",
+      "Tsinghua Tongfang"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "How do you learn about computer brands (multiple choices) :",
+    "options": [
+      "Advertising",
+      "Recommended by friends",
+      "Network evaluation",
+      "Physical store experience",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Among the following computer brands, which one do you think has the best brand image?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Among the following computer brands, which one do you think has the highest brand recognition?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "The factors you are most concerned about when buying a computer are:",
+    "options": [
+      "Price",
+      "Performance",
+      "Appearance design",
+      "Brand",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "The price range of computers you can accept is:",
+    "options": [
+      "Less than 3000 $",
+      "3001-5000 $",
+      "5001-8000 $",
+      "8001-12000 $",
+      "More than 12,000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "In terms of computer performance, you are most concerned about:",
+    "options": [
+      "CPU processor",
+      "Video card",
+      "Memory",
+      "Hard disk storage",
+      "Heat dissipation performance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What is your preferred appearance style of computer:",
+    "options": [
+      "Simple business",
+      "Fashionable and light",
+      "The game is cool",
+      "Personalized customization",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Which of the following brands do you think has the best after-sales service?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "The extent to which the following promotions affect your computer purchase:",
+    "options": [
+      "Discount offers",
+      "Giveaways",
+      "Extended warranty",
+      "Trade-in",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "What is your favorite computer brand?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Why do you like this brand (more than one choice) :",
+    "options": [
+      "The product quality is good",
+      "Strong performance",
+      "Beautiful appearance",
+      "Good after-sales service",
+      "Good reputation of the brand",
+      "The price is reasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "What is your least favorite computer brand?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "The reasons why you don't like this brand are (multiple choices can be made) :",
+    "options": [
+      "The product quality is poor",
+      "Poor performance",
+      "The appearance is not good",
+      "Poor after-sales service",
+      "Poor brand reputation",
+      "The price is too high"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "If you want to buy a laptop, which of the following brands will you prefer:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "If you are buying a desktop computer, which of the following brands would you prefer:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What is your overall evaluation of Lenovo Computer:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What is your overall evaluation of Dell Computer:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What is your overall evaluation of HP computers?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What is your overall evaluation of Apple Computer:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What is your overall evaluation of ASUS Computer:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What is your overall evaluation of Acer computers:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What is your overall evaluation of Huawei computers:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What is your overall evaluation of Millet Computer:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Which of the following brands do you think has the most outstanding performance in technological innovation?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Which of the following brands do you think has the most outstanding performance in product design innovation:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Which of the following brands do you think has the most outstanding performance in marketing strategy innovation:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What innovative features do you want computer brands to introduce in the future (multiple choices) :",
+    "options": [
+      "Fold the screen",
+      "Better endurance",
+      "Thinner body",
+      "Artificial intelligence assistant",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Among the following computer brands, which one do you think has the strongest market competitiveness?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Which of the following brands do you think is most likely to become the market leader in the next few years:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Of the following brands, which do you think has done the best job in responding to market competition:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What aspects do you think the competition between computer brands is mainly reflected in? (multiple choices can be made) :",
+    "options": [
+      "Price",
+      "Performance",
+      "Appearance design",
+      "After-sales service",
+      "Brand marketing"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you care about the performance of computer brands in environmental protection?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Which of the following brands do you think is the best in environmental protection?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Are you willing to pay a higher price for a computer brand with an environmental concept?",
+    "options": [
+      "Willing",
+      "Maybe",
+      "Not sure",
+      "Probably not",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What measures do you think computer brands can take in terms of environmental protection (multiple choices) :",
+    "options": [
+      "Use recyclable materials",
+      "Reduce energy consumption",
+      "Reduce packaging waste",
+      "Promote trade-ins",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think computer brands should assume social responsibility?",
+    "options": [
+      "Yes, it is an important responsibility of the company",
+      "Yes, but not a priority",
+      "It doesn't matter",
+      "No, the business should be based on profit"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Which of the following brands do you think has the best performance in terms of social responsibility?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "What ways do you think computer brands can fulfill their social responsibility (multiple choices) :",
+    "options": [
+      "Charitable giving",
+      "Support education",
+      "Promotion of employment",
+      "Promote the popularization of technology",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which of the following computer brands do you think is the most influential in the international market?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "In your opinion, the main challenges faced by domestic computer brands in the process of internationalization are (multiple choices can be made) :",
+    "options": [
+      "Low brand awareness",
+      "Insufficient technological innovation",
+      "Imperfect after-sales service system",
+      "Cultural differences",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "How do you think domestic computer brands should improve their competitiveness in the international market? (multiple choices) :",
+    "options": [
+      "Strengthen technology research and development",
+      "Improve product quality",
+      "Optimize brand image",
+      "Expand sales channels",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Which of the following brands do you think is the best in terms of user experience:",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "What aspects do you think a good user experience includes (multiple choices) :",
+    "options": [
+      "Ease of operation",
+      "System stability",
+      "Software compatibility",
+      "Human-computer interaction design",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you change brands because of poor user experience?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Would you recommend your computer brand to your friends?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Which of the following factors is the main basis of your recommendation (more than one can choose) :",
+    "options": [
+      "Feel good about your own use",
+      "High brand awareness",
+      "High cost performance",
+      "Good after-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you choose a computer brand based on the recommendation of friends?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "To what extent do you think brand word-of-mouth influences consumers' purchasing decisions?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "Relatively small",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Which of the following brands do you think has the best development prospects in the future?",
+    "options": [
+      "Association",
+      "Dale",
+      "Hewlett-Packard",
+      "Apple",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "What do you think is the future development trend of computer brands (multiple choices) :",
+    "options": [
+      "Intelligence",
+      "Personalization",
+      "Portability",
+      "High performance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What do you think is the importance of the following factors for the future development of computer brands (multiple choices) :",
+    "options": [
+      "Technological innovation",
+      "Brand marketing",
+      "User needs insight",
+      "Partnership",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "What are your expectations for computer brands in the future (multiple choices) :",
+    "options": [
+      "Provide more personalized customized services",
+      "Lower the price",
+      "Improve product quality",
+      "Strengthen after-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Have you ever used the official website or online mall of the computer brand:",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Your satisfaction with the official website or online mall of computer brands:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you follow the official social media accounts of computer brands (such as Weibo, wechat public accounts, etc.) :",
+    "options": [
+      "Always pay attention",
+      "Occasional attention",
+      "Pay little attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Your satisfaction with the content published by the official social media accounts of computer brands:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Have you ever participated in offline activities held by computer brands (such as new product launches, experience activities, etc.) :",
+    "options": [
+      "Attend regularly",
+      "Occasionally",
+      "Rarely attend",
+      "Never attended"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Your satisfaction with offline activities organized by computer brands:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Have you ever purchased computer brand peripheral products (such as mouse, keyboard, backpack, etc.) :",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Your satisfaction with computer brand peripheral products:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you think computer brands should strengthen interaction with users?",
+    "options": [
+      "Very much",
+      "Should",
+      "It doesn't matter",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "What ways do you think computer brands can enhance interaction with users (multiple choices) :",
+    "options": [
+      "Organize online and offline activities",
+      "Establish a user community",
+      "Conduct user research",
+      "Provide personalized service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Are you willing to continue to participate in our follow-up survey on computer brands?",
+    "options": [
+      "Willing",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Finally, please evaluate your overall satisfaction with this survey:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  }
+]
+ 

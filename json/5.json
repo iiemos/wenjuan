@@ -1,0 +1,827 @@
+[
+  {
+    "id": 1,
+    "question": "Do you think global warming has a big impact on your daily life?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "It has a little influence",
+      "Almost no impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Has your region experienced significant climate change in recent years?",
+    "options": [
+      "It's pretty obvious",
+      "It's more obvious",
+      "It's not obvious",
+      "Not obvious at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Do you think climate change is mainly caused by human activities?",
+    "options": [
+      "Totally",
+      "Most of them are",
+      "A small part is",
+      "It's not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you follow news and stories related to climate change?",
+    "options": [
+      "Pay attention every day",
+      "Always pay attention",
+      "Occasional attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you think the government is doing enough to combat climate change?",
+    "options": [
+      "Very enough",
+      "More than enough",
+      "Not quite enough",
+      "Totally inadequate"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Are you willing to change your lifestyle to reduce the effects of climate change?",
+    "options": [
+      "Very willing, and already doing",
+      "Yes, but I need some guidance",
+      "Willing, but worried about affecting the quality of life",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Do you know the main components of greenhouse gases?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you think reducing the frequency of car use can effectively mitigate climate change?",
+    "options": [
+      "Yes, the effect is remarkable",
+      "Yes, it has some effect",
+      "The effect is not obvious",
+      "can't"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "How is the use of energy-efficient appliances in your home?",
+    "options": [
+      "All are energy-saving appliances",
+      "Most of them are energy-saving appliances",
+      "Only a small part of them are energy-saving appliances",
+      "No energy-efficient appliances"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you support the development of renewable energy sources (such as solar and wind) to replace traditional energy sources?",
+    "options": [
+      "Very supportive",
+      "More supportive",
+      "Not sure",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How much do you think afforestation can do to improve the climate?",
+    "options": [
+      "It's very powerful",
+      "The effect is relatively large",
+      "It has a certain effect",
+      "Little effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you have the habit of saving water in your daily life?",
+    "options": [
+      "Always have and pay attention to it",
+      "Often",
+      "Occasionally pay attention",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Are you willing to buy products with lower carbon emissions?",
+    "options": [
+      "Very willing, will choose first",
+      "Yes, if the price is reasonable",
+      "Not too concerned, but not repellant",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you feel that the frequency of extreme weather (e.g. heavy rain, high temperatures, cold snaps) has increased in your area?",
+    "options": [
+      "Significant increase",
+      "There has been an increase",
+      "Little has changed",
+      "Reduced"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you think climate change will have a serious impact on agricultural production?",
+    "options": [
+      "Yes, the impact is very big",
+      "Yes, it will have a big impact",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Are you familiar with the carbon market?",
+    "options": [
+      "Very familiar with its operation mechanism",
+      "More understanding, know the general concept",
+      "Yes, but I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Are you willing to participate in the activities of environmental organizations to combat climate change?",
+    "options": [
+      "Very willing, active participation",
+      "Yes, I will attend when I have time",
+      "Reluctant, but might donate",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think climate change will cause sea levels to rise?",
+    "options": [
+      "Definitely, and it will be serious",
+      "It may, to a certain extent",
+      "Not sure",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you choose not to use disposable utensils when eating out?",
+    "options": [
+      "Every time",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think climate change poses a threat to biodiversity?",
+    "options": [
+      "Yes, it's very threatening",
+      "Yes, there is a certain threat",
+      "Little threat",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Would you choose public transportation instead of a car?",
+    "options": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you think individual environmental actions have an impact on global climate change?",
+    "options": [
+      "It works A lot",
+      "It has a certain effect",
+      "The effect is small",
+      "It has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Is there an awareness and education campaign about climate change in your community?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very few",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Are you aware of the potential impacts of climate change on human health?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Are you willing to pay higher energy bills to fight climate change?",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you think companies should take more responsibility in tackling climate change?",
+    "options": [
+      "Yes, it's A big responsibility",
+      "Yes, there is some responsibility",
+      "Little responsibility",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you care about the carbon footprint of the products you buy?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "How do you feel about the air quality in your city in recent years?",
+    "options": [
+      "Significant improvement",
+      "Some improvement",
+      "Little has changed",
+      "It's getting worse"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you support higher taxes on high-carbon emitters?",
+    "options": [
+      "Very supportive",
+      "More supportive",
+      "Not sure",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you think climate change will affect tourism?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you sort garbage in your daily life?",
+    "options": [
+      "Sort strictly and do it every day",
+      "Always sort",
+      "Sort occasionally",
+      "Never categorize"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you think climate change will lead to water scarcity?",
+    "options": [
+      "Definitely, very serious",
+      "There may be, to some extent, a shortage",
+      "Not sure",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Are you willing to invest in environmental projects to combat climate change?",
+    "options": [
+      "Very willing, will invest A lot of money",
+      "Yes, will invest moderately",
+      "Reluctant, but may invest a small amount",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you think the development of nuclear energy is a good way to solve energy needs and combat climate change?",
+    "options": [
+      "Yes, very good idea",
+      "Yes, it helps",
+      "Little effect",
+      "No, it's risky"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Are there frequent droughts in your area?",
+    "options": [
+      "Often appear",
+      "Appear occasionally",
+      "Rarely appears",
+      "Never appeared"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you understand the impact of climate change on Marine ecosystems?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you support limiting industrial emissions to combat climate change?",
+    "options": [
+      "Very supportive",
+      "More supportive",
+      "Not sure",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you think climate change will have a negative impact on economic development?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you consider the environmental impact of materials when buying clothing?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think climate change will increase the frequency and intensity of natural disasters?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not sure",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Are you willing to reduce your meat consumption to reduce greenhouse gas emissions?",
+    "options": [
+      "Very willing, it will be greatly reduced",
+      "Yes, it will be reduced appropriately",
+      "Reluctant, but will pay attention",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Are there any noticeable changes in winter temperatures in your area?",
+    "options": [
+      "Significantly increased",
+      "There has been an increase",
+      "Little has changed",
+      "Reduced"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Are you aware of the effects of climate change on glacier melting?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you support more investment in climate change research?",
+    "options": [
+      "Very supportive",
+      "More supportive",
+      "Not sure",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you think climate change will pose a threat to the protection of cultural heritage?",
+    "options": [
+      "Yes, it's very threatening",
+      "Yes, there is a certain threat",
+      "Little threat",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you use reusable bags instead of plastic bags in your daily life?",
+    "options": [
+      "Always use",
+      "Use it frequently",
+      "Use occasionally",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think climate change will affect food security?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Are you willing to participate in greening activities in your community?",
+    "options": [
+      "Very willing, active participation",
+      "Yes, I will attend when I have time",
+      "Reluctant, but might donate",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Are there any noticeable changes in summer temperatures in your area?",
+    "options": [
+      "Significantly increased",
+      "There has been an increase",
+      "Little has changed",
+      "Reduced"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Are you aware of the impact of climate change on migratory birds?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you support the creation of more nature reserves to combat climate change?",
+    "options": [
+      "Very supportive",
+      "More supportive",
+      "Not sure",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think climate change will have an impact on energy supply?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you choose low carbon travel when you travel?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think climate change will affect urban planning and construction?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Are you willing to attend a training course related to climate change?",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you often experience strong winds in your area?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Are you aware of the effects of climate change on soil quality?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you support raising fuel prices to reduce carbon emissions?",
+    "options": [
+      "Very supportive",
+      "More supportive",
+      "Not sure",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think climate change will affect the transportation industry?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you minimize the use of air conditioning in your daily life?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you think climate change will have an impact on education?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you often experience smog in your area?",
+    "options": [
+      "Often appear",
+      "Appear occasionally",
+      "Rarely appears",
+      "Never appeared"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you understand the impact of climate change on fisheries?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Are you willing to pay more for products with environmental certification?",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you think climate change will affect the staging of sports events?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you give preference to locally produced goods when shopping to reduce carbon emissions during transportation?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think climate change will put pressure on the health care system?",
+    "options": [
+      "Yes, it's stressful",
+      "Yes, there is some pressure",
+      "Not much pressure",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you have frequent thunderstorms in your area?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very few",
+      "Never have"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you understand the impact of climate change on the frequency of forest fires?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Are you willing to support retrofitting of energy-intensive buildings to improve energy efficiency?",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you think climate change will affect the entertainment industry?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you try to reduce the use of single-use plastic products in your daily life?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you think climate change will have an impact on religious practices?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Are dust days common in your area?",
+    "options": [
+      "Often appear",
+      "Appear occasionally",
+      "Rarely appears",
+      "Never appeared"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you understand the impact of climate change on international political relations?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Know a little",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  }
+]

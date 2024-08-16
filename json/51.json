@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "question": "Your age:",
+    "options": [
+      "18 - 24 years old",
+      "25 - 34 years old",
+      "35 - 44 years old",
+      "45 - 54 years old",
+      "55 years old and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "How many meals do you usually have per day?",
+    "options": [
+      "2 meals",
+      "3 meals",
+      "4 meals",
+      "5 meals and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What do you usually choose for breakfast?",
+    "options": [
+      "Bread",
+      "Eggs",
+      "Oatmeal",
+      "Fruits",
+      "Yogurt",
+      "Fried bacon",
+      "Cereal porridge",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is the staple food you most often eat for lunch?",
+    "options": [
+      "Rice",
+      "Noodles",
+      "Pizza",
+      "Hamburger",
+      "Sandwich",
+      "Salad",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "For dinner, do you prefer:",
+    "options": [
+      "Meats (such as beef, chicken, pork)",
+      "Fish",
+      "Vegetables",
+      "Beans",
+      "Pasta",
+      "Fried rice",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your drinking habits are:",
+    "options": [
+      "Drink coffee every day",
+      "Drink tea every day",
+      "Often drink carbonated beverages",
+      "Often drink fruit juice",
+      "Often drink milk",
+      "Mainly drink water",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "How often do you eat snacks?",
+    "options": [
+      "Multiple times a day",
+      "Once a day",
+      "Several times a week",
+      "Once a week",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "The type of snacks you like is:",
+    "options": [
+      "Potato chips",
+      "Chocolate",
+      "Nuts",
+      "Biscuits",
+      "Ice cream",
+      "Dried fruits",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How often do you eat out?",
+    "options": [
+      "Several times a week",
+      "Once a week",
+      "2 - 3 times a month",
+      "Once a month",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "The reasons for your choosing to eat out are (multiple choices are allowed):",
+    "options": [
+      "Social activities",
+      "Don't want to cook",
+      "Special occasions",
+      "Try new cuisine",
+      "Work requirements",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "When you choose a restaurant, the factor you value most is:",
+    "options": [
+      "Dish taste",
+      "Price",
+      "Service quality",
+      "Restaurant environment",
+      "Menu diversity",
+      "Close distance",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Your attitude towards organic food is:",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Willing to try but haven't bought",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "When you buy food, you will pay attention to:",
+    "options": [
+      "Nutritional components",
+      "Shelf life",
+      "Place of origin",
+      "Ingredient list",
+      "Allergen information",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Your view on vegetarian food is:",
+    "options": [
+      "Often choose vegetarian food",
+      "Occasionally have vegetarian food",
+      "Acceptable but rarely eat",
+      "Don't like vegetarian food"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "When you cook at home, do you use fresh ingredients or frozen/canned ingredients more?",
+    "options": [
+      "Fresh ingredients",
+      "Frozen/canned ingredients",
+      "About the same"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you follow a special diet pattern (such as low-carbohydrate, gluten-free, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "If yes, what kind of diet pattern is it?",
+    "options": [
+      "Low-carbohydrate",
+      "Gluten-free",
+      "Low-fat",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Your understanding of genetically modified food is:",
+    "options": [
+      "Very well understood",
+      "Know some",
+      "Heard of but not very clear",
+      "Completely don't understand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Your attitude towards genetically modified food is:",
+    "options": [
+      "Accept",
+      "Somewhat worried but acceptable",
+      "Firmly oppose",
+      "Uncertain"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Will you change your eating habits for health reasons?",
+    "options": [
+      "Have already changed",
+      "Am considering",
+      "May, depending on the specific situation",
+      "Won't"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "How important do you think a healthy diet is to your life?",
+    "options": [
+      "Very important",
+      "Important",
+      "General",
+      "Not very important",
+      "Completely unimportant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you adjust your diet according to the season?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "If yes, in summer, you are more inclined to eat:",
+    "options": [
+      "Cool salad",
+      "Fruits",
+      "Cold drinks",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "In winter, you are more inclined to eat:",
+    "options": [
+      "Hot soup",
+      "Stewed dishes",
+      "Hot pot",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Your interest in exotic cuisine is:",
+    "options": [
+      "Very interested and often try",
+      "Interested and occasionally try",
+      "General and only try on special occasions",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Your favorite exotic cuisine is (multiple choices are allowed):",
+    "options": [
+      "Italian cuisine",
+      "Japanese cuisine",
+      "Indian cuisine",
+      "Mexican cuisine",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you try new cooking methods?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Your main way to obtain recipes is:",
+    "options": [
+      "Cooking books",
+      "Internet search",
+      "Food programs",
+      "Taught by family and friends",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Your frequency of using food delivery services is:",
+    "options": [
+      "Several times a week",
+      "Once a week",
+      "2 - 3 times a month",
+      "Once a month",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "The main reason for your choosing food delivery services is:",
+    "options": [
+      "Convenient and fast",
+      "Rich dishes",
+      "Preferential activities",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Your attitude towards food additives is:",
+    "options": [
+      "Pay very close attention and try to avoid food containing additives",
+      "Pay moderate attention and try to choose food with fewer additives",
+      "Don't pay much attention, as long as the food tastes good",
+      "Completely don't pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Will you grow some vegetables or fruits by yourself?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "If yes, the main varieties you grow are (multiple choices are allowed):",
+    "options": [
+      "Tomatoes",
+      "Cucumbers",
+      "Strawberries",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Your view on functional food (such as containing probiotics, dietary fiber, etc.) is:",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Willing to try but haven't bought",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Will your purchase decision be affected by the packaging of food?",
+    "options": [
+      "Yes, good-looking packaging will attract me to buy",
+      "Somewhat affected, but not the main factor",
+      "Completely unaffected"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Your degree of concern for food sustainability (such as environmentally friendly production, reducing food waste, etc.) is:",
+    "options": [
+      "Pay very close attention and will deliberately choose sustainable food",
+      "Pay relatively close attention and will choose when possible",
+      "Have a certain understanding but it doesn't affect the purchase much",
+      "Pay little attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you buy locally produced food?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "The advantages of locally produced food you think are (multiple choices are allowed):",
+    "options": [
+      "Freshness",
+      "Support the local economy",
+      "Reduce the environmental impact of transportation",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "When you buy food, will you consider the animal welfare of food?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Your attitude towards traditional handmade food is:",
+    "options": [
+      "Like very much and often buy",
+      "Like and occasionally buy",
+      "Acceptable and will buy at specific times",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Will you participate in food-related workshops or courses (such as cooking classes, wine tasting classes, etc.)?",
+    "options": [
+      "Yes, often participate",
+      "Yes, occasionally participate",
+      "Considered but not participated",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Your view on the food traceability system (understanding the source and production process of food) is:",
+    "options": [
+      "Very useful and will give priority to traceable food",
+      "Somewhat useful, but not the main consideration factor",
+      "Not very concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you buy because of the brand of food?",
+    "options": [
+      "Yes, only buy well-known brands",
+      "Yes, the brand is an important reference factor",
+      "Not very likely, pay more attention to the food itself",
+      "Completely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Your demand for food without added sugar is:",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Willing to try but haven't bought",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you buy imported food?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "The main reason for your buying imported food is:",
+    "options": [
+      "Unique taste",
+      "Higher quality",
+      "For gift-giving needs",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Your degree of trust in the nutritional claims on food labels (such as 'low fat', 'high fiber', etc.) is:",
+    "options": [
+      "Completely trust",
+      "Relatively trust",
+      "Half-believe and half-doubt",
+      "Not very trust",
+      "Completely don't trust"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you buy because of the health claims of food (such as 'helps lower cholesterol', 'enhances immunity', etc.)?",
+    "options": [
+      "Yes, often",
+      "Yes, occasionally",
+      "Maybe, depending on other factors",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+ {
+    "id": 50,
+    "question": "Your view on the future development trend of food (multiple choices are allowed):",
+    "options": [
+      "More healthy and functional food",
+      "Pay more attention to sustainability",
+      "Personalized custom food",
+      "Intelligent food production and distribution",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  }
+]

@@ -1,0 +1,865 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Over 45 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your monthly income (or living expenses) level:",
+    "options": [
+      "Less than 2000 $",
+      "2001-5000 $",
+      "5001-8000 $",
+      "8001-12000 $",
+      "More than 12,000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How often you purchase clothing:",
+    "options": [
+      "More than once A week",
+      "Once a month",
+      "Once a quarter",
+      "semi-annually",
+      "Once a year or less"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Where you usually buy clothes:",
+    "options": [
+      "Brand stores",
+      "Large shopping malls",
+      "Online shopping platform",
+      "Corner store",
+      "Discount stores"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your average cost per purchase:",
+    "options": [
+      "Under 200 $",
+      "201-500 $",
+      "501-1000 $",
+      "1001-2000 $",
+      "More than 2000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "You pay more attention to:",
+    "options": [
+      "Price",
+      "Style",
+      "Quality",
+      "Brand",
+      "Comfort"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you pay attention to the promotion activities of the brand when buying clothes?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Whether you will choose to buy the clothing of this brand because of the brand spokesperson:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Number of clothing brands you are familiar with:",
+    "options": [
+      "Less than 5",
+      "6-10 PCS",
+      "11-15",
+      "16-20",
+      "More than 20"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "The main channels for you to obtain clothing brand information:",
+    "options": [
+      "Television advertising",
+      "Internet advertising",
+      "Social media",
+      "Recommendations from friends",
+      "Fashion magazines"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Which of the following factors will increase your favorable impression of a new clothing brand:",
+    "options": [
+      "Unique design style",
+      "Good reputation",
+      "The concept of environmental protection and sustainability",
+      "Cooperate with well-known designers",
+      "Diversified product lines"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Which of the following brand images are more attractive to you:",
+    "options": [
+      "Fashion trends",
+      "Classic elegance",
+      "Sports and leisure",
+      "Formal business",
+      "Unique personality"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Your views on international brands and domestic brands:",
+    "options": [
+      "More inclined to international brands",
+      "More inclined to domestic brands",
+      "No clear preference",
+      "Depends on the brand and product"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "To what extent do you think the history and culture of the brand influence your choice of clothing?",
+    "options": [
+      "Very big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What is your favorite clothing brand?",
+    "options": [
+      "[Brand 1]",
+      "[Brand 2]",
+      "[Brand 3]",
+      "[Brand 4]",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Why do you like this brand:",
+    "options": [
+      "Novel style",
+      "Excellent quality",
+      "The price is reasonable",
+      "Good brand image",
+      "Good service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What is your least favorite clothing brand?",
+    "options": [
+      "[Brand 1]",
+      "[Brand 2]",
+      "[Brand 3]",
+      "[Brand 4]",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Why you don't like this brand:",
+    "options": [
+      "The style is old",
+      "Poor quality",
+      "The price is too high",
+      "Poor brand image",
+      "The service is not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "How satisfied are you with the following brands:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "In your opinion, which aspects of the following brands need improvement:",
+    "options": [
+      "Product design",
+      "Product quality",
+      "Price strategy",
+      "Marketing promotion",
+      "Customer service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Whether you will buy the same brand of clothing repeatedly:",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Would you recommend your favorite clothing brand to your friends?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "If your favorite brand launches a new product line, will you try to buy it?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Are you willing to pay a higher price for your favorite brand:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "When there is negative news about your favorite brand, what is your attitude?",
+    "options": [
+      "Continued support",
+      "Wait and see for a while",
+      "Buy less",
+      "No more purchases",
+      "It depends"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "In your opinion, the role of branded clothing in leading fashion trends:",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you change your favorite clothing brand because of the fashion trend?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What do you think of fast fashion brands?",
+    "options": [
+      "Very like, often buy",
+      "Prefer, buy occasionally",
+      "Generally, there are suitable will buy",
+      "Don't like it very much and rarely buy it",
+      "Very dislike, never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "In your opinion, the advantages of fast fashion brands are:",
+    "options": [
+      "The price is low",
+      "The style is updated quickly",
+      "Keep up with fashion trends",
+      "Easy to buy",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "In your opinion, the disadvantages of fast fashion brands are:",
+    "options": [
+      "The quality is not good",
+      "Lack of brand characteristics",
+      "Not environmentally friendly",
+      "Easily outdated",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you care about the sustainable development concept of the clothing brand (such as environmentally friendly materials, fair trade, etc.) :",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "To what extent do you think the concept of sustainable development influences your choice of clothing brands?",
+    "options": [
+      "Very big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Which of the following sustainability measures will increase your goodwill towards the brand:",
+    "options": [
+      "Use eco-friendly materials",
+      "Reduce carbon emissions in the production process",
+      "Support fair trade",
+      "Promote clothing recycling and reuse reuse",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you willing to pay a higher price for a sustainable brand?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you think clothing brands should provide personalized customization services?",
+    "options": [
+      "Very much",
+      "Should compare",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "If the brand provides personalized customized services, are you willing to pay extra fees:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Where do you expect the brand to provide personalization?",
+    "options": [
+      "Style",
+      "Color",
+      "Size",
+      "Pattern",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "In your opinion, the role of personalized customized service in promoting brand image:",
+    "options": [
+      "Very big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you care about the performance of clothing brands in terms of social responsibility (such as charity activities, employee welfare, etc.) :",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "To what extent do you think social responsibility performance affects your choice of clothing brands?",
+    "options": [
+      "Very big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Which of the following socially responsible behaviors will increase your goodwill towards the brand:",
+    "options": [
+      "Donate to charity",
+      "Pay attention to employee rights",
+      "Promoting community development",
+      "Support environmental projects",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you willing to pay a higher price for a brand with good social responsibility performance?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you care about the innovation of clothing brands in the application of technology (such as smart clothing, 3D printing, etc.) :",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "How important do you think the application of science and technology is to the development of clothing brands?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Which of the following technology applications will attract you to buy clothing from this brand:",
+    "options": [
+      "Intelligent sensing function",
+      "Waterproof and breathable technology",
+      "Self-heating technology",
+      "Anti-ultraviolet function",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "How do you think the application of technology will affect the price of clothing?",
+    "options": [
+      "A substantial increase",
+      "Slightly improved",
+      "basically unchanged",
+      "Slightly reduced",
+      "Significantly reduced"
+    ],
+    "correctAnswer": ""
+  },
+{
+    "id": 49,
+    "question": "Do you think clothing brands should have unique cultural connotations?",
+    "options": [
+      "Very much",
+      "Should compare",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Which of the following cultural connotations do you prefer to choose:",
+    "options": [
+      "Traditional culture",
+      "Modern fashion culture",
+      "Regional culture",
+      "Art and culture",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "To what extent do you think brand culture influences brand loyalty?",
+    "options": [
+      "Very big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Are you willing to participate in the brand's cultural activities (such as exhibitions, lectures, etc.) :",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "General",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "How much importance do you attach to the service environment of brand stores when purchasing clothing?",
+    "options": [
+      "Great importance",
+      "Attach more importance to it",
+      "General",
+      "Don't think much of it",
+      "Totally dismissive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Which of the following services do you think will improve your shopping experience:",
+    "options": [
+      "Professional shopping guide advice",
+      "Quick return and exchange service",
+      "Free modification and customization services",
+      "Comfortable fitting rooms",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Your satisfaction with brand online customer service:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "In your opinion, the importance of brand after-sales service:",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "In the next year, you plan to purchase clothing budget:",
+    "options": [
+      "Less than 2000 $",
+      "2001-5000 $",
+      "5001-8000 $",
+      "8001-12000 $",
+      "More than 12,000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "The types of clothing you prefer to buy in the future:",
+    "options": [
+      "Casual wear",
+      "Sportswear",
+      "Formal wear",
+      "Fashion trends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "The type of brand you prefer to buy in the future:",
+    "options": [
+      "International brands",
+      "Well-known domestic brands",
+      "Emerging brands",
+      "Designer brands",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "In your opinion, the development trend of clothing brands in the future is:",
+    "options": [
+      "Focus more on personalization",
+      "Pay more attention to the application of technology",
+      "Greater focus on sustainable development",
+      "Pay more attention to brand culture",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Your overall evaluation of the current apparel market:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "In your opinion, the main problems of current clothing brands are:",
+    "options": [
+      "Serious homogenization",
+      "Uneven quality",
+      "The price is artificially high",
+      "Lack of innovation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "When choosing a clothing brand, which of the following do you pay more attention to?",
+    "options": [
+      "Brand awareness",
+      "The price of clothing",
+      "Brand design style",
+      "Brand quality assurance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "When you purchase clothing, which of the following brand factors has the most influence on you?",
+    "options": [
+      "Brand spokesperson",
+      "Brand advertising",
+      "Recommendations from friends",
+      "Reputation of the brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What do you value most about the following clothing brands?",
+    "options": [
+      "Brands often launch limited edition models",
+      "The brand offers a variety of sizes",
+      "The brand pays attention to the use of environmentally friendly materials",
+      "The brand has perfect after-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Which of the following brand strategies will make you more willing to choose this brand of clothing?",
+    "options": [
+      "Cooperate with well-known designers to launch co-branded models",
+      "Often hold member-only discount activities",
+      "The brand opens online customized services",
+      "Brands have active interactions on social media"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Among the following clothing brands, you will prefer:",
+    "options": [
+      "A classic brand with a century-old history",
+      "Emerging brands that have risen rapidly in recent years",
+      "Niche brands that focus on a particular style",
+      "Mass Brands with rich product lines"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "The number of times you purchased the same clothing brand in the past year:",
+    "options": [
+      "5 or more times",
+      "3-4 times",
+      "Once or twice",
+      "0 times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "If the price of your favorite clothing brand increases by 20%, will you still buy it?",
+    "options": [
+      "Yes, still buy",
+      "Maybe, it depends",
+      "Not sure",
+      "Probably not",
+      "No, it's too expensive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "When your favorite clothing brand releases a product that is different from your previous style, will you try to buy it?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "If a new clothing brand appears on the market, the price and style are similar to your usual brand, you will:",
+    "options": [
+      "Stick with the original brand",
+      "Try new brands",
+      "Not sure, depending on the specific product",
+      "Compare the two before making a decision",
+      "Choose a new brand directly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you give up buying a brand you have been loyal to because of other brand promotions?",
+    "options": [
+      "Absolutely not",
+      "It's highly unlikely",
+      "Not sure",
+      "It's possible",
+      "Definitely will"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Are you willing to participate in our follow-up survey?",
+    "options": [
+      "Willing",
+      "No"
+    ],
+    "correctAnswer": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": " Your gender",
+    "options": ["Male ", " Female "],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": " Your age ",
+    "options": [
+      "Under 18 years old ",
+      "18 - 25 years old ",
+      "26 - 35 years old ",
+      "36 - 45 years old ",
+      "46 years old and above "
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": " Your place of residence ",
+    "options": [
+      "First-tier cities ",
+      " Second-tier cities ",
+      " Third-tier cities ",
+      " Fourth-tier and below cities ",
+      " Rural areas "
+    ],
+    "correctAnswer": ""
+  }
+]

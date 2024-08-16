@@ -1,0 +1,763 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What's your age?",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your current occupation?",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you own a PS5?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "If yes, when did you purchase a PS5?",
+    "options": [
+      "Initial market launch",
+      "Within six months",
+      "Within a year",
+      "More than one year"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What are your main reasons for buying a PS5?",
+    "options": [
+      "Likes to play games",
+      "Pursue the latest technology",
+      "Recommended by friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How do you buy PS5?",
+    "options": [
+      "Official website",
+      "E-commerce platform",
+      "Physical stores",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Did you purchase other products with your PS5?",
+    "options": [
+      "Handle",
+      "Headphones",
+      "Camera",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Are you satisfied with the design of the PS5?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What do you think of the size and weight of the PS5?",
+    "options": [
+      "Small and lightweight",
+      "Moderate",
+      "Larger and heavier",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How do you rate the heat dissipation effect of PS5?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Are you happy with the noise control on the PS5?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What display device are you mainly connected to when using PS5?",
+    "options": [
+      "Television",
+      "Computer monitors",
+      "Projector",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "What do you think of the loading speed of games on PS5?",
+    "options": [
+      "Very fast",
+      "Faster",
+      "General",
+      "Slow"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What do you think of the controller experience on the PS5?",
+    "options": [
+      "Very good",
+      "Good",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Have you ever used the PS5's haptic feedback and adaptive trigger feature?",
+    "options": [
+      "Frequent use, good experience",
+      "Occasionally use, feel good",
+      "Rarely used, not much care",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What do you think of the battery life of the PS5 controller?",
+    "options": [
+      "Very good. It meets the demand",
+      "Good, basically enough",
+      "In general, it needs to be charged frequently",
+      "No, the battery life is too short"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "How do you rate the ease of use of the PS5's system interface?",
+    "options": [
+      "It's very convenient",
+      "Convenience",
+      "General",
+      "It's inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Have you ever used the PS5's online multiplayer feature?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "How do you rate the Internet connection stability of PS5 online multiplayer games?",
+    "options": [
+      "Very stable",
+      "Relatively stable",
+      "General",
+      "Unstable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Have you purchased PS5 membership?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "If so, are you satisfied with the content of PS5 membership service?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What kind of games do you mainly play on PS5? (Multiple options available)",
+    "options": [
+      "Action games",
+      "Shooting games",
+      "Role-playing games",
+      "Sports games",
+      "Racing games",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Are you concerned about exclusives for PS5 games?",
+    "options": [
+      "Very concerned, must play",
+      "More concerned, interested",
+      "In general, it doesn't matter",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What do you think of the quality of PS5 exclusive games?",
+    "options": [
+      "Very tall and excellent",
+      "Tall and distinctive",
+      "General, normal",
+      "Not good, disappointing"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What is the main way you buy games on PS5?",
+    "options": [
+      "Digital version purchase",
+      "Physical CD purchase",
+      "Both"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you think the price of PS5 games is reasonable?",
+    "options": [
+      "Reasonable",
+      "It's a little expensive",
+      "It's too expensive",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "How much do you spend on PS5 games per month on average?",
+    "options": [
+      "Less than 50",
+      "50 to 100",
+      "101-200",
+      "201-500",
+      "More than 500"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Would you buy a PS5 because of a game?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Are you satisfied with the storage capacity of the PS5?",
+    "options": [
+      "Very satisfied, enough to use",
+      "Satisfied, basically satisfied",
+      "General, need to expand",
+      "Not satisfied, too small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Have you expanded storage for your PS5?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What do you think of the PS5's backward compatibility?",
+    "options": [
+      "Very good, can play A lot of old games",
+      "Better, some games can be played",
+      "So-so, not helpful",
+      "Bad, incompatible"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Have you ever used the PS5's media playback capabilities (such as watching videos, listening to music)?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "How do you rate the PS5 media playback experience?",
+    "options": [
+      "Very good",
+      "Good",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you be connecting your PS5 to your audio device?",
+    "options": [
+      "Definitely, pursue sound quality",
+      "Maybe, it depends",
+      "No, that won't be necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "How do you rate the PS5's after-sales service?",
+    "options": [
+      "Very good, very satisfied",
+      "Better, can solve the problem",
+      "General, need to be improved",
+      "Not good, not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Would you recommend PS5 to a friend?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Are you up to date with the latest gaming news on PS5?",
+    "options": [
+      "Know very well, always pay attention attention",
+      "I know a lot about it, and I look at it occasionally",
+      "Average, not very concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What is your main source of PS5 game information? (Multiple options available)",
+    "options": [
+      "Gaming media sites",
+      "Social media",
+      "Official channels",
+      "Recommendations from friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Have you ever participated in an offline event for PS5?",
+    "options": [
+      "Attend regularly",
+      "Occasionally",
+      "Never participated"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Are you happy with the update frequency of the PS5?",
+    "options": [
+      "Very satisfying, timely and useful",
+      "Satisfactory, can improve some problems",
+      "In general, I don't feel much",
+      "Not satisfied, update too slow or useless"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Will you buy PS5 peripherals?",
+    "options": [
+      "Sure, I love it",
+      "Maybe, it depends",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you think the PS5's gamepad button layout is reasonable?",
+    "options": [
+      "Very reasonable and comfortable to operate",
+      "Reasonable and adaptable",
+      "So-so, no feeling",
+      "Unreasonable and inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you be using cloud gaming services on your PS5?",
+    "options": [
+      "Sure, it's quick and easy",
+      "Maybe, it depends",
+      "No, I don't believe in the effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "How do you rate the graphics quality of PS5 games?",
+    "options": [
+      "Brilliant, amazing",
+      "Excellent, very good",
+      "Not too bad",
+      "Not good, need upgrading"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What do you think of the framerate performance of PS5 games?",
+    "options": [
+      "Very smooth, no delays",
+      "More fluent, occasionally stuttering",
+      "Generally, acceptable",
+      "Not smooth, affect the experience"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you choose a particular game because of the PS5's new features, such as 3D audio?",
+    "options": [
+      "Definitely. Looking forward to it",
+      "Probably, depending on the type of game",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "How innovative do you think the story and gameplay of PS5 games are?",
+    "options": [
+      "Very innovative and engaging",
+      "More innovative, fresh",
+      "General, normal",
+      "Lack of innovation, stereotyping"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you play indie games on PS5?",
+    "options": [
+      "Definitely, like to try",
+      "Maybe, depending on the rating",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "How do you rate the speed of online multiplayer matching for PS5 games?",
+    "options": [
+      "Very fast, instant matching",
+      "Faster and acceptable",
+      "Generally, sometimes you have to wait",
+      "Slow, the waiting time is long"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Will you buy a remastered game on PS5?",
+    "options": [
+      "Definitely, revisit the classics",
+      "Maybe, depending on the improvement",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think the difficulty Settings for PS5 games are reasonable?",
+    "options": [
+      "Very reasonable and challenging",
+      "Reasonable and adaptable",
+      "In general, it's hard to say",
+      "Unreasonable, too difficult or too easy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you play free games on PS5?",
+    "options": [
+      "Definitely, save money",
+      "Maybe, depending on the quality",
+      "No, I don't think the quality is good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "How do you rate the saving and reading features of PS5 games?",
+    "options": [
+      "Very good, fast and convenient",
+      "OK, basically satisfied",
+      "General, need to be improved",
+      "Not good, often make mistakes"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you buy in-game virtual items on PS5?",
+    "options": [
+      "Sure, buy it if you like it",
+      "Maybe, depending on the value",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you think the updates for PS5 games are rich?",
+    "options": [
+      "Very rich and sincere",
+      "Rich, good",
+      "Not too bad",
+      "Not rich, perfunctory"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you communicate with other gamers on PS5?",
+    "options": [
+      "Sure, it's fun to talk",
+      "Maybe, it depends",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Are you interested in the trophy system (achievement system) for PS5 games?",
+    "options": [
+      "Very interested, trying to unlock",
+      "More interested, occasionally strive for",
+      "In general, it doesn't matter",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you get sucked in by the music and sound effects of PS5 games?",
+    "options": [
+      "Sure, it's very atmospheric",
+      "Maybe, it depends",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the hardware requirements for PS5 game optimization are reasonable?",
+    "options": [
+      "Very reasonable, give full play to the performance",
+      "Reasonable, suitable for most devices",
+      "In general, there is room for improvement",
+      "Unreasonable and excessive requirements"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you increase your play time due to the social interaction features of PS5 games, such as co-op mode, community events?",
+    "options": [
+      "Sure, it'll be fun",
+      "Maybe, depending on the details",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you find the PS5 game's character customization and personalization options abundant?",
+    "options": [
+      "Very rich, meet the needs",
+      "Relatively rich, there are certain choices",
+      "General, to be strengthened",
+      "Not rich, lack of characteristics"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you be playing virtual reality (VR) games on your PS5?",
+    "options": [
+      "Definitely. Looking forward to it",
+      "Maybe, depending on the rating",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "How do you rate the multiplayer balance of PS5 games?",
+    "options": [
+      "Very balanced, fair play",
+      "More balanced and acceptable",
+      "In general, there are some problems",
+      "Imbalance, affecting the experience"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you choose it because of the graphical style of PS5 games?",
+    "options": [
+      "Definitely. Vision is important",
+      "It may be, for reference",
+      "No, pay more attention to other aspects"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think the level design of PS5 games is clever?",
+    "options": [
+      "Very clever and creative",
+      "More clever and attractive",
+      "General, normal",
+      "Not clever, boring"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you try a business simulation game on PS5?",
+    "options": [
+      "Definitely, like this type",
+      "Maybe, depending on word of mouth",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "How do you rate the story depth and complexity of PS5 games?",
+    "options": [
+      "Very deep and complex, thought-provoking",
+      "Deeper and more complex, with connotation",
+      "Normal level",
+      "Shallow and simple, lack of connotation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you be watching the series for the sequel to the PS5 game?",
+    "options": [
+      "Sure, big fan",
+      "Maybe, depending on the previous performance",
+      "No, just the new work itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you find the beginner's guide to PS5 games friendly?",
+    "options": [
+      "Very friendly and easy to use",
+      "Friendly and adaptable",
+      "General, need to explore",
+      "Unfriendly, difficult to get started"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "What are your expectations and suggestions for the future development and improvement of the PS5?",
+    "options": [
+      "Add more exclusive games",
+      "Optimize hardware performance",
+      "Lower the price of the game",
+      "Enhance social functions"
+    ],
+    "correctAnswer": ""
+  }
+]

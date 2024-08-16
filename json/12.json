@@ -1,0 +1,886 @@
+[
+  {
+    "id": 1,
+    "question": "What is your area?",
+    "options":  [
+      "Cities",
+      "Towns and villages",
+      "Rural areas"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What do you think about the environmental pollution in your area?",
+    "options": [
+      "Very serious",
+      "It's more serious",
+      "General",
+      "It's not serious"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Which of the following pollution do you think has the greatest impact on your life?",
+    "options": [
+      "Air pollution",
+      "Water pollution",
+      "Soil pollution",
+      "Noise pollution"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you often pay attention to environmental pollution in your daily life?",
+    "options": [
+      "Always pay attention",
+      "Occasional attention",
+      "Pay little attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What are the main channels through which you get information about environmental pollution?",
+    "options": [
+      "Television news",
+      "Network",
+      "Newspapers and magazines",
+      "Informed by others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Which of the following measures do you think is most effective in improving air quality?",
+    "options": [
+      "Limit industrial emissions",
+      "Promote clean energy vehicles",
+      "Enhance urban greening",
+      "Improving energy efficiency"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the water quality in your area?",
+    "options": [
+      "Very bad, smelly and foreign",
+      "In general, sometimes it has a bad smell",
+      "Better, basically clear",
+      "Very good, the water is clear and odorless"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What do you think is the main cause of water pollution?",
+    "options": [
+      "Industrial wastewater discharge",
+      "Pollution of agricultural fertilizers and pesticides",
+      "Domestic sewage discharge",
+      "Rubbish is dumped at random"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you have the habit of saving water in your daily life?",
+    "options": [
+      "Always, very much",
+      "Sometimes I pay attention",
+      "Pay little attention",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which of the following measures do you think is the most effective to protect water resources?",
+    "options": [
+      "Strengthen the construction of sewage treatment plants",
+      "Limit the development of high water consumption enterprises",
+      "Promote water-saving devices",
+      "Raise public awareness of water conservation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How much do you know about soil pollution in your area?",
+    "options": [
+      "Well understood, know the source of pollution and harm",
+      "Get a sense of the situation",
+      "Not really. I've only heard about it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What do you think is the main cause of soil pollution?",
+    "options": [
+      "Industrial waste discharge",
+      "Excessive use of pesticides and fertilizers",
+      "Landfill",
+      "Sewage irrigation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Which of the following measures do you think is the most effective in controlling soil pollution?",
+    "options": [
+      "Strengthen soil monitoring and assessment",
+      "Promote green agriculture",
+      "Strengthen industrial pollution control",
+      "Soil remediation works"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "What is the noise pollution situation in your area?",
+    "options": [
+      "Very serious, affecting normal life",
+      "More serious, sometimes feel irritable",
+      "Average, tolerable",
+      "No serious, basically no impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What do you think is the main source of noise pollution?",
+    "options": [
+      "Traffic noise",
+      "Industrial noise",
+      "Construction noise",
+      "Noise from social life"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Which of the following measures do you think is most effective in reducing noise pollution?",
+    "options": [
+      "Strengthen traffic management to limit vehicle noise",
+      "Regulate noise emissions from industrial enterprises",
+      "Limit construction time and noise",
+      "Raise public awareness of civilization and reduce social noise"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you take the initiative to reduce pollution in your daily life?",
+    "options": [
+      "Regularly and actively participate in environmental protection activities",
+      "Occasionally, like garbage sorting",
+      "Rarely, no time or energy",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you support the government to increase investment in environmental pollution control?",
+    "options": [
+      "Very supportive, it is necessary",
+      "More supportive, has a certain effect",
+      "Less supportive, fearing increased financial burden",
+      "Do not support it at all and think it is of little effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What kind of responsibility do you think companies should take in environmental protection?",
+    "options": [
+      "Strictly abide by environmental protection laws and regulations to reduce pollution emissions",
+      "Invest in pollution control and technological innovation",
+      "Regularly disclose environmental information and accept social supervision",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think the role of individuals in environmental protection is important?",
+    "options": [
+      "Very important. Everyone can make A difference",
+      "More important, can play a role",
+      "Not very important, personal power is limited",
+      "Totally unimportant, mainly by government and business"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Are you willing to change some of your living habits to protect the environment?",
+    "options": [
+      "Very willing, willing to make big changes",
+      "More willing, appropriate adjustments",
+      "Reluctant, change will bring inconvenience",
+      "Totally unwilling and unwilling to change"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you give priority to environmentally friendly products?",
+    "options": [
+      "Definitely, only buy environmentally friendly products",
+      "Maybe, if the price is right",
+      "Rarely, not much attention",
+      "Absolutely not, only considering product performance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "How much do you know about garbage sorting?",
+    "options": [
+      "Very understand, can classify accurately",
+      "More understanding, roughly know the classification method",
+      "Not very familiar, know some common categories",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Does your community have a garbage separation facility?",
+    "options": [
+      "Yes, and the classification facilities are perfect",
+      "Yes, but it's not perfect",
+      "No",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you sort garbage in your daily life?",
+    "options": [
+      "Always, strictly classified",
+      "Often, try to categorize",
+      "Occasionally, sometimes categorize",
+      "Never categorize"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Which of the following measures do you think can improve the public's enthusiasm for garbage separation?",
+    "options": [
+      "Strengthen publicity and education",
+      "Establish a reward mechanism",
+      "Strengthen supervision and management",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "What do you do with used batteries?",
+    "options": [
+      "Special recycling",
+      "Put in the trash",
+      "Discard at will",
+      "Not sure what to do"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Which of the following measures do you think can reduce white pollution (plastic waste)?",
+    "options": [
+      "Limit the use of plastic products",
+      "Promote biodegradable plastics",
+      "Strengthen plastic waste recycling",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you bring your own bag when shopping?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What is your attitude towards green travel (e.g. walking, cycling, taking public transport)?",
+    "options": [
+      "Very supportive, often choose",
+      "More supportive, sometimes choose",
+      "Not very supportive, inconvenient",
+      "Totally do not support and do not consider"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Is public transportation convenient in your area?",
+    "options": [
+      "Very convenient, wide line coverage",
+      "It is more convenient and can meet basic needs",
+      "Not very convenient, few lines",
+      "It's very inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Which of the following measures do you think can encourage more people to choose green travel?",
+    "options": [
+      "Optimize public transport routes and services",
+      "Increase subsidies for green travel",
+      "Strengthen green travel publicity",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you know electromagnetic radiation pollution?",
+    "options": [
+      "Very knowledgeable, aware of hazards and protection",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which of the following do you think are the main sources of electromagnetic radiation? (Multiple options available)",
+    "options": [
+      "Mobile phone",
+      "Computers",
+      "Television",
+      "Microwave oven",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you take measures to reduce your exposure to electromagnetic radiation?",
+    "options": [
+      "Yes, such as reducing usage time",
+      "Sometimes, pay attention",
+      "Rarely, feel little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "How much do you know about light pollution?",
+    "options": [
+      "Very knowledgeable, aware of hazards and types",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Which of the following do you think are the main sources of light pollution? (Multiple options available)",
+    "options": [
+      "Neon lights",
+      "Glass curtain wall",
+      "Street lights",
+      "Car headlights",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you think light pollution has an impact on your life?",
+    "options": [
+      "It has A big effect, affecting sleep and vision",
+      "There are some effects, such as harsh eyes",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you know about radioactive contamination?",
+    "options": [
+      "Very knowledgeable, aware of sources and hazards",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Which of the following activities do you think may cause radioactive contamination? (Multiple options available)",
+    "options": [
+      "Nuclear power plants",
+      "Medical X-ray examination",
+      "Mineral extraction",
+      "Nuclear weapons tests",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "How much do you know about indoor pollution?",
+    "options": [
+      "Very knowledgeable, aware of common pollutants and hazards",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Which of the following do you think are the main sources of indoor pollution? (Multiple options available)",
+    "options": [
+      "Decoration materials",
+      "Furniture",
+      "Kitchen fumes",
+      "Smoking",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Will you take any measures to reduce indoor pollution?",
+    "options": [
+      "Yes, such as choosing environmentally friendly materials and frequent ventilation",
+      "Sometimes, pay attention",
+      "Rarely, feel little impact",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "In your opinion, in what ways does environmental pollution affect health? (Multiple options available)",
+    "options": [
+      "Respiratory diseases",
+      "Cardiovascular diseases",
+      "Cancer",
+      "Skin diseases",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you have any cases of health problems caused by environmental pollution?",
+    "options": [
+      "Yes, A lot",
+      "Yes, some",
+      "Rarely",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What do you think is the impact of environmental pollution on economic development?",
+    "options": [
+      "It has A great negative impact and hinders economic development",
+      "There is a certain impact, but it can be resolved through governance",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What do you think is the relationship between environmental protection and economic development?",
+    "options": [
+      "Mutually reinforcing, environmental protection contributes to sustainable economic development",
+      "Paradoxically, protecting the environment will restrict economic development",
+      "It doesn't matter",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Are you satisfied with the current environmental policy?",
+    "options":  [
+      "Very satisfied, the policy is effective",
+      "Relatively satisfied, with a certain effect",
+      "Not satisfied, need to strengthen",
+      "Very dissatisfied and ineffective"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "What do you think the government should do more to protect the environment? (Multiple options available)",
+    "options": [
+      "Strengthen law enforcement and crack down on environmental violations",
+      "Increase investment in environmental protection and strengthen environmental protection infrastructure construction",
+      "Strengthen environmental education and raise public awareness of environmental protection",
+      "Promote environmental science and technology innovation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Have you ever participated in any volunteer activities for environmental protection?",
+    "options": [
+      "Attend regularly",
+      "Occasionally",
+      "Never participated, but interested",
+      "Never attended or interested in it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think environmental voluntary activities play a great role in environmental protection?",
+    "options": [
+      "It is very large and can drive more people to participate",
+      "Relatively large, has a certain influence",
+      "General, limited role",
+      "Small, almost useless"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you support an environmental tax to encourage companies to reduce pollution?",
+    "options": [
+      "Very supportive, can effectively constrain the enterprise",
+      "More supportive, has a certain effect",
+      "Not very supportive, worried about increasing the burden on enterprises",
+      "Do not support it at all and think it is not feasible"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Which of the following ways do you think is more effective in raising the environmental awareness of enterprises?",
+    "options": [
+      "Strengthen environmental supervision and punishment",
+      "Provide tax incentives and subsidies to environmental protection enterprises",
+      "Environmental protection training and publicity",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "How much do you know about renewable energy (such as solar, wind, water)?",
+    "options": [
+      "Very understand, know its advantages and applications",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you support the development of renewable energy to reduce the dependence on traditional energy sources?",
+    "options": [
+      "Very supportive, is the future direction of energy development",
+      "Relatively supportive, with certain potential",
+      "Not very supportive, there are some problems",
+      "Don't support it at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Which of the following renewable energy sources do you think has the greatest development potential in your region?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Water energy",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "How much do you know about biodiversity conservation?",
+    "options": [
+      "Very knowledgeable, aware of its importance and threats",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Which of the following do you think are the main causes of biodiversity loss? (Multiple options available)",
+    "options": [
+      "Deforestation",
+      "Overhunting",
+      "Environmental pollution",
+      "Invasion of alien species",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "In what ways do you think biodiversity conservation is important to human beings? (Multiple options available)",
+    "options": [
+      "Provide ecological services, such as cleaning air and water",
+      "Provision of food and medical resources",
+      "Promotion of cultural and aesthetic values",
+      "Maintain ecological balance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Are you willing to participate in activities to protect biological diversity?",
+    "options": [
+      "Very willing, active participation",
+      "More willing, will participate in the opportunity",
+      "Reluctant, lack of time and energy",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What do you know about the relationship between climate change and environmental pollution?",
+    "options": [
+      "Very understanding, knowing that the two affect each other",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "In your opinion, which of the following are effective measures to deal with climate change? (Multiple options available)",
+    "options": [
+      "Reduce greenhouse gas emissions",
+      "Increase forest carbon sinks",
+      "Promote low-carbon lifestyle",
+      "Strengthening international cooperation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What role do you think individuals can play in combating climate change? (Multiple options available)",
+    "options": [
+      "Save energy, such as turning off lights",
+      "Reduce the use of disposable products",
+      "Choose low-carbon travel methods",
+      "Support eco-friendly products",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "How much do you know about Marine pollution?",
+    "options": [
+      "Very knowledgeable and aware of major pollutants and hazards",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Which of the following do you think are the main sources of Marine pollution? (Multiple options available)",
+    "options": [
+      "Oil spills",
+      "Plastic waste",
+      "Industrial wastewater discharge",
+      "Agricultural non-point source pollution",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "What do you think is the impact of Marine pollution on Marine ecosystem?",
+    "options": [
+      "Very serious, threatening the survival of Marine life",
+      "Relatively serious, destroy the ecological balance",
+      "In general, it has a certain impact",
+      "Not too serious, the impact is not significant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "How much do you know about desertification?",
+    "options": [
+      "Very knowledgeable, aware of causes and hazards",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Which of the following do you think are the main causes of soil desertification? (Multiple options available)",
+    "options": [
+      "Overcultivation",
+      "Overgrazing",
+      "Climate change",
+      "Irrational use of water resources",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "In your opinion, what are the key measures to control desertification? (Multiple options available)",
+    "options": [
+      "Planting trees",
+      "Rational use of water resources",
+      "Control population growth",
+      "Develop ecological agriculture",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "How much do you know about acid rain?",
+    "options": [
+      "Very understanding, know the formation of causes and hazards",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Which of the following areas do you think are vulnerable to acid rain? (Multiple options available)",
+    "options": [
+      "Industrially developed areas",
+      "Densely populated areas",
+      "Areas with high energy consumption",
+      "High traffic areas",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "What do you think are the effective measures to reduce acid rain? (Multiple options available)",
+    "options": [
+      "Reduce sulfur dioxide and nitrogen oxide emissions",
+      "Promote clean energy",
+      "Strengthen waste gas treatment",
+      "Improving energy efficiency",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "How much do you know about smog?",
+    "options": [
+      "Very knowledgeable, aware of causes and hazards",
+      "Quite familiar, roughly know",
+      "Not really. I've heard of it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Which of the following measures do you think are effective in reducing smog? (Multiple options available)",
+    "options": [
+      "Strengthen the treatment of industrial waste gas",
+      "Control motor vehicle exhaust emissions",
+      "Strengthen urban dust management",
+      "Adjust the energy structure",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "What do you think about the role of environmental education in raising public awareness of environmental protection?",
+    "options": [
+      "Very important and effective in raising awareness",
+      "More important, has a certain role",
+      "Not very important, the effect is not obvious",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you think environmental education should be strengthened in schools?",
+    "options": [
+      "Yes, it is very necessary",
+      "Yes, it does",
+      "It doesn't matter, it doesn't matter much",
+      "Should not, waste of time"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you take the initiative to promote environmental protection knowledge to others?",
+    "options": [
+      "Often, actively promote",
+      "Occasionally, it depends",
+      "Rarely, no chance",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "What do you think of the role of environmental protection organizations in environmental protection?",
+    "options": [
+      "Very important, played A big role",
+      "Relatively important, have a certain contribution",
+      "Not very important, limited role",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Are you confident that environmental quality will improve in the future?",
+    "options": [
+      "Very confident, I believe it will get better and better",
+      "More confident, as long as the effort can improve",
+      "Not very confident, too many problems to solve",
+      "No confidence at all"
+    ],
+    "correctAnswer": ""
+  }
+]

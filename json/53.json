@@ -1,0 +1,449 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is your age range?",
+    "options": [
+      "Under 16",
+      "16 - 25",
+      "26 - 35",
+      "36 - 45",
+      "46 - 55",
+      "Over 55"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What types of alcohol do you usually drink? (Multiple choices)",
+    "options": [
+      "Baijiu (Chinese liquor)",
+      "Beer",
+      "Red wine",
+      "Vodka",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What proportion of foreign alcohol do you drink in the alcohol beverages you usually consume?",
+    "options": [
+      "20%",
+      "40%",
+      "60%",
+      "80%",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you like drinking alcohol?",
+    "options": [
+      "Like",
+      "Dislike"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you think it is better to drink alcohol with a higher or lower alcohol content?",
+    "options": [
+      "Higher",
+      "Lower"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Have you ever been exposed to vodka? (For example: Absolut Vodka)",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you think the different bottle packaging will affect the feeling of drinking?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you prefer to purchase online or offline?",
+    "options": [
+      "Online",
+      "Offline"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How often do you purchase vodka?",
+    "options": [
+      "Once a month",
+      "Once a week",
+      "Once a day",
+      "More",
+      "Never purchase"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What factors do you mainly consider when purchasing vodka? (Multiple choices)",
+    "options": [
+      "Price",
+      "Brand",
+      "Origin",
+      "Capacity",
+      "Packaging",
+      "Water source",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What is the acceptable price of vodka in your mind (take the daily 550ml as an example)?",
+    "options": [
+      "Less than 50 yuan",
+      "100 to 500 yuan",
+      "More than 500 yuan"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What vodka brands are you familiar with? (Multiple choices)",
+    "options": [
+      "Spirytus Rektyfikowany (Rectified Spirit)",
+      "Lubuski",
+      "Bacardi",
+      "Little Bird Vodka",
+      "Deep Well Vodka",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "What are the main factors for you to choose this brand? (Multiple choices)",
+    "options": [
+      "Advertising promotion",
+      "Price",
+      "Packaging",
+      "Water source",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Where do you usually purchase vodka? (Multiple choices)",
+    "options": [
+      "Large supermarkets",
+      "Convenience stores",
+      "Tobacco and alcohol specialty stores",
+      "Online",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "How much do you know about the vodka you purchase?",
+    "options": [
+      "Know very well. I will find out the origin before purchasing and buy according to my personal taste.",
+      "Don't know much. Just heard or know some aspects.",
+      "Don't know. Just think it tastes good.",
+      "Don't care."
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "In what situations do you usually drink alcohol? (Multiple choices)",
+    "options": [
+      "At home",
+      "In bars",
+      "In KTV",
+      "At parties and dinners",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "When do you usually drink alcohol? (Multiple choices)",
+    "options": [
+      "In the morning",
+      "In the afternoon",
+      "In the evening",
+      "Late at night"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What quality of vodka can you accept?",
+    "options": [
+      "High-end",
+      "Mid-range",
+      "Low-end",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "For vodka, what flavors do you hope to have? (Multiple choices)",
+    "options": [
+      "Apple",
+      "Orange",
+      "Lemon",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "What condiments do you like to pair when drinking vodka cocktails? (Multiple choices)",
+    "options": [
+      "Sprite",
+      "Coke",
+      "Orange juice",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Through which channels did you learn about vodka? (Multiple choices)",
+    "options": [
+      "Promotion by shopping assistants",
+      "Family members",
+      "Friends",
+      "Internet",
+      "Trade shows",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you often purchase vodka?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "What are the channels for you to purchase vodka? (Multiple choices)",
+    "options": [
+      "Supermarkets",
+      "Tobacco and alcohol specialty stores",
+      "Online",
+      "Other places",
+      "Don't buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "How much do you spend on purchasing alcohol every year?",
+    "options": [
+      "Almost no money",
+      "500 - 1,000 yuan",
+      "1,000 - 5,000 yuan",
+      "More than 5,000 yuan"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What is the origin of the vodka you usually purchase? (Multiple choices)",
+    "options": [
+      "Russia",
+      "Poland",
+      "The United States",
+      "Never pay attention",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "On what occasions will you drink vodka? (Multiple choices)",
+    "options": [
+      "In bars",
+      "At home",
+      "At parties",
+      "In KTV",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "If there is a vodka exhibition nearby, are you willing to attend?",
+    "options": [
+      "Willing",
+      "Don't want to go",
+      "It's OK. It depends on the mood"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What are the important factors that affect your choice of vodka? (Multiple choices)",
+    "options": [
+      "Price",
+      "Brand",
+      "Taste",
+      "Origin",
+      "Year",
+      "Packaging"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Have you known or purchased the co-branded products of Absolut Vodka?",
+    "options": [
+      "Purchased",
+      "Known but not purchased",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What do you think are the characteristics of Absolut Vodka? (Multiple choices)",
+    "options": [
+      "Soft taste",
+      "Pure flavor",
+      "Strong plasticity",
+      "Nice packaging",
+      "High cost performance",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What suggestions or expectations do you have for Absolut Vodka?",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you know other vodka foreign alcohol brands? (Multiple choices)",
+    "options": [
+      "Smirnoff",
+      "Absolut",
+      "Skyy",
+      "Yerisoff",
+      "Talon",
+      "None of the above",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which aspect do you pay the most attention to when choosing vodka foreign alcohol? (Multiple choices)",
+    "options": [
+      "Taste",
+      "Word-of-mouth",
+      "Price",
+      "Advertising",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What is the price of Absolut Vodka you usually drink?",
+    "options": [
+      "Less than 100 yuan",
+      "100 - 150 yuan",
+      "151 - 200 yuan",
+      "More than 200 yuan"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "For what purpose do you usually drink vodka? (Multiple choices)",
+    "options": [
+      "Friends' gatherings",
+      "Business banquets",
+      "Personal parties",
+      "Self-enjoyment",
+      "Chasing trends",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you purchase Absolut Vodka again?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What is your impression of the advertising promotion of vodka?",
+    "options": [
+      "Very deep and very attractive",
+      "Have a certain impression",
+      "Not deep impression",
+      "Haven't noticed"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Which type of vodka advertisement can attract you more? (Multiple choices)",
+    "options": [
+      "Emphasizing brand history and culture",
+      "Displaying unique production techniques",
+      "Highlighting different flavors and blending methods",
+      "With celebrity endorsements",
+
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think the price of vodka in the current market is reasonable?",
+    "options": [
+      "Reasonable",
+      "High",
+      "Low",
+      "Not clear"
+    ],
+    "correctAnswer": ""
+  }
+]

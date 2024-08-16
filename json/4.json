@@ -1,0 +1,858 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36 to 45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancer",
+      "Retirees",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your city:",
+    "options": [
+      "First-tier cities",
+      "Second-tier cities",
+      "Third-tier cities",
+      "Tier 4 and below cities"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "The average number of takeaways you order per week:",
+    "options": [
+      "0-1 times",
+      "Two or three times",
+      "Four or five times",
+      "Six or more times"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "When do you usually order take-out:",
+    "options": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Late night snack"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following causes you to order takeout more often:",
+    "options": [
+      "Busy work",
+      "Bad weather",
+      "Many discount activities",
+      "Too lazy to cook",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Which delivery platforms do you frequently use:",
+    "options": [
+      "Meituan Takeaway",
+      "Are you hungry",
+      "Baidu Takeout (if existing)",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Your main reasons for choosing this platform are:",
+    "options": [
+      "The dishes are rich",
+      "Fast delivery speed",
+      "The offer is strong",
+      "The interface is easy to operate",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you use multiple delivery platforms at the same time:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "If a new delivery platform is launched, why would you try it:",
+    "options": [
+      "High subsidies",
+      "Unique dishes",
+      "Better service",
+      "Recommended by friends",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "The most common types of food you choose when ordering takeaway are:",
+    "options": [
+      "Chinese fast food",
+      "Western fast food",
+      "Stir-fry dishes",
+      "Hot pot",
+      "Barbecue",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "The factors you pay the most attention to when choosing takeaway dishes are:",
+    "options": [
+      "The price",
+      "Taste",
+      "Hygiene",
+      "Nutrition",
+      "The weight"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Will you try new dishes:",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very little",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Which of the following menu promotions will attract you to order:",
+    "options": [
+      "Buy one, get one free",
+      "Full discount",
+      "Exclusive discount for new users",
+      "Package combination offers",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "The maximum delivery time you can accept is:",
+    "options": [
+      "Within 30 minutes",
+      "30 to 45 minutes",
+      "45-60 minutes",
+      "More than 60 minutes"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Are you satisfied with the service attitude of the delivery clerk:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "If the delivery times out, you will:",
+    "options": [
+      "Understand, will not complain",
+      "Communicate first and decide whether to complain according to the situation",
+      "Make a direct complaint"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Are you willing to pay extra for faster delivery:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you want to be able to see the location of your delivery person in real time:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "How satisfied are you with takeaway packaging:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "What do you think is the most important for takeaway packaging:",
+    "options": [
+      "Good thermal insulation effect",
+      "Good sealing",
+      "Environmental protection",
+      "Good appearance",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "If the delivery package is beautiful, will it increase your favorable impression of the business:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Your average cost per order is:",
+    "options": [
+      "Under 20",
+      "21-30",
+      "31-40",
+      "41-50",
+      "More than 50"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think the current takeaway price:",
+    "options": [
+      "The value is too high",
+      "Moderate",
+      "On the low side"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Which of the following discount methods do you like best:",
+    "options": [
+      "Direct deduction amount",
+      "Issue coupons",
+      "Points redemption",
+      "Full reduction activity",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you have confidence in the safety of the food you order:",
+    "options": [
+      "Very relieved",
+      "Don't worry",
+      "Normal",
+      "Don't worry",
+      "Very worried"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "You can learn about the safety of takeaway food through:",
+    "options": [
+      "Food delivery platform promotion",
+      "News reports",
+      "Social media",
+      "Friend notification",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "If you find a safety problem with takeaway food, you will:",
+    "options": [
+      "Complain to the merchant",
+      "Complain to the delivery platform",
+      "Report to relevant departments",
+      "Admit bad luck",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Will you take the initiative to evaluate the delivery:",
+    "options": [
+      "Every time",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "The main basis for your evaluation of takeaway food is:",
+    "options": [
+      "Food quality",
+      "Delivery service",
+      "Packing",
+      "Price",
+      "Take comprehensive consideration"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Does your review have an impact on the seller:",
+    "options": [
+      "It has a great impact and the merchant will improve",
+      "There is a certain impact, the business will pay attention",
+      "The impact is small, the business does not care too much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What do you think are the health effects of eating take-out regularly:",
+    "options": [
+      "It's very large and unhealthy",
+      "It has some impact, but it is acceptable",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you order takeout less often because of health concerns:",
+    "options": [
+      "Yes",
+      "Maybe",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you want the delivery business to offer healthier food options:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you concerned about the impact of takeaway packaging on the environment:",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Pay attention occasionally",
+      "Do not pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Which of the following ways do you think can reduce the environmental pollution of takeaway food:",
+    "options": [
+      "Promote environmentally friendly packaging materials",
+      "Encourage consumers to bring their own utensils",
+      "Strengthen garbage sorting and recycling",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Are you willing to pay extra for environmentally friendly takeaway packaging:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you order takeout with friends?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very little",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you refer to friends' recommendations for delivery:",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very little",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you share your order on social media:",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very little",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you want the delivery platform to provide the following value-added services (multiple options are available) :",
+    "options": [
+      "Reservation function",
+      "Customize dishes",
+      "Recommended by dietitians",
+      "Food traceability",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "If the delivery platform provides health management services (such as diet advice, calorie counting, etc.), will you use:",
+    "options": [
+      "Yes",
+      "Maybe",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you willing to pay extra for these value-added services:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Can you name a few well-known takeaway brands:",
+    "options": [
+      "0-2",
+      "3 to 5",
+      "6 to 8",
+      "More than 8"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Which of the following delivery brands impressed you (multiple choices) :",
+    "options": [
+      "KFC Express delivery",
+      "McDonald's McNuggets",
+      "Pizza Hut delivery",
+      "Starbucks special gift",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What characteristics do you think a good delivery brand should have (multiple choices) :",
+    "options": [
+      "Good reputation",
+      "Good quality food",
+      "Efficient delivery",
+      "Reasonable price",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Does ordering takeout reduce your visits to offline restaurants?",
+    "options": [
+      "Yes, significantly less",
+      "Yes, there will be a certain reduction",
+      "No, it has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "In your opinion, the main differences between takeaway food and offline catering are:",
+    "options": [
+      "Dining environment",
+      "Food quality",
+      "Service experience",
+      "Price",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Under what circumstances would you prefer to choose offline restaurants for dining?",
+    "options": [
+      "Friends' party",
+      "Special holidays",
+      "Pursue a better dining experience",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "In your opinion, the development trend of the food delivery industry in the future is:",
+    "options": [
+      "More intelligent",
+      "Pay more attention to health and environmental protection",
+      "The service is more personalized",
+      "The competition is more fierce",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Are you optimistic about the future development of the delivery industry?",
+    "options": [
+      "Very optimistic",
+      "More optimistic",
+      "Normal",
+      "Not too optimistic",
+      "Very not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What aspects do you think the food delivery industry needs to further improve and enhance (multiple choices) :",
+    "options": [
+      "Food safety supervision",
+      "Delivery service quality",
+      "Quality and variety of dishes",
+      "Reasonable price",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you order take-out when you are sick:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "If yes, what kind of food will you choose?",
+    "options": [
+      "Light and easy to digest",
+      "Nutrient-rich",
+      "Special meals suitable for your condition",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you order takeout when you work overtime:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Which type of takeaway do you prefer to choose when working overtime?",
+    "options": [
+      "It fills you up quickly",
+      "It's refreshing",
+      "The taste is strong and can be decompressed",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Will you order takeaway food when you travel:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "The main reasons for ordering takeaway while traveling are:",
+    "options": [
+      "Unfamiliar with the local restaurants",
+      "I want to rest in the hotel",
+      "Save time",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you order takeaway for your family:",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Very little",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What factors do you consider when ordering food for your family?",
+    "options": [
+      "Taste preferences of family members",
+      "Nutrition collocation of dishes",
+      "Hygiene of takeaway food",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "How receptive is your family to takeout?",
+    "options": [
+      "Very much",
+      "Prefer it",
+      "Normal",
+      "Not really",
+      "I really don't like it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "During festivals (such as Spring Festival, Valentine's Day, etc.), will you order take-out:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "The main reasons you order takeaway during the holiday season are:",
+    "options": [
+      "I don't want to cook",
+      "The restaurant is too crowded",
+      "Enjoy the holiday atmosphere",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What special services or dishes do you think delivery businesses should offer during the festival?",
+    "options": [
+      "Holiday packages",
+      "Special gift packaging",
+      "Dishes with festive themes",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "In different seasons, do you have changes in the frequency of ordering takeout and the choice of dishes?",
+    "options": [
+      "Yes, there will be A significant change",
+      "Yes, there will be some changes",
+      "No, there is no change"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "For example, in summer, what kind of takeaway food do you prefer to order?",
+    "options": [
+      "Cool and refreshing",
+      "Fresh fruit salad",
+      "Barbecue crayfish",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What kind of takeaway food do you prefer to order in winter?",
+    "options": [
+      "Steaming hot pot",
+      "Nourishing stew",
+      "High calorie food",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you order more takeout because of the holiday promotion activities of the takeout platform (such as Double 11, 618, etc.) :",
+    "options": [
+      "Yes, it will increase significantly",
+      "Yes, there is a certain increase",
+      "No, it has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Which of the following forms of promotion are you more interested in (multiple options are available) :",
+    "options": [
+      "Full reduction",
+      "Discount",
+      "Giveaways",
+      "Lucky draw",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you pay attention to the promotion activities launched by the delivery merchants themselves:",
+    "options": [
+      "Always pay attention",
+      "Pay attention occasionally",
+      "Little attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you think food delivery has changed your lifestyle?",
+    "options": [
+      "It's changed a lot",
+      "Some changes have been made",
+      "Not much has changed",
+      "No change"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "What are the specific manifestations (optional) :",
+    "options": [
+      "Saves cooking time",
+      "Provides more dietary choices",
+      "It facilitates work and study",
+      "Reduce the frequency of eating out",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Do you think over-reliance on takeaway food will bring bad effects?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you want the delivery platform to use more scientific and technological means (such as artificial intelligence, big data, etc.) to improve service quality?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "For example, if big data is used to recommend dishes more in line with your taste, will you accept:",
+    "options": [
+      "Yes, I'm looking forward to it",
+      "Yes, but with reservations",
+      "No, I don't believe it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Would you like to use unmanned delivery service?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you think that delivery platforms and businesses should assume certain social responsibilities (such as environmental protection, public welfare, etc.) :",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "If the delivery platform and merchants actively fulfill their social responsibilities, will it increase your favorable impression of them?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  }
+]

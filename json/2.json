@@ -1,0 +1,838 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36 to 45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancer",
+      "Retirees",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your monthly income:",
+    "options": [
+      "Less than 5000",
+      "5001-10000",
+      "10001-20000",
+      "20001-30000",
+      "The value is more than 30,000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Have you ever bought a watch?",
+    "options": [
+      "Yes",
+      "No (Skip to question 28)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "The main reasons you buy a watch are:",
+    "options": [
+      "Look at the time",
+      "Decoration",
+      "Give it to others as a gift",
+      "Collect",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How often do you buy watches?",
+    "options": [
+      "Never",
+      "Occasionally (once every 1-2 years)",
+      "Often (once or more per year)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Your budget for buying a watch is usually:",
+    "options": [
+      "Less than 500",
+      "501-1000",
+      "1001-3000",
+      "3001-5000",
+      "5001 or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Which of the following brands do you prefer when buying watches?",
+    "options": [
+      "International well-known brands (such as Rolex, Omega, etc.)",
+      "Well-known domestic brands (such as Feiyada, Seagull, etc.)",
+      "Fashion brands (such as DW, Armani, etc.)",
+      "Niche brands",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "When buying a watch, which of the following factors do you pay more attention to (multiple choices can be made) :",
+    "options": [
+      "Brand awareness",
+      "Appearance design",
+      "Watch functions (such as waterproof, timing, etc.)",
+      "Quality of movement",
+      "Price",
+      "After-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Which of the following channels do you usually buy watches from:",
+    "options": [
+      "Brand store",
+      "Counters in large shopping malls",
+      "E-commerce platform",
+      "Watch shop",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "When buying a watch, do you refer to the opinions of others?",
+    "options": [
+      "Definitely",
+      "Maybe",
+      "Rarely",
+      "Absolutely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Have you ever bought a watch because of a promotion?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Which watch style do you prefer?",
+    "options": [
+      "Mechanical watch",
+      "Quartz watch",
+      "Smart table",
+      "Optical Drive meter",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Which of the following dial shapes do you prefer:",
+    "options": [
+      "Round",
+      "Square",
+      "Oval",
+      "Polygon",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Which of the following strap materials do you prefer:",
+    "options": [
+      "Stainless steel",
+      "Leather",
+      "Rubber",
+      "Nylon",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following dial colors do you prefer:",
+    "options": [
+      "Black",
+      "White",
+      "Blue",
+      "Gold",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Which of the following case materials do you prefer:",
+    "options": [
+      "Stainless steel",
+      "Titanium alloy",
+      "Ceramics",
+      "Plastic",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Which watch style do you prefer:",
+    "options": [
+      "Business attire",
+      "Leisure sports",
+      "Fashion trends",
+      "Vintage classic",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Which of the following functions of the watch do you think is necessary (multiple choices can be made) :",
+    "options": [
+      "Waterproof",
+      "Time",
+      "Calendar",
+      "Weekly display",
+      "Alarm clock",
+      "Luminous",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you need the watch to have smart functions (such as connecting to mobile phones, monitoring health, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "If the watch has smart functions, which of the following functions do you most want it to achieve (multiple choices) :",
+    "options": [
+      "Exercise monitoring (e.g. step count, heart rate, etc.)",
+      "Sleep monitoring",
+      "Mobile phone notification notification",
+      "Payment function",
+      "Navigation function",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you need a watch with complex functions (such as moon phases, tourbillons, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "What are your requirements for the accuracy of the watch?",
+    "options": [
+      "Very high, within A few seconds per day",
+      "High, the error is less than ten seconds per day",
+      "In general, the error is within tens of seconds per day",
+      "Not too concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Which of the following watch brands do you know (more than one can choose) :",
+    "options": [
+      "Rolex",
+      "Omega",
+      "Cartier",
+      "Longines",
+      "Tissot",
+      "The Nations",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What is your impression of Rolex watch:",
+    "options": [
+      "High-end luxury",
+      "Excellent quality",
+      "Classic inheritance",
+      "It is expensive",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Your impression of Omega watch is:",
+    "options": [
+      "Advanced technology",
+      "Stylish and dynamic",
+      "High brand awareness",
+      "Various styles",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What is your impression of Cartier watches:",
+    "options": [
+      "The perfect combination of jewelry and watches",
+      "Beautiful design",
+      "Noble brand image",
+      "Suitable for women",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What is your impression of Longines watches:",
+    "options": [
+      "Elegant and classic",
+      "The price is moderate",
+      "Suitable for business occasions",
+      "The quality of the movement is reliable",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What is your impression of Tissot watches:",
+    "options": [
+      "High cost performance",
+      "The style is fashionable",
+      "Suitable for young people",
+      "The brand has a long history",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What is your impression of Wanguo watches:",
+    "options": [
+      "Exquisite watchmaking technology",
+      "High-end atmosphere",
+      "Suitable for men",
+      "Excellent complex functions",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you have the desire to buy a watch because of the advertisement?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Which of the following forms of watch advertising do you think is most attractive to you (multiple choices can be made) :",
+    "options": [
+      "TV commercials",
+      "Network advertising",
+      "Magazine advertisements",
+      "Outdoor advertising",
+      "Celebrity endorsement",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Will you buy a watch because of celebrity endorsement?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Which of the following stars do you think will make you more willing to buy the watch (multiple choices) :",
+    "options": [
+      "Andy Lau",
+      "Jay Chou",
+      "Yang Mi",
+      "Lu Han",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Will you follow the watch brand's official social media accounts (such as wechat public account, Weibo, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Which of the following content do you think is most attractive to you when a watch brand posts on social media (multiple choices can be made) :",
+    "options": [
+      "New product release",
+      "Brand activities",
+      "Watch knowledge popularization",
+      "User story sharing",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Have you ever encountered quality problems after buying a watch?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "When you encounter quality problems, is the after-sales service of the watch brand satisfactory to you?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Which of the following aspects do you think are the most important in the after-sales service of the watch brand (multiple choices can be made) :",
+    "options": [
+      "Maintenance speed",
+      "Maintenance quality",
+      "Service attitude",
+      "After-sales guarantee period",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Are you willing to pay extra for the after-sales service of the watch?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "How long do you think the watch brand should provide after-sales protection period?",
+    "options": [
+      "One year",
+      "2 years",
+      "3 years",
+      "5 years",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you plan to buy a watch in the future?",
+    "options": [
+      "Yes",
+      "No (Skip to question 78)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "How soon do you plan to buy a watch?",
+    "options": [
+      "Within six months",
+      "Within one year",
+      "Within two years",
+      "3 years and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Your budget for future watch purchases is:",
+    "options": [
+      "Less than 500",
+      "501-1000",
+      "1001-3000",
+      "3001-5000",
+      "5001 or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Which of the following brands are you more likely to choose when buying watches in the future:",
+    "options": [
+      "International well-known brands (such as Rolex, Omega, etc.)",
+      "Well-known domestic brands (such as Feiyada, Seagull, etc.)",
+      "Fashion brands (such as DW, Armani, etc.)",
+      "Niche brands",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Which of the following factors will you pay more attention to when buying a watch in the future (multiple choices can be made) :",
+    "options": [
+      "Brand awareness",
+      "Appearance design",
+      "Watch functions (such as waterproof, timing, etc.)",
+      "Quality of movement",
+      "Price",
+      "After-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Which of the following styles do you prefer when buying watches in the future:",
+    "options": [
+      "Mechanical watch",
+      "Quartz watch",
+      "Smart table",
+      "Optical Drive meter",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Which of the following dial shapes do you prefer when buying a watch in the future:",
+    "options": [
+      "Round",
+      "Square",
+      "Oval",
+      "Polygon",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "When you buy a watch in the future, which of the following strap materials are you more inclined to:",
+    "options": [
+      "Stainless steel",
+      "Leather",
+      "Rubber",
+      "Nylon",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which of the following dial colors do you prefer when buying watches in the future:",
+    "options": [
+      "Black",
+      "White",
+      "Blue",
+      "Gold",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Which of the following case materials do you prefer when buying a watch in the future:",
+    "options": [
+      "Stainless steel",
+      "Titanium alloy",
+      "Ceramics",
+      "Plastic",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Which of the following watch styles do you prefer when buying watches in the future:",
+    "options": [
+      "Business attire",
+      "Leisure sports",
+      "Fashion trends",
+      "Vintage classic",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "In your opinion, the current development trend of the watch industry is:",
+    "options": [
+      "Intelligent",
+      "Personalization",
+      "High-end",
+      "Environmental protection",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the watch will be completely replaced by other smart devices (such as mobile phones) in the future?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "How do you think watch brands should innovate to meet the needs of consumers? (Multiple options available)",
+    "options": [
+      "Launch more personalized customization services",
+      "Strengthen technology research and development to improve watch functions",
+      "Cross-border cooperation with other industries (such as fashion, technology)",
+      "Focus on the application of environmentally friendly materials",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "In your opinion, which of the following factors are most important for watch brands to compete in the market (multiple choices can be made) :",
+    "options": [
+      "Product quality",
+      "Brand image",
+      "Pricing strategy",
+      "Marketing promotion",
+      "After-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "What problems do you think exist in the current watch market (multiple choices) :",
+    "options": [
+      "Serious brand homogeneity",
+      "The price is high",
+      "Fake and inferior products are widespread",
+      "After-sales service is not in place",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "What is your opinion on the development prospect of the watch industry?",
+    "options": [
+      "Very optimistic",
+      "More optimistic",
+      "Normal",
+      "Not too optimistic",
+      "Very not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you own more than one watch?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "If you own multiple watches, what occasions do you usually wear different watches?",
+    "options": [
+      "Formal occasions",
+      "Casual occasions",
+      "Sports occasions",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you consider a watch as an investment?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "If you use watches as investment goods, which of the following watches do you prefer to invest in?",
+    "options": [
+      "Limited edition watch",
+      "Antique watches",
+      "Classic styles of well-known brands",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "How much do you know about the maintenance of watches?",
+    "options": [
+      "Very well",
+      "I understand",
+      "Know something about it",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+       "question": "Which of the following ways do you usually obtain watch maintenance knowledge (multiple choices) :",
+    "options": [
+      "Official website of the brand",
+      "Watch Forum",
+      "Professional books",
+      "Consult the watch maker",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you modify the watch (such as changing the strap, dial, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "If you modify the watch, your main purpose is:",
+    "options": [
+      "Pursue personalization",
+      "Improve the performance of the watch",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you buy a used watch?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "If you buy a used watch, your biggest concerns are:",
+    "options": [
+      "Quality problem",
+      "Authenticity problem",
+      "After-sales problems",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Are you interested in collecting watches?",
+    "options": [
+      "Very interested",
+      "More interested",
+      "Normal",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "If you collect watches, which of the following aspects do you pay more attention to (multiple choices can be made) :",
+    "options": [
+      "Brand history",
+      "Rarity",
+      "Process value",
+      "Market value",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "How useful do you think watches are in improving one's image?",
+    "options": [
+      "It's very big",
+      "It is large",
+      "Normal",
+      "It's small",
+      "It has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Will you give someone a watch as a gift?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "If you give someone a watch as a gift, which of the following would you usually choose:",
+    "options": [
+      "Family",
+      "Friends",
+      "Lovers"
+    ],
+    "correctAnswer": ""
+  }
+]

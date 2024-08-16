@@ -1,0 +1,916 @@
+[
+  {
+    "id": 1,
+    "question": "Have you purchased health insurance?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is your main reason for buying health insurance?",
+    "options": [
+      "Prevention of major disease risks",
+      "Provision of routine medical care",
+      "Unit requirements",
+      "Family suggestions",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Through which of the following channels do you purchase health insurance?",
+    "options": [
+      "Official website of insurance company",
+      "Insurance agent",
+      "Banks",
+      "Third-party insurance platform",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What is the annual premium for your health insurance?",
+    "options": [
+      "Less than 500 $",
+      "501-1000 $",
+      "1001-2000 $",
+      "2001-5000 $",
+      "More than 5000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is the duration of your health insurance?",
+    "options": [
+      "One year",
+      "2-3 years",
+      "5 years",
+      "10 years",
+      "For life"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is the coverage of your health insurance?",
+    "options": [
+      "Hospitalization",
+      "Outpatient medical care",
+      "Major diseases",
+      "Accidental injury",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the payment method of your health insurance?",
+    "options": [
+      "Reimbursement type",
+      "Payment type"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Are you satisfied with the claims process for your health insurance?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "To what extent do you think health insurance is important?",
+    "options": [
+      "Very important",
+      "Important",
+      "General",
+      "Not very important",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you understand the concept of deductible in health insurance?",
+    "options": [
+      "Very well",
+      "Understanding",
+      "Kind of understand",
+      "Don't understand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you understand the concept of waiting period for health insurance?",
+    "options": [
+      "Very well",
+      "Understanding",
+      "Kind of understand",
+      "Don't understand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "When you buy health insurance, do you read the insurance policy carefully?",
+    "options": [
+      "Read it carefully",
+      "Browse roughly",
+      "Not reading"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Will you choose to buy health insurance from an insurance company because of its brand awareness?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Will you buy health insurance on the recommendation of an insurance agent?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Will you buy health insurance because the price of the insurance product is favorable?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you choose to buy health insurance from an insurance company because of its service quality?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Will you buy health insurance because of the extensive coverage of the insurance products?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you buy health insurance because of the speed of claim settlement?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Will you buy health insurance because the value-added services of the insurance product (such as health management, physical examination, etc.)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you buy health insurance because the insurance product can be renewed?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Will you buy health insurance because the insurance product can be reimbursed for medical treatment in different places?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you buy health insurance because the insurance product can cover imported drugs?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you buy health insurance because the insurance product can protect you from pre-existing conditions?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you buy health insurance because it protects other members of your family?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Will you buy health insurance because the insurance product can provide a second opinion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Will you buy health insurance because the insurance product can provide overseas medical services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Will you buy health insurance because the insurance product can provide protection for proton heavy ion therapy?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you buy health insurance because the insurance product can provide protection for special medical services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you buy health insurance because the insurance product can provide protection for Chinese medicine treatment?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Will you buy health insurance because the insurance product can provide protection for rehabilitation treatment?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you buy health insurance because the insurance product can provide dental treatment coverage?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you buy health insurance because the insurance product can provide protection for eye treatment?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you buy health insurance because the insurance product can provide maternity protection?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you buy health insurance because the insurance product can provide protection for specific diseases of children?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you buy health insurance because the insurance product can provide protection against certain diseases in old age?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you buy health insurance because the insurance product can provide protection against chronic diseases?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you buy health insurance because the insurance product can provide rare disease protection?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you buy health insurance because the insurance product provides protection against mental illness?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you buy health insurance because the insurance product provides protection against infectious diseases?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you buy health insurance because the insurance product provides protection against occupational diseases?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you buy health insurance because the insurance product can provide medical coverage for accidental injury?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you buy health insurance because the insurance product can provide emergency services protection?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Will you buy health insurance because the insurance product can provide direct payment service for medical expenses?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you buy health insurance because the insurance product can provide serious illness green service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Will you buy health insurance because the insurance product can provide family doctor services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you buy health insurance because the insurance product can provide health examination service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you buy health insurance because the insurance product can provide health consultation services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Will you buy health insurance because the insurance product can provide health assessment services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you buy health insurance because the insurance product can provide health talk service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you buy health insurance because the insurance product can provide health management solutions?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you buy health insurance because the insurance product can provide guidance on healthy eating?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you buy health insurance because the insurance product can provide exercise and fitness guidance?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you buy health insurance because the insurance product can provide mental health guidance?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Will you buy health insurance because the insurance product can provide guidance on traditional Chinese medicine health?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you buy health insurance because it provides sleep management guidance?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you buy health insurance because the insurance product can provide guidance on quitting smoking and drinking?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you buy health insurance because it provides guidance on stress management?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you buy health insurance because the insurance product can provide regular return visit service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy health insurance because the insurance product can provide personalized service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you buy health insurance because the insurance product can provide one-stop service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you buy health insurance because the insurance product can provide customized services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you buy health insurance because the insurance product can provide lifetime service?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you buy health insurance because the insurance product can provide free value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you buy health insurance because the insurance product can provide diversified value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you buy health insurance because the insurance product can provide a full range of value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you buy health insurance because the insurance product can provide quality value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you buy health insurance because the insurance product can provide efficient value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you buy health insurance because the insurance product can provide convenient value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you buy health insurance because the insurance product can provide intimate value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you buy health insurance because the insurance product can provide professional value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you buy health insurance because the insurance product can provide innovative value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you buy health insurance because the insurance product can provide sustainable value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you buy health insurance because the insurance product can provide targeted value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Do you buy health insurance because the insurance product can provide personalized value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you buy health insurance because it provides value-added services that meet your specific needs?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you buy health insurance because the insurance product can provide escalating value-added services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you buy health insurance because the insurance product can provide value-added services that adapt to market changes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  }
+]

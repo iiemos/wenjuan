@@ -1,0 +1,759 @@
+[
+  {
+    "id": 1,
+    "question": "Have you ever watched a live webcast?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "How often do you watch the webcast?",
+    "options": [
+      "Every day",
+      "Several times a week",
+      "Several times a month",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "How long do you usually watch a webcast?",
+    "options": [
+      "Within 1 hour",
+      "1-2 hours",
+      "2-3 hours",
+      "More than 3 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "When do you usually watch the webcast?",
+    "options": [
+      "In the morning",
+      "Noon",
+      "In the afternoon",
+      "At night"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is your main device for watching the webcast?",
+    "options": [
+      "Mobile phone",
+      "Computers",
+      "Flat plate",
+      "Television"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is your main purpose for watching the webcast?",
+    "options": [
+      "Entertainment",
+      "Obtain information",
+      "Learn knowledge",
+      "Social interaction"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which type of webcast do you prefer to watch?",
+    "options": [
+      "Live game streaming",
+      "Live talent show",
+      "Live sharing",
+      "E-commerce with goods live"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Will you interact (comments, likes, gifts, etc.) while watching the live stream?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Will you buy something based on the recommendation of the anchor?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How often do you buy items on the webcast?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How receptive are you to ads in webcasts?",
+    "options": [
+      "Not at all",
+      "Not too disgusted",
+      "A little disgusted",
+      "Very disgusted"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Will you pay attention to the activities of the webcast platform?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Will you increase your viewing time because of the activities of the webcast platform?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you think the image quality of webcast is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you think the sound effect of webcast is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you choose to watch a live stream because of the host's language style?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you choose to watch the live stream of a host because of their appearance?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think the content innovation of webcast is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you watch fewer webcasts because the content is repetitive?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Would you recommend your favorite webcast to your friends?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Are you willing to pay for premium webcast content?",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you think webcast has a positive impact on your life?",
+    "options": [
+      "Has A great positive impact",
+      "There are some positive effects",
+      "Little impact",
+      "No positive impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you think webcast has a positive impact on society?",
+    "options": [
+      "Has A great positive impact",
+      "There are some positive effects",
+      "Little impact",
+      "No positive impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you think there is vulgar content in network broadcast?",
+    "options": [
+      "Abundant presence",
+      "There are some",
+      "Rarely exists",
+      "Does not exist"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think webcast needs to be more regulated?",
+    "options": [
+      "Much needed",
+      "More need",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What do you think about the phenomenon of false propaganda in network broadcast?",
+    "options": [
+      "Very serious",
+      "It's more serious",
+      "Not too serious",
+      "Does not exist"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Have you ever encountered fraud in webcasts?",
+    "options": [
+      "Often encountered",
+      "Occasionally",
+      "Rarely encountered",
+      "Never met"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "How do you think the user privacy protection of webcast platform is done?",
+    "options": [
+      "Very good",
+      "It's better",
+      "Not good",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you reduce your use of webcast platforms due to user privacy concerns?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What do you think of the bullet culture in webcast?",
+    "options": [
+      "It's fun and increases interactivity",
+      "Sometimes it is interesting, sometimes it affects the viewing",
+      "Not paying much attention",
+      "Very disgusted, affect the viewing"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Will you change your view of live streaming because of the content of the bullet stream?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you think the tipping function in network broadcast is reasonable?",
+    "options": [
+      "Very reasonable",
+      "It's reasonable",
+      "It's not reasonable",
+      "Totally unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What is your usual reward amount on webcasts?",
+    "options": [
+      "0-10",
+      "11-50",
+      "51-100",
+      "More than 100"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What do you think of the customer service quality of webcast platform?",
+    "options": [
+      "Very good",
+      "It's better",
+      "Not good",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you change platforms because of the poor customer service quality of webcast platforms?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you think the interface design of the webcast platform is friendly?",
+    "options": [
+      "Very friendly",
+      "It's friendly",
+      "Not very friendly",
+      "Very unfriendly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you reduce your use of webcast platforms because of poor interface design?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "How do you feel about copyright protection in webcast?",
+    "options": [
+      "Well protected",
+      "There is some protection, but it needs to be strengthened",
+      "Insufficient protection",
+      "No protection at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think webcast will affect teenagers' values?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think webcast will have an impact on traditional media?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you watch less traditional TV because of live streaming?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What do you think of the future development prospects of webcast?",
+    "options": [
+      "It's very broad",
+      "Relatively broad",
+      "Not too optimistic",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Will you try to do your own webcast?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "If you do a webcast, what will be the main content?",
+    "options": [
+      "Games",
+      "Talent show",
+      "Life sharing",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "What do you think are the requirements for webcasting?",
+    "options": [
+      "Outstanding talent",
+      "Good eloquence",
+      "Unique ideas",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you know the relevant laws and regulations of webcast?",
+    "options": [
+      "Very well",
+      "Better understand",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think that live streaming platforms should conduct strict qualification checks on anchors?",
+    "options": [
+      "It should be very strict",
+      "It should be strict",
+      "Appropriate review is enough",
+      "No audit required"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think live streaming platforms should restrict the viewing of minors?",
+    "options": [
+      "It should be strictly limited",
+      "Should be appropriately limited",
+      "There is no need for restrictions",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "What do you think of the sweepstakes in the webcast?",
+    "options": [
+      "Very engaging, increase participation",
+      "It has a certain appeal",
+      "Not paying much attention",
+      "Doubt its impartiality"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you choose to watch because of the sweepstakes in the webcast?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think the Link function in webcast is interesting?",
+    "options": [
+      "Very interesting",
+      "It's interesting",
+      "Not very interesting",
+      "Totally boring"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you increase interaction due to the Link feature in the webcast?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What do you think of the paid membership system in webcast?",
+    "options": [
+      "It's A good deal. I'm willing to buy it",
+      "Reasonable price, possible purchase",
+      "Not very value, will not buy",
+      "Totally unacceptable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think webcast platforms should provide more personalized recommendations?",
+    "options": [
+      "Very much",
+      "Should compare",
+      "Dispensable",
+      "No need"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "What do you think of the speed of content review on webcast platforms?",
+    "options": [
+      "Very fast",
+      "It's faster",
+      "It's a little slow",
+      "Very slow"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you think that online broadcast platforms should conduct tax supervision on the income of anchors?",
+    "options": [
+      "Very much",
+      "Should compare",
+      "Not necessary",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think live streaming will lead to social distancing?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you think webcast will promote cultural exchange?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think webcasting will increase job opportunities?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think webcast will affect people's reading habits?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you think live streaming has an impact on mental health?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you think webcast will exacerbate the information cocoon effect?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think webcast will change people's standards of beauty?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think webcasts affect people's concentration?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you think webcast will promote educational equity?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think live streaming will lead to cyber violence?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think webcast will lead to the spread of false information?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you think network broadcast will affect the inheritance of traditional art?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you think webcasts will drive technological innovation?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  }
+]

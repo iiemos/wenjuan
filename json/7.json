@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "question": "Do you often buy beef?",
+    "options": [
+      "Several times A week",
+      "Once a week",
+      "2-3 times a month",
+      "Rarely buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is the main purpose of your beef purchase?",
+    "options": [
+      "Daily cooking",
+      "Entertain the guests",
+      "Holiday dinners",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Which of the following places do you usually buy beef from?",
+    "options": [
+      "Supermarket",
+      "Farmers' markets",
+      "Specialty Stores",
+      "E-commerce platform"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "When buying beef, which of the following aspects do you pay more attention to?",
+    "options": [
+      "Price",
+      "Quality",
+      "Origin",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you know the characteristics and cooking methods of the different cuts of beef?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Which of the following beef handling methods do you prefer?",
+    "options": [
+      "Fresh and untreated",
+      "Cut blocks",
+      "Cured",
+      "Frozen"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "When you buy beef, what price range (per catty) can you accept?",
+    "options": [
+      "20-30",
+      "31-40",
+      "41-50",
+      "More than 50"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Will you buy more because of the beef promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Which of the following beef do you think tastes best?",
+    "options": [
+      "Tender beef",
+      "Chewy beef",
+      "Lean and fat beef",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Would you like to try a new beef dish?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "When cooking beef, which of the following ways do you usually choose?",
+    "options": [
+      "Decocting",
+      "Stir-fry",
+      "Stew",
+      "Bake"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you care about the food safety certification of beef?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Which of the following factors do you think has the greatest impact on the quality of beef?",
+    "options": [
+      "Feeding methods",
+      "Feed quality",
+      "Breeds of cattle",
+      "Slaughter method"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Are you willing to buy organic beef?",
+    "options": [
+      "Very willing, even if the price is high",
+      "Yes, if the price is reasonable",
+      "Not really, the price is too high",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you know the nutritional value of beef?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Which of the following beef colors do you think is fresh?",
+    "options": [
+      "Bright red",
+      "Dark red",
+      "Light red",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "When you buy beef, do you check the expiration date on the package?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you buy imported beef?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Which of the following beef brands do you think is the most trustworthy?",
+    "options": [
+      "Brand A",
+      "Brand B",
+      "Brand C",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you choose to buy beef because of its origin?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "When you buy beef, do you pay attention to the fat content of beef?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Which of the following beef textures do you think is of high quality?",
+    "options": [
+      "Fine and uniform",
+      "Poor and uneven",
+      "No specific requirements",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Are you willing to purchase highly processed beef products, such as jerky, canned beef, etc.?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Are you influenced by advertising when you buy beef?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "Completely unaffected"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you buy beef offal such as liver, heart, etc.?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Which of the following beef smells normal to you?",
+    "options": [
+      "Slight fishy smell",
+      "No smell",
+      "There is a faint smell of meat",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "When you buy beef, do you pay attention to how the beef is stored?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Are you willing to buy beef without quarantine?",
+    "options": [
+      "Absolutely not",
+      "Yes, if the price is cheap",
+      "Maybe",
+      "Definitely will"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Which of the following beef do you think is firm?",
+    "options": [
+      "Naked eye steak",
+      "Sirloin steak",
+      "Filet mignon",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "When you buy beef, do you pay attention to the cutting process of beef?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Are you willing to buy beef that has a specific function, such as low-fat beef, high-protein beef, etc.?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you choose to buy beef because of its packaging?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Which of the following beef do you think takes less time to cook?",
+    "options": [
+      "Thinly cut beef",
+      "Thick-cut beef",
+      "Beef cubes",
+      "Shredded beef"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "When you buy beef, do you pay attention to the reputation of the suppliers of beef?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Are you willing to buy the hamstrings and other parts of cattle?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Which of the following beef do you think is best preserved?",
+    "options": [
+      "Vacuum packing",
+      "Refrigeration",
+      "Freezing",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "When you buy beef, do you pay attention to whether the source of the beef is traceable?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Would you like to buy beef with added seasoning?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Which of the following beef prices do you think has the most impact on your purchase?",
+    "options": [
+      "Domestic beef",
+      "Imported beef",
+      "Both have an impact",
+      "It has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "When you buy beef, do you pay attention to how the beef is transported?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Are you willing to buy parts such as oxtail?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Which of the following beef do you think will last the longest?",
+    "options": [
+      "Frozen beef",
+      "Refrigerated beef",
+      "Vacuum packed beef",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "When you buy beef, do you pay attention to the manufacturer of beef?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you willing to buy semi-finished beef, such as marinated steak?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Which of the following beef do you think has the highest nutritional value?",
+    "options": [
+      "Yak meat",
+      "Yellow beef",
+      "Buffalo meat",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "When you buy beef, do you pay attention to the beef sales service?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Are you willing to buy parts such as ox tongue?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Which beef do you think is the least difficult to cook?",
+    "options": [
+      "Ground beef",
+      "Beef slices",
+      "Beef cubes",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "When you buy beef, do you pay attention to the packaging material of beef?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Are you willing to buy beef that has been specifically raised, such as grass-fed beef?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which of the following beef taste do you think is most suitable for hot pot?",
+    "options": [
+      "Tender beef slices",
+      "Snow beef",
+      "Beef tenderloin",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "When you buy beef, do you pay attention to the ingredients list?",
+    "options": [
+      "Definitely will",
+      "occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Are you willing to buy beef bone and other parts?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Which of the following beef do you think is the most acceptable price?",
+    "options": [
+      "Regular beef",
+      "Organic beef",
+      "Imported beef",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "When you buy beef, do you pay attention to the production date of the beef?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Are you willing to buy beef products with health benefits?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Which of the following beef qualities do you think is best for grilling?",
+    "options": [
+      "Brisket",
+      "Beef ribs",
+      "Beef shoulder",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "When you buy beef, do you pay attention to the distribution channels of beef?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Are you willing to buy beef bone marrow and other parts?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Which of the following beef do you think has the most stable price?",
+    "options": [
+      "Domestic beef",
+      "Imported beef",
+      "Both are unstable",
+      "Both are stable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "When you buy beef, do you pay attention to the brand awareness of beef?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Would you like to buy beef in a gift box?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Which of the following beef do you think is the healthiest way to cook?",
+    "options": [
+      "Steaming",
+      "Boil it",
+      "Make soup",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you prefer beef because of its nutritional value?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Which of these beef products do you think is the most popular?",
+    "options": [
+      "Beef balls",
+      "Beef sausage",
+      "Beef burger patties",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "When you buy beef, do you consider the breeding environment of the beef?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Are you willing to buy beef children's food, such as beef floss?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Which of the following beef parts do you think is the most suitable for spiced meat?",
+    "options": [
+      "Beef shank",
+      "Beef brisket",
+      "Cow's feet",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "When you buy beef, do you pay attention to the processing of beef?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Would you like to buy beef products with regional characteristics, such as Chaoshan beef balls?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Which of the following beef do you think has the most stringent storage conditions?",
+    "options": [
+      "Fresh beef",
+      "Frozen beef",
+      "Marinated beef",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you pay attention to the sustainable production of beef when you buy beef?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  }
+]

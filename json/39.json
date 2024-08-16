@@ -1,0 +1,911 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Over 45 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Whether you are nearsighted:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "If you are nearsighted, your degree of myopia is approximately:",
+    "options": [
+      "Below 300 degrees",
+      "301-600 degrees",
+      "601-900 degrees",
+      "Above 900 degrees"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How often do you change your glasses?",
+    "options": [
+      "Within 1 year",
+      "1-2 years",
+      "2-3 years",
+      "More than 3 years"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "The main reasons you buy glasses are:",
+    "options": [
+      "Vision correction",
+      "Fashion decor",
+      "Both"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Your budget for glasses is usually:",
+    "options": [
+      "Less than 500 $",
+      "501-1000 $",
+      "1001-2000 $",
+      "More than 2000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Where do you usually buy glasses:",
+    "options": [
+      "Brand stores",
+      "Eyewear supermarket",
+      "Online mall",
+      "Hospital optometry Centre"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "The most important factors you look for when choosing an eyewear brand are:",
+    "options": [
+      "Brand awareness",
+      "Product quality",
+      "Price",
+      "Style design"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Which of the following eyewear brands have you heard of (more than one can choose) :",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Mason",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you have a fixed favorite brand of glasses:",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "If so, which brand:",
+    "options": [
+      "[Specific brand]",
+      "None"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "The reason why you choose this brand is (multiple choices can be made) :",
+    "options": [
+      "Good quality",
+      "Many styles",
+      "The price is right",
+      "Good service",
+      "Good brand image"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "When you buy glasses, do you refer to the advertising of the brand?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Occasionally referred to",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Your attitude towards the promotional activities of eyewear brands is:",
+    "options": [
+      "Very concerned, will buy due to promotion",
+      "More attention, may be due to promotion purchase",
+      "Not so much, but the promotion might appeal to me",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following brands of glasses do you think has the best quality?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Which of the following brands of glasses do you think is the most fashionable?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Which of the following brands of glasses do you think is the most reasonable price?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Which of the following brands do you think has the best after-sales service?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Are you willing to try a new eyewear brand:",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not sure",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "If you try a new brand, what are your biggest concerns:",
+    "options": [
+      "The quality is not up to standard",
+      "The style is not good",
+      "The price is unreasonable",
+      "Poor after-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "When you buy glasses, will you prefer domestic or imported brands?",
+    "options": [
+      "Domestic",
+      "Import",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you think the advantages of domestic glasses brands are (multiple choices can be made) :",
+    "options": [
+      "Affordable",
+      "More suitable for the needs of Chinese people",
+      "Easy to buy",
+      "Good after-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think the advantages of imported glasses brands are (multiple choices can be made) :",
+    "options": [
+      "Advanced technology",
+      "High brand awareness",
+      "Fashionable style",
+      "Good quality"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Are you concerned about the environmental protection concept of the eyewear brand:",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Which of the following brands do you think is better in terms of environmental protection?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you choose the glasses brand because of its social responsibility (such as public welfare activities, etc.)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Which of the following brands do you think performs better in terms of social responsibility?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you choose a certain eyewear brand because of a friend's recommendation:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "The most commonly recommended glasses brands by your friends are:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "When you buy glasses, will you consider the cultural connotation of the brand?",
+    "options": [
+      "Yes, it's important",
+      "Yes, it does",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Which of the following brands do you think attracts you the most in terms of cultural connotations?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Will you choose it because of the cooperation between the eyewear brand and the star:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Which of the following brands do you think has the most successful cooperation with celebrities?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Will you choose eyewear brand because of its online reputation?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you check online user reviews before buying glasses?",
+    "options": [
+      "Sure, it's very informative",
+      "Yes, but not completely dependent",
+      "Occasionally",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Which of the following brands do you think has the best reputation online?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you choose the eyewear brand because of its offline experience store environment?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Which of the following brands do you think has the best offline experience store environment:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Will you choose it because of the customized service of the eyewear brand:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Which of the following brands do you think has the best customization service?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Will you choose it because of the intelligent features of the glasses brand (such as anti-blue light, automatic adjustment, etc.) :",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Which of the following brands do you think has the best intelligent function:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Will you choose the eyewear brand because of its brand story:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Which of the following brand stories do you think is the most attractive?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you choose glasses brand because of its membership system:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Which of the following brands do you think has the most favorable membership system:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you choose it because of the limited edition products of the eyewear brand:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Which limited edition products of the following brands do you think are the most attractive?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you choose glasses because of its cross-border cooperation (such as with fashion brands, art brands, etc.) :",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Which of the following brands do you think is the most creative in cross-border cooperation?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you choose the eyewear brand for its brand activities (such as new product launch, fashion show, etc.) :",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Which of the following brands do you think has the most exciting brand activities:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you choose the eyewear brand because of its packaging design?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Which of the following brands do you think has the most beautiful packaging design?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Will you choose eyewear brand because of its brand spokesperson?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Which of the following brand spokespersons do you think is most consistent with the brand image?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you choose eyewear brand because of its store location?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Which of the following brands do you think has the most convenient store location:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you choose the eyewear brand because of its brand identity?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Which of the following brand logos do you think is the most recognizable?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you choose the eyewear brand because of its brand slogan:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Which of the following brand slogans do you think impresses you most:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you choose the eyewear brand because of its brand color:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Which of the following brand colors do you think attracts you the most:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you choose the eyewear brand because of its brand font:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Which of the following brands have the most distinctive fonts in your opinion:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you choose the eyewear brand because of its brand advertising music:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Which of the following brands of advertising music impresses you most?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you choose the eyewear brand because of its brand video:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Which of the following brand videos do you think is the most attractive?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Whether you will choose the eyewear brand because of its official website design:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Which of the following brands do you think has the friendliest official website design?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Will you choose the eyewear brand because of its social media account content:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Which of the following brands have the most interesting content on their social media accounts?",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you choose the eyewear brand because of its brand sponsored activities (such as sports events, cultural activities, etc.) :",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Which of the following brands do you think has the most influential sponsorship activities:",
+    "options": [
+      "Zeiss",
+      "Essilor",
+      "Ray-Ban",
+      "Tyrannosaurus",
+      "Other"
+    ],
+    "correctAnswer": ""
+  }
+]

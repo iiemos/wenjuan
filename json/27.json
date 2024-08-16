@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "Do you often watch manga?",
+    "options": [
+      "Watch it every day",
+      "Several times a week",
+      "Several times a month",
+      "Rarely watch it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Why do you like manga?",
+    "options": [
+      "Great story",
+      "Beautiful picture",
+      "Rich roles",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "How did you first encounter manga?",
+    "options": [
+      "Television broadcast",
+      "Network platform",
+      "Recommended by friends",
+      "Other ways"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What kind of manga do you prefer?",
+    "options": [
+      "Hot blood adventure",
+      "Relationship comedies",
+      "Science fiction and Fantasy",
+      "Suspenseful reasoning"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Will you buy manga related products?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Only buy when you really like it",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you pay more attention to the characters in manga?",
+    "options": [
+      "Appearance styling",
+      "Personality traits",
+      "Ability and skill",
+      "Growing up"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Do you think anime has had an impact on your values?",
+    "options": [
+      "It has A great impact",
+      "There are some effects",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Will you learn Japanese because of manga?",
+    "options": [
+      "Already learning",
+      "Plan to study",
+      "May consider it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What do you think of the music?",
+    "options": [
+      "Very good, often single loop",
+      "Better sound, will pay attention",
+      "Average, nothing special",
+      "Not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Would you recommend manga to others?",
+    "options": [
+      "Often recommend",
+      "Occasionally recommended",
+      "Recommend only to certain people",
+      "Never recommend"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What areas do you think could be improved?",
+    "options": [
+      "Plot innovation",
+      "Character development",
+      "Picture quality",
+      "Other aspects"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Will you participate in offline activities related to manga?",
+    "options": [
+      "Will definitely attend",
+      "Interested parties will attend",
+      "It depends",
+      "Will not attend"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you follow the original manga?",
+    "options": [
+      "Always pay attention",
+      "Occasionally",
+      "Only watch the popular ones",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "How do you feel about the funny elements in manga?",
+    "options": [
+      "Very funny and always makes you laugh",
+      "It's not bad. It brings a relaxed atmosphere",
+      "In general, it is not likely to attract your attention",
+      "Don't like this style"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you read a novel because of a manga?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "What do you think of emotional expression in manga?",
+    "options": [
+      "Delicate and real, very can move you",
+      "Rich and resonant",
+      "More ordinary, no feelings",
+      "It is too exaggerated and not acceptable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you imitate the behavior or language of characters in manga?",
+    "options": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think manga is important to the growth of teenagers?",
+    "options": [
+      "Has A positive guiding effect",
+      "There are some positive effects",
+      "Little impact",
+      "May have negative effects"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Are you interested in Japanese culture because of manga?",
+    "options": [
+      "Developed A strong interest",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you prefer to watch long or short comics?",
+    "options": [
+      "Longer, richer plot",
+      "Short, more compact rhythm",
+      "Either is fine, depending on the content",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "What do you think of the battle scenes in manga?",
+    "options": [
+      "Wonderful and exciting. I love it",
+      "Not bad, adds to the tension",
+      "General, not focused",
+      "Don't like it, think it's too violent"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you care about voice actors because of manga?",
+    "options": [
+      "Yes, become A voice actor fan",
+      "Will pay attention to some well-known voice actors",
+      "Not paying much attention",
+      "Not at all concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What do you think of the educational significance of manga?",
+    "options": [
+      "It's very educational. You can learn A lot",
+      "It has some inspiration",
+      "It's not obvious",
+      "Not educational"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you learn about the history and society of Japan because of the manga?",
+    "options": [
+      "Yes, in depth",
+      "Yes, simple understanding",
+      "Maybe, it depends",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What do you think of the villains in manga?",
+    "options": [
+      "Make it look attractive",
+      "It has certain characteristics",
+      "More common",
+      "It's annoying"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you change your standards of beauty because of manga?",
+    "options": [
+      "It has changed A lot",
+      "There have been some changes",
+      "Not much has changed",
+      "Hasn't changed at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "What do you think are the inspirational elements in manga?",
+    "options": [
+      "Very inspiring",
+      "Has a certain incentive effect",
+      "The effect is mediocre",
+      "Don't feel it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you try new interests because of manga?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What do you think of the friendship depicted in the manga?",
+    "options": [
+      "Sincere and touching",
+      "It's moving",
+      "Average performance",
+      "Not very real"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Are you interested in Japanese food because of manga?",
+    "options": [
+      "Very interested, want to try",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What do you think of love stories in manga?",
+    "options": [
+      "Romantic and beautiful",
+      "It's warm",
+      "Bland",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you pay attention to Japanese fashion trends because of manga?",
+    "options": [
+      "Yes, keep up with the trend",
+      "Yes, refer to some",
+      "Not paying much attention",
+      "Not at all concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What do you think of the depiction of family relationships in manga?",
+    "options": [
+      "Warm and touching",
+      "It's more real",
+      "Not too deep",
+      "It's fake"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Are you interested in traditional Japanese art because of Japanese manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What do you think of the teamwork spirit in manga?",
+    "options": [
+      "It's worth learning",
+      "It has certain reference significance",
+      "Average performance",
+      "Didn't pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you curious about school life in Japan because of manga?",
+    "options": [
+      "Very curious",
+      "A little curious",
+      "Not very curious",
+      "Not curious at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "What do you think of animal characters in manga?",
+    "options": [
+      "Cute and funny",
+      "It has characteristics",
+      "Very ordinary",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Are you interested in Japanese sports culture because of manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What do you think of fantasy Settings in manga?",
+    "options": [
+      "Creative",
+      "Relatively new",
+      "Common routines",
+      "Not attractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Are you interested in Japanese music culture because of manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What do you think of campus life in manga?",
+    "options": [
+      "Full of energy",
+      "It's more real",
+      "Being too idealistic",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Are you interested in Japanese architecture because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What do you think of science fiction elements in manga?",
+    "options": [
+      "Cutting-edge cool",
+      "Have imagination",
+      "Not novel enough",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you interested in Japanese festival culture because of manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "What do you think of workplace depictions in manga?",
+    "options": [
+      "It's close to reality",
+      "It has certain reference value",
+      "Not quite true",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Are you interested in traditional Japanese costumes because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What do you think of adventure in manga?",
+    "options": [
+      "Thrilling",
+      "It's interesting",
+      "It's a little old-fashioned",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Would you be interested in Japanese transportation because of the manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you think the magic element in manga?",
+    "options": [
+      "Magical and charming",
+      "It's interesting",
+      "Nothing new",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Are you interested in Japanese handicrafts because of Japanese manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "What do you think of the puzzle plot in manga?",
+    "options": [
+      "Brain burning is fun",
+      "It's a little difficult",
+      "It's relatively simple",
+      "Not interesting"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Are you interested in the natural scenery of Japan because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What do you think of the sports theme in manga?",
+    "options": [
+      "Be passionate",
+      "Not bad",
+      "Just so-so",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Are you interested in historical buildings in Japan because of manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "What do you think of the horror elements in manga?",
+    "options": [
+      "It's scary and wonderful",
+      "It's kind of scary",
+      "Not too scary",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Are you interested in the traditional food making process in Japan because of the manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "What do you think of the detective genre in manga?",
+    "options": [
+      "Logical",
+      "It's interesting",
+      "Not too strict",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Are you interested in traditional Japanese dance because of manga?",
+    "options": [
+      "Very interested",
+      "Have some interest",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "What do you think of the robot element in manga?",
+    "options": [
+      "It's cool",
+      "It's interesting",
+      "Common routines",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Are you interested in traditional Japanese Musical Instruments because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What do you think of the different worlds set in manga?",
+    "options": [
+      "Novelty and fun",
+      "Be creative",
+      "Sameness",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Are you interested in traditional Japanese martial arts because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What do you think of the adaptation of fairy tales in manga?",
+    "options": [
+      "It's very innovative",
+      "It's not bad",
+      "Little changed",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Are you interested in traditional Japanese sacrificial activities because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What do you think of the game adaptation in manga?",
+    "options": [
+      "High reduction degree",
+      "There are some changes",
+      "Too much change",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Are you interested in traditional Japanese literature because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "What do you think of musical adaptations in manga?",
+    "options": [
+      "It was wonderful",
+      "It's OK",
+      "Just so-so",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Are you interested in traditional Japanese painting because of manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "What do you think of sports adaptations in manga?",
+    "options": [
+      "Very hot",
+      "It's interesting",
+      "Not very nice",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Are you interested in traditional Japanese craftsmanship because of Japanese manga?",
+    "options": [
+      "Very interested",
+      "A little bit interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  }
+]

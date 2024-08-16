@@ -1,0 +1,389 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender ( )",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age ( )",
+    "options": [
+      "Under 20",
+      "20 - 30",
+      "31 - 40",
+      "41 - 50",
+      "51 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your educational background ( )",
+    "options": [
+      "Junior high school and below",
+      "High school/technical secondary school",
+      "College",
+      "Undergraduate",
+      "Master and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your occupation ( )",
+    "options": [
+      "Enterprise employee",
+      "Government/Institution staff",
+      "Freelancer",
+      "Student",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Your monthly household income ( )",
+    "options": [
+      "Less than 5000 yuan",
+      "5001 - 10000 yuan",
+      "10001 - 20000 yuan",
+      "20001 - 30000 yuan",
+      "More than 30000 yuan"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Your understanding of new energy vehicles ( )",
+    "options": [
+      "Very well",
+      "Relatively well",
+      "Somewhat",
+      "Not much",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your main channels for learning about new energy vehicles (multiple choices) ( )",
+    "options": [
+      "Online media",
+      "TV advertisements",
+      "Newspapers and magazines",
+      "Auto shows",
+      "Introductions from friends",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you own a new energy vehicle ( )",
+    "options": [
+      "Already purchased",
+      "Plan to purchase",
+      "Do not plan to purchase"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "If you do not have a new energy vehicle, the reasons for not planning to purchase (multiple choices) ( )",
+    "options": [
+      "The price is too high",
+      "The cruising range is short",
+      "Charging is inconvenient",
+      "Do not trust new energy technologies",
+      "There are few selectable models",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which type of new energy vehicle do you think is the most common ( )",
+    "options": [
+      "Pure electric vehicles",
+      "Hybrid vehicles",
+      "Fuel cell vehicles",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "The main advantages of new energy vehicles you think (multiple choices) ( )",
+    "options": [
+      "Energy saving and environmental protection",
+      "Low operating costs",
+      "Good power performance",
+      "Low noise",
+      "Policy preferences",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "When purchasing a car, which factors will you focus on (multiple choices) ( )",
+    "options": [
+      "Vehicle price",
+      "Brand image",
+      "Cruising range",
+      "Safety",
+      "Comfort",
+      "Degree of intelligence",
+      "Appearance design",
+      "After-sales service",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "How many kilometers of cruising range of new energy vehicles do you think can meet your daily needs ( )",
+    "options": [
+      "Less than 200 kilometers",
+      "201 - 300 kilometers",
+      "301 - 400 kilometers",
+      "401 - 500 kilometers",
+      "More than 500 kilometers"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "For the charging time of new energy vehicles, what is the longest time you can accept ( )",
+    "options": [
+      "Within 1 hour",
+      "1 - 2 hours",
+      "2 - 3 hours",
+      "More than 3 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you care about the battery life of new energy vehicles ( )",
+    "options": [
+      "Very much",
+      "Quite a lot",
+      "Not much",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "If you have the experience of using new energy vehicles, how satisfied are you with the driving experience ( )",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Average",
+      "Unsatisfied",
+      "Very unsatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What problems have you encountered during the use of new energy vehicles (multiple choices) ( )",
+    "options": [
+      "Insufficient charging facilities",
+      "Long charging time",
+      "Inaccurate cruising range",
+      "Battery failure",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think the maintenance cost of new energy vehicles is compared with that of traditional fuel vehicles ( )",
+    "options": [
+      "Higher",
+      "Similar",
+      "Lower"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Are you worried about the performance of new energy vehicles in winter or bad weather ( )",
+    "options": [
+      "Very worried",
+      "Relatively worried",
+      "Not very worried",
+      "Not worried"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "How attractive do you think the intelligent functions of new energy vehicles (such as autopilot assistance, etc.) are to you ( )",
+    "options": [
+      "Very attractive",
+      "Relatively attractive",
+      "Average",
+      "Less attractive",
+      "Not attractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you know the relevant policies of the state and local governments on new energy vehicles (such as subsidies, preferences, etc.) ( )",
+    "options": [
+      "Know very well",
+      "Know some",
+      "Not very clear",
+      "Have no idea at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Which of the following policies do you think have a greater impact on your purchase of new energy vehicles (multiple choices) ( )",
+    "options": [
+      "Purchase subsidies",
+      "Free parking",
+      "Exemption from purchase tax",
+      "Unlimited travel",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Regarding the subsidy policy for new energy vehicles, what do you think ( )",
+    "options": [
+      "The subsidy is strong enough to effectively promote purchases",
+      "The subsidy is okay and has a certain promoting effect",
+      "The subsidy is small and has little impact on the purchase decision",
+      "Do not pay much attention to the subsidy policy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you know the situation of the used car market for new energy vehicles ( )",
+    "options": [
+      "Know very well",
+      "Know some",
+      "Not very clear",
+      "Have no idea at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What do you think of the development prospect of new energy vehicles in the future ( )",
+    "options": [
+      "Very good and will gradually replace traditional fuel vehicles",
+      "Good and will have a certain market share",
+      "Average and will coexist with traditional fuel vehicles",
+      "Not optimistic and faces many difficulties in development",
+      "Not clear"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "The main factors that you think restrict the development of new energy vehicles (multiple choices) ( )",
+    "options": [
+      "Battery technology needs to be improved",
+      "Imperfect charging facilities",
+      "Short cruising range",
+      "High cost",
+      "Low consumer awareness",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "What expectations do you have for the technological innovation and development of new energy vehicles (multiple choices) ( )",
+    "options": [
+      "Increase battery energy density and increase cruising range",
+      "Shorten charging time",
+      "Reduce costs",
+      "Improve vehicle safety and reliability",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you have a favorite new energy vehicle brand ( )",
+    "options": [
+      "Yes (please specify the brand name)",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "The reasons why you like this brand (multiple choices) ( )",
+    "options": [
+      "High brand awareness",
+      "Good product quality",
+      "Advanced technology",
+      "Beautiful appearance design",
+      "Good after-sales service",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "In your opinion, what are the main differences between different new energy vehicle brands (multiple choices) ( )",
+    "options": [
+      "Vehicle performance",
+      "Battery technology",
+      "Brand image",
+      "Price",
+      "Intelligent configuration",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Which promotion method do you think can attract your attention to new energy vehicles the most ( )",
+    "options": [
+      "Advertising",
+      "Test drive activities",
+      "Preferential promotions",
+      "Holding new energy vehicle exhibitions",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Are you willing to participate in the test drive activities of new energy vehicles ( )",
+    "options": [
+      "Very willing",
+      "Willing",
+      "Not very willing",
+      "Unwilling"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "For advertisements of new energy vehicles, which contents do you pay more attention to (multiple choices) ( )",
+    "options": [
+      "Product features and advantages",
+      "Environmental protection concept",
+      "Technological innovation",
+      "Price and preferential information"
+    ],
+    "correctAnswer": ""
+  }
+]

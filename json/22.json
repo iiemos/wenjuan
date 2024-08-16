@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you use your mobile phone?",
+    "options": [
+      "Multiple times A day",
+      "Once a day",
+      "Several times a week",
+      "Rarely used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is the most important factor when you buy a mobile phone?",
+    "options": [
+      "Brand",
+      "Price",
+      "Performance",
+      "Appearance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Which of the following activities do you usually use your mobile phone for? (Multiple options available)",
+    "options": [
+      "Social chat",
+      "Browse the web",
+      "Play games",
+      "Take pictures"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What is the operating system of your phone?",
+    "options": [
+      "Android",
+      "IOS",
+      "Windows Phone",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you change your phone regularly?",
+    "options": [
+      "Replace it every year",
+      "Replacement in two years",
+      "Replacement for three years or more",
+      "Use it until it breaks"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is your main reason for changing your mobile phone?",
+    "options": [
+      "Performance can not keep up",
+      "Appearance wear",
+      "New features attract",
+      "Follow the trend"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is your usual budget for a mobile phone?",
+    "options": [
+      "Less than 1000",
+      "1000-2000",
+      "2001-4000",
+      "More than 4000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What do you think is the best screen size for mobile phones?",
+    "options": [
+      "Less than 5 inches",
+      "5-6 inches",
+      "6-7 inches",
+      "More than 7 inches"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What are your pixel requirements for mobile phone cameras?",
+    "options": [
+      "Less than 8 million",
+      "8-12 million",
+      "12.1-20 million",
+      "More than 20 million"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which type of cell phone battery do you prefer?",
+    "options": [
+      "Removable battery",
+      "The battery cannot be removed",
+      "It doesn't matter",
+      "Didn't think about it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What is your memory requirement for your phone?",
+    "options": [
+      "Less than 32GB",
+      "32 - 64GB",
+      "64 - 128GB",
+      "More than 128GB"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What is the problem that bothers you most when you use your mobile phone?",
+    "options": [
+      "Short battery life",
+      "Slow running speed",
+      "The storage space is insufficient",
+      "The signal is bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you use mobile payment?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you think the fingerprint unlock function of the phone is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you use the voice assistant feature on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "What are your requirements for the sound quality of your mobile phone?",
+    "options": [
+      "High fidelity sound quality",
+      "Ordinary sound quality is fine",
+      "No requirements",
+      "Don't pay much attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you use NFC on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think the waterproof function of mobile phones is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you have any weight requirements for the phone?",
+    "options": [
+      "The lighter, the better",
+      "It doesn't matter",
+      "Slightly heavy and textured",
+      "Didn't think about it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you use the infrared remote control function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you think the wireless charging function of mobile phone is practical?",
+    "options": [
+      "Very practical",
+      "More practical",
+      "Not very practical",
+      "Totally impractical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Are you concerned about the heat dissipation performance of your mobile phone?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you use the screen projection function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you think the facial recognition function of mobile phone is safe?",
+    "options": [
+      "Very safe",
+      "It's safer",
+      "It's not very safe",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you care about the vibration feedback effect of your phone?",
+    "options": [
+      "Very concerned",
+      "More concerned",
+      "Not too concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you use the split screen function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "What do you think of the phone's AI camera function?",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you have high requirements for the gaming performance of your phone?",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "No games, no requirements"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you use encryption on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you think the frequency of system updates on mobile phones is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Are you satisfied with the tactile operation of the phone (such as swiping, tapping)?",
+    "options": [
+      "Very satisfied",
+      "Relatively satisfied",
+      "General",
+      "Not Satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you use smart home controls on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you think it is practical to have built-in apps on mobile phones?",
+    "options": [
+      "Very practical",
+      "Partly practical",
+      "Not very practical",
+      "Totally impractical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What do you think of the design of virtual buttons on mobile phones?",
+    "options": [
+      "Convenient and easy to use",
+      "In general",
+      "Not used to it",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you use cloud services on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you think the one-handed operation mode of the mobile phone is convenient?",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "It's not convenient",
+      "Not used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Are you familiar with quick gestures (such as screenshot and record screen) on your phone?",
+    "options": [
+      "Very familiar",
+      "Familiar with it",
+      "Not very familiar",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Are you using the in-car mode of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think the theme customization function of the phone is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Are you satisfied with the voice call quality of your mobile phone?",
+    "options": [
+      "Very satisfied",
+      "Relatively satisfied",
+      "General",
+      "Not Satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you use location services on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think the alarm clock function of the mobile phone is convenient to set?",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "It's not convenient",
+      "Not used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you rely on calendar reminders on your phone?",
+    "options": [
+      "Very dependent",
+      "More dependent",
+      "General",
+      "Not dependent"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you use the calculator function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you think the file management function of mobile phone is good?",
+    "options": [
+      "It works very well",
+      "It's easier to use",
+      "General",
+      "It's not easy to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "How often do you use the memo function on your phone?",
+    "options": [
+      "Very high",
+      "It's relatively high",
+      "General",
+      "Rarely used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you use the recording function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think the mobile phone notes function is practical?",
+    "options": [
+      "Very practical",
+      "More practical",
+      "Not very practical",
+      "Totally impractical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "How do you use the flashlight function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Are you using Bluetooth on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think the airplane mode function of the phone is easy to use?",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "It's not convenient",
+      "Not used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you need the hotspot sharing function of your phone?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "There is no demand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you use the timer function of your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think the power saving mode of the phone is effective?",
+    "options": [
+      "It's pretty obvious",
+      "It's more obvious",
+      "It's not obvious",
+      "No feeling"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Are you satisfied with the Do not disturb mode Settings on your phone?",
+    "options": [
+      "Very satisfied",
+      "Relatively satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you use the Find phone feature on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think the privacy protection features of mobile phones are strong enough?",
+    "options": [
+      "Very powerful",
+      "More powerful",
+      "Not too powerful",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Are you satisfied with your phone's built-in input method?",
+    "options": [
+      "Very satisfied",
+      "Relatively satisfied",
+      "General",
+      "Not Satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you use the hover window feature on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the dual opening function of mobile phone is practical?",
+    "options": [
+      "Very practical",
+      "More practical",
+      "Not very practical",
+      "Totally impractical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What is your evaluation of the effect of the game acceleration function on the mobile phone?",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you use long screenshots on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "How do you think the phone's dark mode is effective for eye protection?",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "How do you feel about the negative screen function of your phone?",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "General",
+      "No use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you use app lock on your phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think it is necessary to have a mobile phone app clone function?",
+    "options": [
+      "Very necessary",
+      "It is more necessary",
+      "Not very necessary",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Are you satisfied with the global search function of your phone?",
+    "options": [
+      "Very satisfied",
+      "Relatively satisfied",
+      "General",
+      "Not Satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you use the video calling function of your mobile phone?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you think the SMS classification management function of mobile phone is good?",
+    "options": [
+      "It works very well",
+      "It's easier to use",
+      "General",
+      "It's not easy to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "What are your requirements for the call recording function of your mobile phone?",
+    "options": [
+      "Much needed",
+      "More need",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  }
+]

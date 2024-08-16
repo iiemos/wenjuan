@@ -1,0 +1,781 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What's your age?",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your current occupation?",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you have a fan in your home?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "If yes, how many fans do you have?",
+    "options": [
+      "Radio 1",
+      "Two or three sets",
+      "Sets 4-5",
+      "More than 5 sets"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is the main purpose of your fan purchase?",
+    "options": [
+      "Cool off in the cool",
+      "Air circulation",
+      "Auxiliary air conditioner",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the factor you are most concerned about when buying a fan?",
+    "options": [
+      "Price",
+      "Brand",
+      "Wind strength",
+      "Noise level",
+      "Exterior design",
+      "Energy saving",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Where do you usually use the fan?",
+    "options": [
+      "Bedroom",
+      "Living room",
+      "Kitchen",
+      "Office",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What type of fan do you prefer?",
+    "options": [
+      "Desktop fan",
+      "Floor fan",
+      "Wall fans",
+      "Ceiling Fans",
+      "Bladeless fan",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What price range of fans can you accept?",
+    "options": [
+      "Less than 50",
+      "50 to 100",
+      "101-200",
+      "201-300",
+      "More than 300"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What do you think is the appropriate wind control gear for the fan?",
+    "options": [
+      "Second gear",
+      "Gear 3",
+      "Fourth gear",
+      "5 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you think the fan's shaking head function is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "How do you like the fan control?",
+    "options": [
+      "Mechanical keys",
+      "Touch the key",
+      "Remote control",
+      "APP control"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you care about the color of the fan?",
+    "options": [
+      "Very concerned, the color should be matched with the home",
+      "A little concerned, hope the color looks good",
+      "Don't care too much, practical",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you think the material of the fan is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "What kind of material do you prefer for the fan?",
+    "options": [
+      "Plastic",
+      "Metal",
+      "Wood",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you think the weight of the fan has an impact on your use?",
+    "options": [
+      "Great impact, to be light and easy to move",
+      "There is a certain impact, not too heavy",
+      "It doesn't matter what the point is",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Will you choose a fan with humidification?",
+    "options": [
+      "Definitely, this feature is really needed",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Will you choose a fan with air purification function?",
+    "options": [
+      "Definitely, this feature is really needed",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you choose a fan with aromatherapy capabilities?",
+    "options": [
+      "Sure, I love it",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Will you choose a fan with intelligent timing?",
+    "options": [
+      "Sure, it's very practical",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you choose a fan with sleep mode?",
+    "options": [
+      "Definitely, it will help you sleep",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you choose a fan with removable cleaning?",
+    "options": [
+      "Sure, it's easy to clean",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you choose a fan with anti-tipping features?",
+    "options": [
+      "Definitely. Safety is very important",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Will you choose a fan with a child-safe lock feature?",
+    "options": [
+      "Definitely. Children must be considered",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you choose a fan with an energy saving label?",
+    "options": [
+      "Definitely. It's important to save electricity",
+      "Maybe, it depends",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you choose a fan because of brand awareness?",
+    "options": [
+      "Sure, big brands are guaranteed",
+      "May be, as a reference factor",
+      "No, just look at the product itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you buy a fan because of an advertisement?",
+    "options": [
+      "Sure, the advertisement is fascinating",
+      "It may have an impact",
+      "No, I don't believe in advertising"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you buy a fan because of a promotion?",
+    "options": [
+      "Sure, the price is good",
+      "Maybe, depending on the offer",
+      "No, buy on demand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you refer to other consumer reviews when buying a fan?",
+    "options": [
+      "Definitely, it's an important reference",
+      "May be, appropriate reference",
+      "No, judge for yourself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "How often do you buy fans?",
+    "options": [
+      "Once every 1-2 years",
+      "Once every three to five years",
+      "Once every five years",
+      "Buy it when it's broken"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "How long has the fan you purchased been in use?",
+    "options": [
+      "Within 1 year",
+      "1-2 years",
+      "2-3 years",
+      "More than 3 years"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What problems have you had with previous fans?",
+    "options": [
+      "The wind is getting smaller",
+      "The noise becomes louder",
+      "Shake the head fault",
+      "Key failure",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "How satisfied are you with your previous fan brand?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Would you recommend the brand of fan you purchased to others?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Have you heard of the following fan brands? (Multiple options available)",
+    "options": [
+      "Beauty",
+      "Gree",
+      "Haier",
+      "Emmett",
+      "Pioneer",
+      "Millet",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "What's your impression of the beautiful fan?",
+    "options": [
+      "Very good. The product is of high quality",
+      "Yes, it has a certain popularity",
+      "Average, nothing special",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What's your impression of Gree fans?",
+    "options": [
+      "Very good. The product is of high quality",
+      "Yes, it has a certain popularity",
+      "Average, nothing special",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What's your impression of Haier fans?",
+    "options": [
+      "Very good. The product is of high quality",
+      "Yes, it has a certain popularity",
+      "Average, nothing special",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What's your impression of Emmett fans?",
+    "options": [
+      "Very good. The product is of high quality",
+      "Yes, it has a certain popularity",
+      "Average, nothing special",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What are your impressions of Pioneer fans?",
+    "options": [
+      "Very good. The product is of high quality",
+      "Yes, it has a certain popularity",
+      "Average, nothing special",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What's your impression of the Mi fan?",
+    "options": [
+      "Very good. The product is of high quality",
+      "Yes, it has a certain popularity",
+      "Average, nothing special",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Which of the following channels do you prefer to buy fans from?",
+    "options": [
+      "Physical stores",
+      "E-commerce platform",
+      "Brand official website",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "If you buy in a physical store, do you prefer?",
+    "options": [
+      "Home appliance store",
+      "Supermarkets",
+      "Specialty Stores",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "If you buy on an e-commerce platform, what do you prefer?",
+    "options": [
+      "Taobao",
+      "JD.com",
+      "Pinduoduo",
+      "Suning Shopping",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you pay attention to after-sales service when buying a fan?",
+    "options": [
+      "Very concerned, after-sales is very important",
+      "More concerned, will be considered as a factor",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Which after-sales service do you think is more important? (Multiple options available)",
+    "options": [
+      "Warranty period",
+      "Maintenance services",
+      "Return and exchange policy",
+      "Customer service attitude",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you have any requirements for the packaging of the fan?",
+    "options": [
+      "Yes, nice and firm",
+      "A little, not too shabby",
+      "No, it doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you buy a used fan?",
+    "options": [
+      "Yes, the price is cheap",
+      "Maybe, depending on the quality",
+      "No, I'm worried about the quality"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you rent a fan?",
+    "options": [
+      "Yes, it's convenient for temporary use",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think the design of the fan has a big impact on your purchase decision?",
+    "options": [
+      "Great influence, beautiful fashion",
+      "Has a certain impact, can not be too ugly",
+      "Little impact, practical on the line"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "What style of fan look do you prefer?",
+    "options": [
+      "Simple and modern",
+      "Vintage classics",
+      "Cartoon cute",
+      "Sense of technology",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you think the size of the fan has an impact on your use?",
+    "options": [
+      "The impact is very large, according to the space choice",
+      "Have a certain impact, not too big or too small",
+      "The effect is not large, as long as it can be blown"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Will you choose a fan with lighting effects?",
+    "options": [
+      "Sure, it's very atmospheric",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you choose a fan with voice control?",
+    "options": [
+      "Sure, it's very convenient",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you choose a fan with negative ion function?",
+    "options": [
+      "Sure, it's good for health",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Will you choose a fan with mosquito repellent function?",
+    "options": [
+      "Sure, it's very practical",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Will you choose a fan with UV sterilization?",
+    "options": [
+      "Definitely. Hygiene is very important",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Will you choose a fan with warm and cold air function?",
+    "options": [
+      "Definitely, available in all seasons",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you choose a fan with folding function?",
+    "options": [
+      "Sure, it's easy to carry",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you choose a fan with projection function?",
+    "options": [
+      "Sure, it'll be fun",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Will you choose a fan with fragrance diffusion?",
+    "options": [
+      "Definitely, like the smell",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you choose a fan with air circulation?",
+    "options": [
+      "Will definitely improve the air quality",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you choose a fan with intelligent sensing functions, such as automatically adjusting the wind based on the distance from the human body?",
+    "options": [
+      "Sure, it's smart",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you choose a fan with detachable blades?",
+    "options": [
+      "Sure, easy to clean and maintain",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you choose a fan with a low energy label?",
+    "options": [
+      "Definitely, energy saving and environmental protection",
+      "Maybe, it depends",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you choose a fan with intelligent wind speed regulation, which automatically adjusts according to the ambient temperature?",
+    "options": [
+      "Sure, it's very convenient",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you choose a fan with a hidden cable design?",
+    "options": [
+      "Sure, nice and clean",
+      "Maybe, it depends",
+      "No, it doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you choose a fan with silent mode (below 30 dB)?",
+    "options": [
+      "Definitely. Silence is important",
+      "Maybe, it depends",
+      "No, it's okay to make a little noise"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you choose a fan with protection against electromagnetic radiation?",
+    "options": [
+      "Definitely, health comes first",
+      "Maybe, it depends",
+      "No, I think it's unlikely to work"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you choose a fan with smart linkage (linkage with other smart home devices)?",
+    "options": [
+      "Will definitely build A smart life",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you choose a fan with adjustable height?",
+    "options": [
+      "Definitely, adapt to different scenarios",
+      "Maybe, it depends",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "What other expectations and suggestions do you have for the future development of fans?",
+    "options": [
+      "More energy saving and environmental protection",
+      "More intelligent functions",
+      "More light and easy to carry",
+      "More personalized design"
+    ],
+    "correctAnswer": ""
+  }
+]

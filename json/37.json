@@ -1,0 +1,885 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Over 45 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your monthly income (or living expenses) level:",
+    "options": [
+      "Less than 2000 $",
+      "2001-5000 $",
+      "5001-8000 $",
+      "8001-12000 $",
+      "More than 12,000 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Your daily use of social software is approximately:",
+    "options": [
+      "Less than 1 hour",
+      "1-3 hours",
+      "3-5 hours",
+      "More than 5 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "When do you usually use social software?",
+    "options": [
+      "In the morning",
+      "Noon",
+      "In the afternoon",
+      "At night",
+      "Irregular timing"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your main purpose of using social software is:",
+    "options": [
+      "Stay in touch with friends and family",
+      "Expand your social circle and meet new people",
+      "Access to information and news",
+      "Share life and mood",
+      "Work or study needs"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Which social software do you use most often (multiple choices can be made) :",
+    "options": [
+      "Wechat",
+      "QQ",
+      "Micro blog",
+      "Tiktok",
+      "Little Red Book",
+      "Zhihu",
+      "Momo",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "The number of social apps you use at the same time is:",
+    "options": [
+      "One or two",
+      "Three or four",
+      "5-6",
+      "7 or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How often do you use social software?",
+    "options": [
+      "Almost every day",
+      "Several times a week",
+      "Several times a month",
+      "Rarely used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "The types of people you follow on social media are:",
+    "options": [
+      "Friends and family in real life",
+      "Classmates and colleagues",
+      "People with the same interests",
+      "Celebrities or public figures",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "The content you post on social media is mainly:",
+    "options": [
+      "Text",
+      "Pictures",
+      "Video",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "How often do you post on social media:",
+    "options": [
+      "Every day",
+      "Several times a week",
+      "Several times a month",
+      "Rarely published"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "The main ways you interact with others on social software are (multiple choices can be made) :",
+    "options": [
+      "Click Like",
+      "Comments",
+      "Private message",
+      "Forwarding",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you feel satisfied or inspired by the likes and comments of others?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you suffer from anxiety or stress because of information on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you group or restrict certain people from viewing your content on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you follow strangers on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you join groups or communities on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you purchase goods or services on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you play games on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you be broadcasting live on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you learn knowledge or skills on social software?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you invest and finance on social software?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you search for jobs or hire on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Will you conduct charitable activities or donate money on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Will you use social media for travel planning or booking?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you log your fitness or exercise on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you read or listen to books on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you create or appreciate art on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What do you think are the most important functions of social software?",
+    "options": [
+      "Instant messaging",
+      "Circle of friends/dynamic release",
+      "Search and add friends",
+      "Group chat",
+      "Voice or video calls"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What is your satisfaction with the privacy Settings of social software?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What is your opinion on the push notification function of social software?",
+    "options": [
+      "Very useful, can get important information in time",
+      "A little too much, sometimes intrusive",
+      "It is acceptable and does not affect the use",
+      "No use, wish it could be turned off",
+      "Very disgusted, seriously affect the use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which of the following features do you want to add to the social software (multiple options) :",
+    "options": [
+      "Virtual image creation",
+      "Mood state display",
+      "Schedule reminders",
+      "Speech to text",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "How often do you use the memes and stickers feature of social software:",
+    "options": [
+      "Always use",
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "What is your satisfaction with the file transfer function of social software?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "What is your use of the payment function of social software:",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What are your interests in the game function of social software:",
+    "options": [
+      "Very interested, often play",
+      "Kind of interested, play occasionally",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What is your opinion on the live streaming function of social software?",
+    "options": [
+      "Like it A lot, watch it a lot",
+      "Occasionally",
+      "Not paying much attention",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "How often do you use the short video function of social software?",
+    "options": [
+      "Multiple times A day",
+      "Once a day",
+      "Several times a week",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What is your use of nearby people/nearby dynamic features of social software:",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What are your requirements for online document collaboration in social software:",
+    "options": [
+      "Much needed",
+      "Kind of",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What is your opinion about the immolation function of social software:",
+    "options": [
+      "Useful, privacy protection",
+      "Useful, but worried about misoperation",
+      "It doesn't matter",
+      "Don't like it, don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Your interest in the anonymous chat function of social software is:",
+    "options": [
+      "Very interested, want to try",
+      "Kind of interested",
+      "Not very interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "How often do you see ads on social software?",
+    "options": [
+      "Very often",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What is your attitude towards advertising on social software?",
+    "options": [
+      "Yes, some ads are useful",
+      "A little disgusted, but I can bear it",
+      "Very disgusted, affecting the use experience",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you buy products or services because of advertisements on social software?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Which form of advertising on social software do you think is most acceptable (multiple choices can be made) :",
+    "options": [
+      "Picture advertising",
+      "Video advertising",
+      "Text advertising",
+      "Interactive advertising (such as mini-games, questionnaires)",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "What do you think about personalized advertising on social software (based on your interests and behavior) :",
+    "options": [
+      "Very useful, can see the content of interest",
+      "Useful, but concerned about privacy",
+      "It doesn't matter",
+      "Don't like it, feel watched"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you reduce your use of social software because there are too many ads on it?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Your satisfaction with social software account security measures (such as password protection, two-factor authentication, etc.) is:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not Satisfied",
+      "Very Dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Are you worried about the leakage of personal information on social software?",
+    "options": [
+      "Very worried",
+      "More worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Have you ever encountered scams or fraud on social software?",
+    "options": [
+      "Often encountered",
+      "Occasionally",
+      "Rarely encountered",
+      "Never met"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "What is your opinion on the efficiency and fairness of social software in handling user reports and violations?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you stop using social software because of its security problems?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you trust social software to use and protect user data?",
+    "options": [
+      "Very trusting",
+      "More trust",
+      "Have some trust",
+      "Not very trusting",
+      "Total distrust"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "The impact of social software on your social life is:",
+    "options": [
+      "Greatly enriched and expanded the social circle",
+      "It is helpful to some extent, but it also brings some troubles",
+      "Little impact, similar to before",
+      "Brings more loneliness and isolation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "The impact of social software on your work/study is:",
+    "options": [
+      "It improves efficiency and facilitates communication and collaboration",
+      "Helpful, but also easily distracting",
+      "Little impact, similar to before",
+      "It reduces efficiency and wastes a lot of time"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "The effects of social media on your mental health are:",
+    "options": [
+      "Bring about positive emotions and boost confidence and self-esteem",
+      "There are positive and negative effects, overall balance",
+      "Bring some anxiety and stress, affecting the mood",
+      "Causes serious psychological problems, such as depression and social phobia"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "The impact of social software on your consumption concept and behavior is:",
+    "options": [
+      "Arouses more consumption desire and increases spending",
+      "Provides some consumption reference, but can be rationally controlled",
+      "Little impact, similar to before",
+      "Let you pay more attention to cost performance, saving expenses"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "The impact of social software on your sleep quality is:",
+    "options": [
+      "Often stay up late because of use, affecting sleep",
+      "Occasionally sleep is affected by addiction",
+      "Has little influence and can control himself",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "The impact of social software on your offline social activities (such as parties, sports, etc.) is:",
+    "options": [
+      "Reduced offline social activities and relied more on online communication",
+      "Online and offline social interactions complement each other, and there is no significant change",
+      "Promoted the organization and participation of offline social activities",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "The impact of social software on your access to information and knowledge growth are:",
+    "options": [
+      "Can quickly access A lot of information and knowledge, benefit a lot",
+      "Too much and too complicated information, difficult to screen and distinguish between true and false",
+      "The influence is not large, similar to that obtained from other channels",
+      "Easily misled and obtained wrong information and knowledge"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "What do you think is the development direction of social software in the future (multiple choices can be made) :",
+    "options": [
+      "Pay more attention to privacy protection",
+      "Application of augmented virtual reality and augmented reality technology",
+      "Achieve seamless cross-platform connection",
+      "Provide more personalized and customized services",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What do you think about the future payment model of social software?",
+    "options": [
+      "Willing to pay for quality service",
+      "Only some premium functions can be charged",
+      "No fees at all",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think social software will be replaced by new technologies or applications in the future?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "If a new social software comes out, the reasons why you will try to use it are (multiple choices can be made) :",
+    "options": [
+      "Unique features and experiences",
+      "Recommended by friends",
+      "Publicity and promotion to attract people",
+      "Free use",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What aspects do you think social software needs to improve and innovate in the future (multiple choices) :",
+    "options": [
+      "User interface design",
+      "Ways of social interaction",
+      "Content recommendation algorithm",
+      "Safety performance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "What is your opinion on the combination of social software and artificial intelligence:",
+    "options": [
+      "Looking forward to better service and experience",
+      "Looking forward to it, but worried about some problems",
+      "It doesn't matter",
+      "Not very optimistic, think it is not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think social software will play a bigger role in international communication and cultural integration in the future?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Have you changed your habits or values because of social software?",
+    "options": [
+      "It has changed A lot",
+      "There have been some changes",
+      "Rarely changes",
+      "No change at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Are you affected by negative comments or information on social media?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you think that social software makes the relationship between people more real and intimate?",
+    "options": [
+      "Yes, obviously",
+      "It has a certain promoting effect",
+      "Nothing has changed",
+      "It makes the relationship more distant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Do you take the initiative to recommend the social software you are using to others?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you think social software should have more censorship and regulation of the content posted by users?",
+    "options": [
+      "Shall ensure the quality and legality of the content",
+      "Moderate audit to avoid excessive interference",
+      "No, it will restrict freedom of speech"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Your overall satisfaction with current social software is:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  }
+]

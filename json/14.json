@@ -1,0 +1,901 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options":  [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What's your age?",
+    "options": [
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your monthly income level?",
+    "options": [
+      "Less than 5000",
+      "5001-10000",
+      "10001-20000",
+      "More than 20001"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Have you ever bought luxury goods?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How often do you buy luxury goods?",
+    "options": [
+      "Often (several times per month)",
+      "Sometimes (several times per year)",
+      "Occasionally (once a few years)",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What are your main reasons for buying luxury goods?",
+    "options": [
+      "Quality and craftsmanship",
+      "Brand image and reputation",
+      "Social needs and status symbols",
+      "Personal preferences and aesthetics"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "On which of the following occasions do you usually use luxury goods?",
+    "options": [
+      "Formal business occasions",
+      "Social gatherings",
+      "Daily life",
+      "Special events"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What do you look for when buying luxury goods?",
+    "options": [
+      "Brand awareness",
+      "Product design and style",
+      "Material and quality",
+      "Price"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Are you influenced by advertising and marketing campaigns when buying luxury goods?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What is your main channel for luxury information?",
+    "options": [
+      "Brand official website",
+      "Fashion magazines",
+      "Social media",
+      "Recommendations from friends"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "For luxury brands, do you prefer to choose?",
+    "options": [
+      "Internationally renowned brands",
+      "Local well-known brands",
+      "Emerging niche brands",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Are you willing to pay more for limited edition luxury goods?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What do you think is the main value of luxury goods?",
+    "options": [
+      "Scarcity and uniqueness",
+      "Exquisite workmanship and quality",
+      "Brand history and culture",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "How much do you value luxury after-sale service?",
+    "options": [
+      "Great importance",
+      "Attach more importance to it",
+      "General",
+      "Don't think much of it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you consider preservation and appreciation potential when purchasing luxury goods?",
+    "options": [
+      "Definitely think about it",
+      "Might consider it",
+      "Little thought",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Which of the following luxury goods do you think best reflects personal taste?",
+    "options": [
+      "Clothing and footwear",
+      "Jewellery and watches",
+      "Leather goods (handbags, wallets, etc.)",
+      "Makeup and perfume"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you buy second-hand luxury goods?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Considered but did not buy",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "What is your main concern about buying second-hand luxury goods?",
+    "options": [
+      "Question of authenticity",
+      "Finish and quality",
+      "After-sales support",
+      "Psychological factors"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "How concerned are you about the environmental and sustainability initiatives of luxury brands?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Are you willing to pay more for luxury goods that are environmentally friendly and sustainable?",
+    "options": [
+      "Willing",
+      "Maybe, it depends",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "How do you think luxury brands are doing with digital marketing?",
+    "options": [
+      "Very good",
+      "It's better",
+      "General",
+      "Difference"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you increase your willingness to buy a brand because of its digital experience (e.g. online shopping, virtual display, etc.)?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What is your opinion on the cooperation between luxury brands and art and culture?",
+    "options": [
+      "Very creative, enhance the brand image",
+      "Increase the added value of products",
+      "It's just a marketing tool. I don't care",
+      "Revulsion, feeling impure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you buy a brand's products because of its collaboration with art and culture?",
+    "options": [
+      "Definitely",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What is your interest in luxury customization services?",
+    "options": [
+      "Very interested",
+      "More interested",
+      "General",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What do you think the price of luxury customization services should be?",
+    "options": [
+      "Less than 50% higher than ordinary products",
+      "50%-100% higher than ordinary products",
+      "More than 100% higher than ordinary products",
+      "Don't care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you consider the brand's social responsibility performance when purchasing luxury goods?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Which of the following socially responsible behaviors do you think can improve the image of a luxury brand the most?",
+    "options": [
+      "Charitable giving",
+      "Environmental action",
+      "Support cultural and artistic undertakings",
+      "Protect employees' rights and interests"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you buy less or stop buying products because of negative news about the brand (such as quality issues, environmental controversies, etc.)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What do you think of luxury brands launching entry level products?",
+    "options": [
+      "Lowering the threshold of the brand is conducive to expanding the market",
+      "It may affect the high-end image of the brand",
+      "Do not care, only focus on the core product",
+      "Disgust, feeling that the uniqueness of luxury goods has been lost"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you buy entry level products from luxury brands?",
+    "options": [
+      "Yes, as an attempt",
+      "Maybe, depending on the product",
+      "No, it does not meet the expectation of luxury goods",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you think that luxury brands selling on e-commerce platforms will affect their high-end image?",
+    "options": [
+      "Yes, it reduces the sense of mystery and exclusivity",
+      "It has a certain impact, but it is convenient to buy",
+      "The impact is small, it is in line with the market trend",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Will you buy luxury goods on e-commerce platforms?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Considered but did not buy",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What do you think of luxury brands opening pop-up stores?",
+    "options": [
+      "It's new and attracts attention",
+      "Increase brand exposure",
+      "It is only a short-term marketing tool with limited effect",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Would you buy a brand's product because of its pop-up store?",
+    "options": [
+      "Will, stimulate the desire to buy",
+      "Maybe, look at the products and offers",
+      "Not really, just looking",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "What do you think of cross-border cooperation between luxury brands (such as automobiles, hotels, etc.)?",
+    "options": [
+      "Innovate to bring new experiences",
+      "Expand brand influence",
+      "May affect brand focus",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you buy a brand's product because of its cross-border cooperation?",
+    "options": [
+      "Yes, it's funny",
+      "Maybe, depending on the cooperation",
+      "Not really, it has nothing to do with the core product",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What is your attitude towards luxury brands launching limited collections?",
+    "options": [
+      "Looking forward to it, will buy it",
+      "Interested, depending on the situation",
+      "In general, not too concerned",
+      "Disgusted, think it is hype"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you pay more attention to the brand because of the limited number of co-branded items?",
+    "options": [
+      "Yes, keep an eye on it",
+      "Maybe, once in a while",
+      "No, it does not affect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think the price of luxury goods is reasonable?",
+    "options": [
+      "Reasonable and good value for money",
+      "Some products are reasonable, some are too high",
+      "Generally too high",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you compare the prices of different brands when buying luxury goods?",
+    "options": [
+      "Definitely, compare carefully",
+      "Yes, roughly compare",
+      "Occasionally",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think the pricing strategy of luxury brands is mainly based on?",
+    "options": [
+      "Costs and profits",
+      "Brand value and market positioning",
+      "Consumer demand and purchasing power",
+      "Competitive pressure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Are you buying less because of the rising price of luxury goods?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you increase your purchases because the price of luxury goods is falling?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "What do you think of luxury brand discount promotion?",
+    "options": [
+      "It's A good opportunity to buy",
+      "Brand image may be affected",
+      "Suspect that there is something wrong with the product quality or style",
+      "Don't care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you buy luxury goods when brands are on sale?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "How do you think luxury brands should maintain their uniqueness?",
+    "options": [
+      "Strictly control the output",
+      "Stick to handmade",
+      "Constantly innovate design",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you buy a brand because of its heritage and history?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "What do you think of luxury brands expanding their product lines (such as home, dining, etc.)?",
+    "options": [
+      "Enrich brand image and increase choice",
+      "It may distract the brand",
+      "Do not care, only focus on the core product",
+      "Aversion, feeling deviated from the main occupation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you buy non-core product lines of luxury brands?",
+    "options": [
+      "Yes, try new areas",
+      "Maybe, depending on the attractiveness of the product",
+      "No, do not trust non-professional products",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think the way luxury brands are promoted on social media is effective?",
+    "options": [
+      "Very effective",
+      "It is more effective",
+      "The effect is mediocre",
+      "Invalid"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Would you buy a brand's product because of its promotion on social media?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What is your interest in luxury brands holding offline events (e.g. new product launches, fashion shows, etc.)?",
+    "options": [
+      "Very interested and will attend",
+      "Yes, it depends",
+      "Average, not very concerned",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Will you buy a brand's product because you participate in its offline activities?",
+    "options": [
+      "Will increase the willingness to buy",
+      "It may, to some extent",
+      "Not really, the event has nothing to do with the purchase",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think luxury brands should focus more on functionality or artistry?",
+    "options": [
+      "Functionality",
+      "Artistry",
+      "Both are equally important",
+      "It depends on the type of product"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you choose to buy luxury goods because of the functionality of the product?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you choose to buy luxury goods because of the artistic quality of the products?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "What do you think of luxury brands launching personalized customization services (such as lettering, inlaying, etc.)?",
+    "options": [
+      "Very unique, increase the sense of exclusivity",
+      "It has a certain appeal",
+      "In general, not too concerned",
+      "It's not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy products from brands because they offer customized services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the store decoration and display of luxury brands have an impact on your purchasing decision?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What do you think of luxury brands working with celebrities?",
+    "options": [
+      "Enhance brand awareness and influence",
+      "Increase product appeal",
+      "The brand image may be too commercial",
+      "Don't care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Would you buy a brand's product because it works with a star?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think the luxury brand's investment in product packaging is worth it?",
+    "options": [
+      "Worth it, to enhance the overall experience",
+      "It is necessary, but not excessive",
+      "Not very necessary, the focus should be on the product itself",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you buy luxury goods because the products are beautifully packaged?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What do you think of the luxury brand's membership system and exclusive services (such as priority purchase, personal advisor, etc.)?",
+    "options": [
+      "Very attractive, promote loyalty",
+      "It has certain advantages",
+      "In general, not too concerned",
+      "It's not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you buy more because of the brand's membership system and exclusive services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think luxury brands should pay more attention to expanding in the international market?",
+    "options": [
+      "Maintain brand identity",
+      "Adapt to local culture and consumer needs",
+      "Balance the two",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What do you think of luxury brands partnering with e-commerce platforms to launch exclusive products?",
+    "options": [
+      "Have innovation, increase the purchase channel",
+      "Brand image may be affected",
+      "Just a marketing ploy, not interested",
+      "Disgust, feeling that it reduces uniqueness"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you buy exclusive products from luxury brands working with e-commerce platforms?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think luxury brands should put more emphasis on advertising?",
+    "options": [
+      "Product quality and process",
+      "Brand story and culture",
+      "Fashion trends and trends",
+      "Consumer lifestyle"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you change your opinion of a brand because of its advertising?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "What do you think of luxury brands holding charity events?",
+    "options": [
+      "Enhance the social image of the brand",
+      "Truly give back to the community",
+      "Most of the ingredients are for show",
+      "Don't care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Will you buy a brand's product because it holds a charity event?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "How do you think luxury brands should respond to market competition?",
+    "options": [
+      "Constantly innovate products",
+      "Strengthen brand marketing",
+      "Improve service quality",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Will you choose or abandon the purchase of the brand's products because of its market competition strategy?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "What do you think of luxury brands launching limited-edition gift boxes?",
+    "options": [
+      "Very attractive and collectible",
+      "is a marketing tool that may be considered for purchase",
+      "Not very interested, not practical",
+      "Disgusted, think just to make money"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Will you buy a luxury product because a luxury brand has launched a limited edition gift box?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "How do you think luxury brands should handle their relationship with consumers?",
+    "options": [
+      "Provide personalized services to meet consumer needs",
+      "Strengthen communication and listen to consumers' opinions",
+      "Build consumer communities to enhance brand loyalty",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "What do you think of luxury brands launching rental services?",
+    "options": [
+      "It's novel and can meet different needs",
+      "There may be risks, so I am not sure",
+      "Does not conform to the positioning of luxury goods",
+      "Don't care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Do you use luxury brand rental services?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "How do you think the online and offline sales channels of luxury brands should be integrated?",
+    "options": [
+      "Provide A consistent product and service experience",
+      "Online focus on display and promotion, offline focus on experience and purchase",
+      "Strengthen data sharing to achieve precision marketing",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 82,
+    "question": "What do you think of luxury brands collaborating with artists to launch joint collections?",
+    "options": [
+      "Enhance the artistic value of the product",
+      "Increased the uniqueness of the product",
+      "It may just be short-term hype",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  }
+]
+     

@@ -1,0 +1,977 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender is:",
+    "options": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age is:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your skin type is:",
+    "options": [
+      "dryness",
+      "Oiliness",
+      "Neutral",
+      "Mixability",
+      "Sensitivity"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your daily activities are mainly:",
+    "options": [
+      "Mostly indoors",
+      "Mostly outdoors",
+      "Balance indoor and outdoor"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you have the habit of using sunscreen:",
+    "options": [
+      "Use daily",
+      "Regular use (4-6 days per week)",
+      "Occasional use (1-3 days per week)",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Your main purposes for using sunscreen are:",
+    "options": [
+      "Prevent tanning",
+      "Prevent sunburn",
+      "Prevent skin aging",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "When do you usually use sunscreen:",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter",
+      "Throughout the year"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Which of the following factors should you consider when buying sunscreen (more than one can choose) :",
+    "options": [
+      "Sun protection index",
+      "Brand",
+      "Price",
+      "Texture",
+      "Word of mouth",
+      "Ingredients",
+      "Fragrance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Which sun protection index would you prefer:",
+    "options": [
+      "SPF15 - 30",
+      "SPF30 - 50",
+      "SPF50 +"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which of the following sunscreens do you prefer:",
+    "options": [
+      "Emulsion",
+      "Frosty",
+      "In spray form",
+      "Gelatinous"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "The price range of sunscreen you can accept is:",
+    "options": [
+      "Less than 50",
+      "51-100",
+      "101-200",
+      "201-300",
+      "More than 300"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Are you concerned about the water and sweat protection of sunscreen:",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you experience any symptoms of allergy or discomfort when using sunscreen:",
+    "options": [
+      "Never appeared",
+      "Appear occasionally",
+      "Appear often"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "If you have allergies or discomfort, you think the main cause is:",
+    "options": [
+      "Product ingredients",
+      "Individual skin type",
+      "Improper use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you use both physical and chemical sunscreen:",
+    "options": [
+      "Yes, A combination of the two",
+      "Use only physical sun protection",
+      "Use chemical sunscreen only"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "How much sunscreen do you think you should apply?",
+    "options": [
+      "A small amount is fine",
+      "The size of a coin",
+      "The more, the better"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "When you apply sunscreen, do you take care of areas that are easy to ignore (such as behind the ears, neck) :",
+    "options": [
+      "Definitely will",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you reapply sunscreen when outdoors:",
+    "options": [
+      "Yes, reapply regularly",
+      "Yes, if you feel sunburnt, reapply",
+      "Rarely reapply",
+      "Never repaint"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "How often do you usually reapply sunscreen:",
+    "options": [
+      "Within 2 hours",
+      "2-4 hours",
+      "4-6 hours",
+      "More than 6 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Are you aware of the open shelf life of sunscreen:",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you use sunscreen according to its expiration date:",
+    "options": [
+      "Definitely will",
+      "Try to",
+      "Not too concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you use a primer before applying sunscreen:",
+    "options": [
+      "Definitely will",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you think sunscreen requires makeup removal:",
+    "options": [
+      "Makeup must be removed",
+      "Plain face wash is enough",
+      "It depends on the product"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you experience slime after using sunscreen:",
+    "options": [
+      "Never appeared",
+      "Appear occasionally",
+      "Appear often"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think the reason for the phenomenon of mud rolling is:",
+    "options": [
+      "Product itself",
+      "Conflicts with other skin care products",
+      "Improper application"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Will you buy a sunscreen with additional features such as whitening and moisturizing:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Will you buy sunscreen because of its packaging design:",
+    "options": [
+      "Yes, packing is very important",
+      "It may, to some extent",
+      "No, just focus on the product itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you try a new brand of sunscreen:",
+    "options": [
+      "Yes, willing to try",
+      "Maybe, depending on the rating",
+      "Not very good, accustomed to using familiar brands"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Your main sources of information about sunscreen are (more than one can choose) :",
+    "options": [
+      "Recommendations from friends",
+      "Network platform",
+      "Beauty bloggers",
+      "Offline counters",
+      "Advertising"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you buy sunscreen based on the recommendations of beauty bloggers:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What do you think about sunscreen for children:",
+    "options": [
+      "It's necessary",
+      "It has a certain effect",
+      "Not necessary, used with adults",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you buy sunscreen for children:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What do you think of sunscreen for men:",
+    "options": [
+      "It's necessary",
+      "It has a certain effect",
+      "It's not necessary. It works with women",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you buy sunscreen specifically for men:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you buy sunscreen lip balm:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Will you buy a sunscreen spray for hair protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you buy a foundation or air cushion with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you buy a sunscreen?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "How loyal are you to sunscreen brands:",
+    "options": [
+      "Very high, only buy fixed brands",
+      "Higher, priority given to commonly used brands",
+      "Generally, I will try different brands",
+      "Very low, not focused on the brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you buy foreign brands of sunscreen?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Whether you will buy domestic brand sunscreen:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you buy sunscreen because of the brand's promotion:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What is your flavor preference for sunscreen:",
+    "options": [
+      "No fragrance",
+      "Floral fragrance",
+      "Fruity",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you buy body lotion with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Will you buy a hand cream with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you buy eye products with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you buy a mask with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Will you buy a waterproof sunscreen for water activities such as swimming:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you buy a lightweight sunscreen with a high protection factor:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you buy a sunscreen with skin benefits:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Will you buy a sunscreen that enhances your skin tone:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you buy a sunscreen with anti-pollution features:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you buy a sunscreen with antioxidant properties:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Will you buy a lip balm with sunscreen for your lips?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you buy an eyebrow pencil with sunscreen for your brow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you buy a sunscreen blush for your cheeks?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you buy eye shadow with sunscreen for eye protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Will you buy a concealer with sun protection to protect your concealer:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Will you buy loose powder with sun protection for setting and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you buy a lipstick with sun protection for your lips and beautify your lips?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you buy a lip glaze with sun protection for your lips and beautify your lips?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Will you buy a sunscreen eyeliner for eye protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you buy mascara with sunscreen for eye protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Would you like to buy a moisturizing product with sunscreen function to protect the moisturizing area:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you buy a sunscreen highlight product to enhance the sun protection on the brightening area:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you buy a pen with sunscreen for eye protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you buy a cream with sunscreen for your cheeks?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you buy an eyebrow powder with sunscreen for your brow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you buy a sunscreen eyeshadow for eye protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you buy a sunscreen concealer to protect your concealer:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you buy a setting spray with sun protection for setting and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you buy a powder with sunscreen for setting and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Will you buy a sunscreen spray for isolation and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Do you buy a sunscreen cream to lighten your skin and protect against the sun:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Will you buy a sunscreen primer for base and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Will you buy a BB cream with sunscreen for concealer and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Will you buy CC cream with sun protection for brightening skin and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Will you buy an air cushion CC cream with sun protection for brightening skin and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Will you buy an air cushion BB cream with sun protection for concealer and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Will you buy a men's skin cream with sun protection for men's brightening and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "Will you buy a men's BB cream with sun protection for men's concealer and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 82,
+    "question": "Will you buy men's CC cream with sun protection for men's brightening and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 83,
+    "question": "Will you buy a men's Air cushion CC cream with sun protection for men's brightening and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 84,
+    "question": "Will you buy a Men's Air Cushion BB cream with sun protection for men's concealer and sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 85,
+    "question": "Will you purchase a children's air cushion with sunscreen for children's skin protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 86,
+    "question": "Will you buy a children's skin cream with sun protection for children's skin protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 87,
+    "question": "Will you buy a pregnant women's sunscreen with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 88,
+    "question": "Will you buy a sports-specific sunscreen with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 89,
+    "question": "Do you buy a sunscreen for sensitive skin with sun protection:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  }
+]

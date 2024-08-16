@@ -1,0 +1,665 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-50 years old",
+      "Over 50 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "The average number of times you eat out for fast food per week is:",
+    "options": [
+      "0-1 times",
+      "Two or three times",
+      "4-5 times",
+      "6 times or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "When do you usually choose fast food:",
+    "options": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Afternoon tea/late night snack"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "The main reasons you choose fast food are:",
+    "options": [
+      "Save time",
+      "Affordable",
+      "Variety of dishes",
+      "Convenient and fast",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following factors will affect your choice of fast food restaurant:",
+    "options": [
+      "Restaurant location",
+      "Restaurant environment",
+      "Food taste",
+      "Price",
+      "Quality of service",
+      "Brand awareness",
+      "Health situation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Which type of fast food restaurant do you prefer:",
+    "options": [
+      "Chinese fast food",
+      "Western fast food",
+      "Japanese fast food",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "For the location of fast food restaurants, you prefer:",
+    "options": [
+      "Business District",
+      "Near school/office area",
+      "Residential areas",
+      "Transportation hubs (e.g. stations, airports)",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Your favorite staple at fast food restaurants are:",
+    "options": [
+      "Rice",
+      "Noodles",
+      "Hamburg",
+      "Pizza",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What are your favorite dishes in fast food restaurants:",
+    "options": [
+      "Braised pork in brown sauce",
+      "Kung Pao Chicken",
+      "Fried chicken nuggets",
+      "French Fries",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Would you prefer a fast food restaurant serving vegetarian dishes:",
+    "options": [
+      "Very much",
+      "Prefer it",
+      "It doesn't matter",
+      "Not really",
+      "Not very much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What is your spiciness preference for fast food restaurant dishes:",
+    "options": [
+      "It's not spicy",
+      "Slightly spicy",
+      "Medium spicy",
+      "Extra spicy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "In your opinion, a reasonable price range for a fast food meal is:",
+    "options": [
+      "10-20",
+      "21-30",
+      "31-40",
+      "41 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Are you willing to pay more for better quality fast food:",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "It doesn't matter",
+      "Not really",
+      "Very reluctant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "For the set menu combination of fast food restaurants, you prefer:",
+    "options": [
+      "Fixed package",
+      "Choose your own combination package"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you think the attitude of service staff in fast food restaurants is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "How satisfied are you with the service speed of the fast food restaurant:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you want the fast food restaurant to provide food delivery service:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Which aspect of fast food restaurant environment do you pay more attention to:",
+    "options": [
+      "Lighting",
+      "Music",
+      "Table and chair comfort",
+      "Spatial layout",
+      "Hygiene and cleanliness"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you think the number of seats in a fast food restaurant is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you want the fast food restaurant to provide free Wi-Fi service:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Your most frequent fast food brands are:",
+    "options": [
+      "McDonald's",
+      "KFC",
+      "Burger King",
+      "Pizza Hut",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "The main reasons you choose this brand are:",
+    "options": [
+      "High brand awareness",
+      "The food tastes good",
+      "Affordable",
+      "Good service quality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Whether you will choose to go to this fast food restaurant because of the brand's promotion activities:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "How concerned are you about the food safety and hygiene of fast food restaurants?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you want a fast food restaurant to provide a nutrition facts list:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you think the freshness of food ingredients in fast food restaurants is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Whether you will choose to eat because of the decoration style of the fast food restaurant:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you want the fast food restaurant to provide a children's play area:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Would you like to join the fast Food restaurant membership system:",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "It doesn't matter",
+      "Not really",
+      "Very reluctant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "How satisfied are you with the variety of payment methods (such as cash, bank cards, wechat, Alipay, etc.) in fast food restaurants?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you want the fast food restaurant to provide personalized food service:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you think fast food restaurants should provide eco-friendly tableware?",
+    "options": [
+      "Yes, very supportive",
+      "Yes, but it has little effect",
+      "It doesn't matter",
+      "Should not, increase the cost",
+      "No, it is inconvenient to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you choose to eat because of the free drinks offered by the fast food restaurant:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "How satisfied are you with the bathroom facilities in the fast food restaurant:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you want a fast food restaurant to provide takeaway packaging recycling service:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you think fast food restaurants should limit their customers' eating time?",
+    "options": [
+      "Should, improve the turnover rate",
+      "Yes, but within a reasonable time limit",
+      "It doesn't matter",
+      "Should not affect the customer experience",
+      "No, it's not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you like fast food restaurants more because of their public welfare activities (such as donations, environmental protection actions, etc.) :",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "How satisfied are you with the complaint handling mechanism of fast food restaurants:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you want the fast food restaurant to offer birthday promotions:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think the advertising of fast food restaurants has a great influence on your choice?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "Relatively small",
+      "Very small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you choose a new fast food restaurant because of a friend's recommendation:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "How satisfied are you with the frequency of food updates in fast food restaurants?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you want the fast food restaurant to provide reservation service:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you think the point exchange gift activity of fast food restaurant is attractive?",
+    "options": [
+      "Very attractive",
+      "More attractive",
+      "General",
+      "Not very attractive",
+      "Totally unattractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you choose to eat because of joint activities between fast food restaurants and other brands:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "How engaged are you with the restaurant's social media interactions (such as sweepstakes, online activities, etc.) :",
+    "options": [
+      "Participate regularly",
+      "Participate occasionally",
+      "Rarely involved",
+      "Never participate"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you want the fast food restaurant to provide online order pickup service:",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you think the convenience of parking in fast food restaurants is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Overall, how satisfied are you with the current fast food restaurants:",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you continue to choose fast food restaurants in the future?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "If a new fast food restaurant opens, would you like to try:",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "It doesn't matter",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "In your opinion, the most important areas for fast food restaurants to improve are:",
+    "options": [
+      "Food quality",
+      "Quality of service",
+      "Environmental health",
+      "Price",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Would you recommend your favorite fast food restaurant to others:",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "In your opinion, the development trend of fast food restaurants in the future should be:",
+    "options": [
+      "Pay more attention to healthy eating",
+      "Provide more personalized services",
+      "Strengthen digital marketing",
+      "Expand the delivery business",
+      "Other"
+    ],
+    "correctAnswer": ""
+  }
+]

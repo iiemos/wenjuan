@@ -1,0 +1,804 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36 to 45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Where you live:",
+    "options": [
+      "First-tier cities",
+      "Second-tier cities",
+      "Third-tier cities",
+      "Tier 4 and below cities"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you have air conditioning in your home?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How often you use air conditioning:",
+    "options": [
+      "Use it every day",
+      "Regular use (4-6 days per week)",
+      "Occasional use (1-3 days per week)",
+      "Rarely used (1-3 days per month)",
+      "Hardly ever"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "In what season do you usually use air conditioning? (Multiple options available)",
+    "options": [
+      "Summer",
+      "Winter",
+      "Spring and Autumn",
+      "All year round"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Your daily use of air conditioning is approximately:",
+    "options": [
+      "1-3 hours",
+      "4-6 hours",
+      "7-9 hours",
+      "10 hours or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What temperature do you usually set your air conditioner at?",
+    "options": [
+      "16 - 20℃",
+      "21 - 25℃",
+      "26 - 30℃",
+      "The temperature is above 30 ° C"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Which mode do you prefer when using air conditioning?",
+    "options": [
+      "Cooling",
+      "Heat",
+      "Dehumidify",
+      "Automatic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you use the air conditioner when you sleep?",
+    "options": [
+      "Yes, it's open all night",
+      "Yes, turn it on for a while before bed and then turn it off",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Which of the following air conditioning brands have you heard of? (Multiple options available)",
+    "options": [
+      "Gree",
+      "Beautiful",
+      "Hale",
+      "Hisense",
+      "Ochs",
+      "Daikin",
+      "Panasonic",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Which brand of air conditioner do you think has the best quality?",
+    "options": [
+      "Gree",
+      "Beautiful",
+      "Hale",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Which of the following brands do you think has the best after-sales service for air conditioners?",
+    "options": [
+      "Gree",
+      "Beautiful",
+      "Hale",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "The factors you are most concerned about when buying air conditioners are: (multiple choices)",
+    "options": [
+      "The price",
+      "Brand",
+      "Energy saving effect",
+      "Cooling/heating effect",
+      "Noise level",
+      "Appearance design",
+      "After-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "The price range of air conditioning you can accept is:",
+    "options": [
+      "1000-2000",
+      "2001-3000",
+      "3001-4000",
+      "4001-5000",
+      "More than 5000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "When buying air conditioners, do you choose to buy them online or offline?",
+    "options": [
+      "Online",
+      "Offline"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "If you choose to buy online, the main reasons are: (multiple choices can be made)",
+    "options": [
+      "The price is more favorable",
+      "Convenient and fast",
+      "Wide variety of products",
+      "You can view user evaluations",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "If you choose to buy offline, the main reasons are: (multiple choices can be made)",
+    "options": [
+      "Experience the product on site",
+      "Introduction and recommendation of sales personnel",
+      "More convenient after sale installation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Are you satisfied with the cooling/heating effect of your current air conditioner?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Are you satisfied with the noise level of your current air conditioner?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Are you satisfied with the energy-saving effect of the air conditioner you are currently using?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Are you satisfied with the appearance design of the current air conditioner?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Have you ever encountered any problems when using the air conditioner?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "If you have encountered a failure, are you satisfied with the speed and quality of after-sales service?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Which of the following functions do you want your air conditioner to have? (Multiple options available)",
+    "options": [
+      "Intelligent control (mobile APP remote control)",
+      "Self-cleaning function",
+      "Air purification function",
+      "Silent sleep mode",
+      "Energy saving mode",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "How helpful do you think the intelligent control function is to your user experience?",
+    "options": [
+      "It's very big",
+      "It is large",
+      "Normal",
+      "It is small",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Are you willing to pay a higher price for an air conditioner with air purification function?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you think the self-cleaning function of air conditioning is important?",
+    "options": [
+      "Very important",
+      "Important",
+      "Normal",
+      "It's not important",
+      "Totally unimportant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you think the future development trend of air conditioning market is: (multiple choices)",
+    "options": [
+      "More intelligent",
+      "More energy saving",
+      "More diversified functions",
+      "The price is more affordable",
+      "Brand competition is more intense",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What problems do you think exist in the current air-conditioning market? (Multiple options available)",
+    "options": [
+      "Product homogeneity is serious",
+      "False propaganda",
+      "After-sales service is not in place",
+      "The price is high",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "How well do you understand the new technologies in the air conditioning industry (such as no-wind technology, zone temperature control technology, etc.)?",
+    "options": [
+      "Very well",
+      "Learn about it",
+      "Heard about it but don't know about it",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Would you recommend the brand of air conditioner you use to others?",
+    "options": [
+      "Definitely recommend it",
+      "May recommend",
+      "Not sure",
+      "May not be recommended",
+      "Definitely not recommended"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "If you want to replace the air conditioner, when will you choose?",
+    "options": [
+      "The fault cannot be rectified",
+      "The energy saving effect is not good",
+      "Functions cannot meet requirements",
+      "When the service life expires",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Are you concerned about the environmental performance of air conditioners?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Normal",
+      "Don't pay much attention",
+      "Don't pay attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What do you think is the main impact of air conditioning on the environment? (Multiple options available)",
+    "options": [
+      "Energy consumption",
+      "Refrigerant leaks",
+      "Disposal of used air conditioners",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "What do you think of the advertising in the air conditioning industry?",
+    "options": [
+      "It is very attractive and can effectively guide consumption",
+      "There is some reference value, but further understanding of the product is needed",
+      "Exaggerated and not credible",
+      "Don't feel anything"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you know the energy efficiency rating of air conditioners?",
+    "options": [
+      "Very understand, can accurately distinguish between different levels",
+      "Get to know the general idea",
+      "I've heard of it, but I'm not sure about it",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "When buying air conditioners, do you give priority to products with high energy efficiency grades?",
+    "options": [
+      "Definitely",
+      "Maybe, depending on the price",
+      "I am not sure. I will take it into consideration",
+      "Probably not. Pay more attention to other factors",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think the government's energy efficiency standards for the air conditioning industry are reasonable?",
+    "options": [
+      "Very reasonable and conducive to energy conservation and emission reduction",
+      "It is reasonable, but the standard can be further raised",
+      "It is not reasonable and requires too much of the enterprise",
+      "It's totally unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you know the installation specifications and precautions of air conditioners?",
+    "options": [
+      "Very well",
+      "Learn about it",
+      "I'm not sure",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Have you encountered any problems during the air conditioning installation?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "If you have encountered installation problems, what are the main aspects? (Multiple options available)",
+    "options": [
+      "The installation personnel are not professional",
+      "The installation cost is unreasonable",
+      "The installation takes a long time",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Are you satisfied with the charge for air conditioning installation service?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you maintain and maintain your air conditioner regularly?",
+    "options": [
+      "Yes, ask professional maintenance personnel to perform maintenance regularly",
+      "Yes, clean up after yourself",
+      "Sometimes I think I'll do it",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "How much do you think regular maintenance and maintenance of air conditioners affect their performance and service life?",
+    "options": [
+      "It's very big",
+      "It is large",
+      "Normal",
+      "It is small",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you pay attention to indoor ventilation when using air conditioning?",
+    "options": [
+      "Yes, always open the Windows for ventilation",
+      "Yes, but not often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think indoor ventilation is important during the use of air conditioning?",
+    "options": [
+      "Very important",
+      "Important",
+      "Normal",
+      "It's not important",
+      "Totally unimportant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Are you aware of the possible health effects of improper use of air conditioning?",
+    "options": [
+      "Very well",
+      "Learn about it",
+      "I'm not sure",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "In your opinion, which of the following are possible health problems caused by improper use of air conditioning? (Multiple options available)",
+    "options": [
+      "A cold",
+      "Respiratory diseases",
+      "Dry skin",
+      "Joint pain",
+      "Others"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you consider the health effects of air conditioners when you buy them?",
+    "options": [
+      "Definitely",
+      "Maybe",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you know the sterilization function of air conditioning?",
+    "options": [
+      "Very well",
+      "Learn about it",
+      "Heard about it but don't know about it",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think the sterilization and disinfection function of air conditioning is necessary?",
+    "options": [
+      "It's very necessary",
+      "It is necessary",
+      "Normal",
+      "That's not necessary",
+      "Absolutely not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Are you willing to pay a higher price for air conditioners with sterilizing functions?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you trust the energy-saving propaganda of air conditioners in the market?",
+    "options": [
+      "Very trusting",
+      "Trust",
+      "I don't trust",
+      "No trust at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the current energy-saving technology of air conditioning is mature?",
+    "options": [
+      "Very mature",
+      "Mature",
+      "Not very mature",
+      "Totally immature"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you know the matching relationship between the number of air conditioners and the room size?",
+    "options": [
+      "Very understand, can accurately select the right number of horses",
+      "Know something about it, and know roughly how to choose",
+      "I'm not sure. I need to consult the sales staff",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "When you buy an air conditioner, do you choose the right number of units according to the room size?",
+    "options": [
+      "Definitely",
+      "May be, depending on other factors",
+      "Not sure, listen to the sales staff recommendation",
+      "Probably not. Pay more attention to price and brand",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you know the difference between frequency conversion and fixed frequency of air conditioning?",
+    "options": [
+      "Very understand, can identify the advantages and disadvantages of both",
+      "Get to know the basic concepts",
+      "Yes, but I'm not sure about the specific difference",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you prefer frequency conversion or fixed frequency when buying air conditioners?",
+    "options": [
+      "Frequency conversion",
+      "Set the frequency",
+      "Not sure, depending on price and performance",
+      "Doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the appearance color of the air conditioner has an impact on your purchase decision?",
+    "options": [
+      "has A great impact, must conform to the style of the home",
+      "It has certain influence and will be used as a reference factor",
+      "The impact is small, and the performance is more important",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you know the energy efficiency label of air conditioners?",
+    "options": [
+      "Understand the labels very well",
+      "Read about it and know the general meaning",
+      "I'm not sure, just look at the grade",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you pay attention to the specific parameters on the energy efficiency label when you buy an air conditioner?",
+    "options": [
+      "Definitely, compare carefully",
+      "Probably. Take a look",
+      "Not really. It just depends on the grade",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you know the refrigerant type of air conditioner?",
+    "options": [
+      "Very knowledgeable, know the characteristics of different kinds",
+      "Get to know some of the common types",
+      "Not very clear, only concerned about the cooling effect",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think the remote control design of air conditioning is important?",
+    "options": [
+      "Very important, easy operation is key",
+      "It is important and affects the user experience",
+      "General, can basic operation",
+      "It's not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Are you satisfied with your current air conditioner remote control?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "Normal",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you want your air conditioner to have voice control?",
+    "options": [
+      "I hope so. I find it very convenient",
+      "Hopefully, it can improve the user experience",
+      "It doesn't matter. It's optional",
+      "No, I don't think it's practical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you know the fresh air system of the air conditioner?",
+    "options": [
+      "Very understand, know its function and principle",
+      "Know something about it, heard about it but not quite sure",
+      "I'm not sure. I just know the general idea",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+   },
+  {
+    "id": 68,
+    "question": "Do you think fresh air system for air conditioning is necessary?",
+    "options": [
+      "Very necessary to improve indoor air quality",
+      "If necessary, an air conditioner with this function will be selected",
+      "General, not the key factor",
+      "That's not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Are you willing to pay more for an air conditioner with a fresh air system?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think the degree of intelligence of air conditioners will affect your purchase decision?",
+    "options": [
+      "Yes, the smarter the better",
+      "Yes, but it depends on whether the specific function is practical",
+      "Not really. Focus more on basic performance",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you know the effect of the dehumidification function of air conditioning in different environments?",
+    "options": [
+      "Very understand, can use reasonably",
+      "Get to know the basics",
+      "Not very clear, rarely used",
+      "I have no idea"
+    ],
+    "correctAnswer": ""
+  }
+]

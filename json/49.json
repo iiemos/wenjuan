@@ -1,0 +1,937 @@
+[
+  {
+    "id": 1,
+    "question": "Which operating system do you use most often?",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is the main reason for you to choose your current operating system?",
+    "options": [
+      "Ease of use",
+      "Stability",
+      "Security",
+      "Software compatibility",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "How often do you use the operating system?",
+    "options": [
+      "Multiple times A day",
+      "Once a day",
+      "Several times a week",
+      "Once a week",
+      "Less"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Are you satisfied with the startup speed of the operating system?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not Satisfied",
+      "Very Dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Is the aesthetics of the operating system interface important to you?",
+    "options": [
+      "Very important",
+      "Important",
+      "General",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How often do you think the operating system should be updated?",
+    "options": [
+      "Update frequently",
+      "Update regularly",
+      "Update on demand",
+      "The fewer updates, the better"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is your evaluation of the multitasking capability of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Does the file management system of the operating system have a big impact on your productivity?",
+    "options": [
+      "Big",
+      "Larger",
+      "General",
+      "Smaller",
+      "Small"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Have you ever experienced a software crash in your operating system?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What is the driver compatibility of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you think the application of the operating system is practical?",
+    "options": [
+      "Very practical",
+      "Practical",
+      "General",
+      "Not very practical",
+      "Totally impractical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Does the power management function of the operating system meet your needs?",
+    "options": [
+      "Totally satisfied",
+      "Basically satisfied",
+      "Partially satisfied",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Will you use the voice assistant function of the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "What do you think about the game performance of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "How stable is the network connection of the operating system?",
+    "options": [
+      "Very stable",
+      "Stability",
+      "General",
+      "Unstable",
+      "Very unstable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Will you customize the theme and look of your operating system?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Does the search function of the operating system quickly find the files and applications you need?",
+    "options": [
+      "Always can",
+      "Most can",
+      "Sometimes",
+      "Rarely can",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you trust the security protection mechanism of the operating system?",
+    "options": [
+      "Very trusting",
+      "Trust",
+      "General",
+      "Not very trusting",
+      "Total distrust"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Does the cloud service feature of the operating system help you?",
+    "options": [
+      "It helps A lot",
+      "It helps",
+      "General",
+      "Not much help",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you use the virtual desktop feature in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "What is your comment on the touch screen support of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Does the notification management function of the operating system meet your needs?",
+    "options": [
+      "Totally satisfied",
+      "Basically satisfied",
+      "Partially satisfied",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you use parental controls in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Does the automatic backup function of the operating system work well?",
+    "options": [
+      "It works very well",
+      "Easy to use",
+      "General",
+      "It's not easy to use",
+      "Very difficult to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you understand the privacy policy of the operating system?",
+    "options": [
+      "Very well",
+      "Understanding",
+      "General",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Is the upgrade process of the operating system easy and convenient?",
+    "options": [
+      "Very simple",
+      "Simplicity",
+      "General",
+      "Complexity",
+      "It's very complicated"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Will you use the remote desktop function of your operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What is your opinion on the Bluetooth connection stability of the operating system?",
+    "options": [
+      "Very stable",
+      "Stability",
+      "General",
+      "Unstable",
+      "Very unstable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "How rich are the apps in the operating system's app store?",
+    "options": [
+      "Very rich",
+      "Enrichment",
+      "General",
+      "Less",
+      "Very few"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Will you use System Restore in your operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Is the printing function of the operating system easy to use?",
+    "options": [
+      "It's very convenient",
+      "Convenience",
+      "General",
+      "It's inconvenient",
+      "It's very inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Will you use encryption in your operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What do you think of the multi-user support of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Are you satisfied with the design of the task bar and status bar of the operating system?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very Dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you use the shortcut function in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Does the shortcut key setting of the operating system conform to your usage habits?",
+    "options": [
+      "Exactly",
+      "Basically yes",
+      "Partially yes",
+      "Does not match"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Are you satisfied with the font display of the operating system?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not Satisfied",
+      "Very Dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "How about the touchpad gesture support of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you use the split screen function in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What is your opinion on the system update push mode of the operating system?",
+    "options": [
+      "Very reasonable",
+      "Reasonable",
+      "General",
+      "Unreasonable",
+      "Very unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Is the disk management function of the operating system easy to use?",
+    "options": [
+      "Very easy to use",
+      "Easy to use",
+      "General",
+      "Not easy to use",
+      "Very difficult to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you use the system's built-in screenshot tool in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What is your comment on the audio setting function of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "How is the video playback performance of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you use the built-in firewall in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Is the installation process of the operating system software simple?",
+    "options": [
+      "Very simple",
+      "Simplicity",
+      "General",
+      "Complexity",
+      "It's very complicated"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What is your concern about the system logging function of the operating system?",
+    "options": [
+      "Very concerned",
+      "Attention",
+      "General",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Does the user account management function of the operating system meet your needs?",
+    "options": [
+      "Totally satisfied",
+      "Basically satisfied",
+      "Partially satisfied",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you use the calculator that comes with the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "What is your opinion about the restore point setting of the operating system?",
+    "options": [
+      "It's convenient",
+      "Convenience",
+      "General",
+      "It's inconvenient",
+      "It's very inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Have you used the registry editing function of the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you use the drawing tool that comes with the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What is your opinion about the system sleep function of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Is the virtual memory configured properly for the operating system?",
+    "options": [
+      "Very reasonable",
+      "Reasonable",
+      "General",
+      "Unreasonable",
+      "Very unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you use the built-in Notepad in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Does the error report of the operating system after the system crash help you?",
+    "options": [
+      "It helps A lot",
+      "It helps",
+      "General",
+      "Not much help",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you use the disk cleanup tool delivered with the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "What do you think of the system performance optimization tools for operating systems?",
+    "options": [
+      "It works very well",
+      "Easy to use",
+      "General",
+      "It's not easy to use",
+      "Very difficult to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Have you used the task scheduler function of the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you use the system's built-in note function in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Can the operating system's system diagnostic tools accurately detect problems?",
+    "options": [
+      "Always can",
+      "Most can",
+      "Sometimes",
+      "Rarely can",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you use the audio recorder that comes with the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What is your assessment of the recovery effect of system restore of the operating system?",
+    "options": [
+      "Very good",
+      "Better",
+      "General",
+      "Poor",
+      "Very bad"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Is the patch size of the operating system update acceptable to you?",
+    "options": [
+      "Totally acceptable",
+      "Basically acceptable",
+      "Partially acceptable",
+      "Not acceptable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you use the system's built-in magnifying glass in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Does the screenshot tool of the operating system meet your needs?",
+    "options": [
+      "Totally satisfied",
+      "Basically satisfied",
+      "Partially satisfied",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you use the remote assistance feature in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What do you think about the font library that comes with the operating system?",
+    "options": [
+      "Very rich",
+      "Enrichment",
+      "General",
+      "Less",
+      "Very few"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you like the screen saver that comes with the operating system?",
+    "options": [
+      "Very much",
+      "Like",
+      "General",
+      "No",
+      "Not very much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you use the Bluetooth file transfer function in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Does the function of the calculator that comes with the operating system meet your needs?",
+    "options": [
+      "Totally satisfied",
+      "Basically satisfied",
+      "Partially satisfied",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you use the voice recognition function in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "What do you think of the video editing tools that come with the operating system?",
+    "options": [
+      "It works very well",
+      "Easy to use",
+      "General",
+      "It's not easy to use",
+      "Very difficult to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Does the photo album function of the operating system meet your needs?",
+    "options": [
+      "Totally Satisfied",
+      "Basically Satisfied",
+      "Partially Satisfied",
+      "Not Satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Will you use the built-in map application in the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you use the mail client delivered with the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "What is your satisfaction with the built-in calendar function of the operating system?",
+    "options": [
+      "Very Satisfied",
+      "Satisfied",
+      "General",
+      "Not Satisfied",
+      "Very Dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Is the weather application of the operating system accurate?",
+    "options": [
+      "Very accurate",
+      "Accuracy",
+      "General",
+      "Inaccurate",
+      "Very inaccurate"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Will you use the stock application that comes with the operating system?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "What is your opinion about the news application of the operating system?",
+    "options": [
+      "Very useful",
+      "Useful",
+      "General",
+      "Useless",
+      "Very useless"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "Have you played any games that come with the operating system?",
+    "options": [
+      "Play A lot",
+      "Play occasionally",
+      "Rarely play",
+      "Never played"
+    ],
+    "correctAnswer": ""
+  }
+]

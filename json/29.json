@@ -1,0 +1,805 @@
+[
+  {
+    "id": 1,
+    "question": "Do you watch movies regularly?",
+    "options": [
+      "Yes, almost every day",
+      "Yes, several times a week",
+      "Yes, once a week",
+      "No, rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What kind of movies do you prefer?",
+    "options": [
+      "Action movies",
+      "Comedy movies",
+      "Drama movies",
+      "Science fiction movies"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Do you prefer watching movies at home or in the cinema?",
+    "options": [
+      "At home",
+      "In the cinema",
+      "Both equally",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "How often do you recommend movies to others?",
+    "options": [
+      "Always",
+      "Often",
+      "Sometimes",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you like movies with a happy ending or a tragic ending?",
+    "options": [
+      "Happy ending",
+      "Tragic ending",
+      "Doesn't matter",
+      "Depends on the story"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Are you more likely to watch movies based on their cast or the director?",
+    "options": [
+      "Cast",
+      "Director",
+      "Both",
+      "Neither"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Do you pay attention to the soundtrack of a movie?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you like movies based on real events or fictional stories?",
+    "options": [
+      "Real events",
+      "Fictional stories",
+      "Both",
+      "No preference"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you think special effects are important in a movie?",
+    "options": [
+      "Very important",
+      "Somewhat important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you prefer movies with a lot of dialogue or more visual storytelling?",
+    "options": [
+      "A lot of dialogue",
+      "More visual storytelling",
+      "Balanced",
+      "Depends on the genre"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How do you usually choose which movie to watch?",
+    "options": [
+      "Reviews and recommendations",
+      "Trailer",
+      "Actor/director",
+      "Just randomly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you like movies that make you think or ones for pure entertainment?",
+    "options": [
+      "Make me think",
+      "Pure entertainment",
+      "Both",
+      "Depends on my mood"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you watch foreign language movies with subtitles or dubbed?",
+    "options": [
+      "Subtitles",
+      "Dubbed",
+      "Both",
+      "Prefer not to watch foreign language movies"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you rewatch your favorite movies?",
+    "options": [
+      "Frequently",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you like movies with a linear storyline or a non-linear one?",
+    "options": [
+      "Linear storyline",
+      "Non-linear storyline",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Are you more likely to watch a movie based on its awards and nominations?",
+    "options": [
+      "Yes, definitely",
+      "Maybe",
+      "Not really",
+      "Awards don't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you like movies that are part of a franchise or standalone movies?",
+    "options": [
+      "Franchise movies",
+      "Standalone movies",
+      "Both",
+      "Depends on the franchise"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you notice the cinematography in a movie?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you like movies with a large ensemble cast or a few main characters?",
+    "options": [
+      "Large ensemble cast",
+      "A few main characters",
+      "Both",
+      "Depends on the story"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think the runtime of a movie affects your enjoyment?",
+    "options": [
+      "Yes, very much",
+      "A little",
+      "Not at all",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you like movies that are set in the past, present, or future?",
+    "options": [
+      "Past",
+      "Present",
+      "Future",
+      "All equally"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Are you more likely to watch a movie based on its genre or its rating?",
+    "options": [
+      "Genre",
+      "Rating",
+      "Both",
+      "Neither"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you like movies that are adaptations of books or original screenplays?",
+    "options": [
+      "Adaptations of books",
+      "Original screenplays",
+      "Both",
+      "Depends on the book/screenplay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you think the budget of a movie affects its quality?",
+    "options": [
+      "Yes, always",
+      "Sometimes",
+      "Not necessarily",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you like movies with a lot of action scenes or more character development?",
+    "options": [
+      "A lot of action scenes",
+      "More character development",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you watch indie movies or mainly mainstream ones?",
+    "options": [
+      "Indie movies",
+      "Mainstream movies",
+      "Both",
+      "Depends on the reviews"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you like movies with a surprise ending or one that you can predict?",
+    "options": [
+      "Surprise ending",
+      "Predictable ending",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you think the marketing of a movie influences your decision to watch it?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not much",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you like movies with a lot of humor or more serious tones?",
+    "options": [
+      "A lot of humor",
+      "More serious tones",
+      "Both",
+      "Depends on the mood"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you watch movies alone or with others?",
+    "options": [
+      "Alone",
+      "With others",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you like movies that are based on true stories or completely fictional?",
+    "options": [
+      "Based on true stories",
+      "Completely fictional",
+      "Both",
+      "Depends on the story"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you think the age rating of a movie affects your choice?",
+    "options": [
+      "Yes, always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you like movies with a lot of plot twists or a straightforward plot?",
+    "options": [
+      "A lot of plot twists",
+      "Straightforward plot",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you watch movies from different countries or mainly from one specific country?",
+    "options": [
+      "Different countries",
+      "One specific country",
+      "Both",
+      "Depends on the genre"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you like movies with a lot of romance or more adventure?",
+    "options": [
+      "A lot of romance",
+      "More adventure",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you think the director's previous works affect your expectation of a new movie?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you like movies with a lot of special features or just the main movie?",
+    "options": [
+      "A lot of special features",
+      "Just the main movie",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you watch movies in 2D or 3D?",
+    "options": [
+      "2D",
+      "3D",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you like movies with a lot of music and dance or more dialogue-driven?",
+    "options": [
+      "A lot of music and dance",
+      "More dialogue-driven",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think the release date of a movie matters to you?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you like movies with a lot of cameos or not?",
+    "options": [
+      "Yes, I like cameos",
+      "No, I don't like cameos",
+      "Doesn't matter",
+      "Depends on the cameos"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you watch movies during the day or at night?",
+    "options": [
+      "Day",
+      "Night",
+      "Both",
+      "Depends on my schedule"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you like movies with a lot of animals or more human-centered?",
+    "options": [
+      "A lot of animals",
+      "More human-centered",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think the costume design in a movie is important?",
+    "options": [
+      "Very important",
+      "Somewhat important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you like movies with a lot of special effects makeup or natural looks?",
+    "options": [
+      "Special effects makeup",
+      "Natural looks",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you watch movies on TV or online platforms?",
+    "options": [
+      "TV",
+      "Online platforms",
+      "Both",
+      "Depends on the availability"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you like movies with a lot of locations or a focused setting?",
+    "options": [
+      "A lot of locations",
+      "Focused setting",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think the title of a movie influences your interest?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you like movies with a lot of fight scenes or more emotional moments?",
+    "options": [
+      "A lot of fight scenes",
+      "More emotional moments",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you watch movies based on their trailers or word-of-mouth?",
+    "options": [
+      "Trailers",
+      "Word-of-mouth",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you like movies with a lot of historical references or more contemporary themes?",
+    "options": [
+      "Historical references",
+      "Contemporary themes",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think the poster of a movie attracts you?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you like movies with a lot of dream sequences or a realistic approach?",
+    "options": [
+      "Dream sequences",
+      "Realistic approach",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you watch movies during the weekend or weekdays?",
+    "options": [
+      "Weekend",
+      "Weekdays",
+      "Both",
+      "Depends on my free time"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you like movies with a lot of magical elements or more grounded in reality?",
+    "options": [
+      "Magical elements",
+      "Grounded in reality",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you think the casting of supporting actors is important?",
+    "options": [
+      "Yes, very important",
+      "Somewhat important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you like movies with a lot of slow-motion scenes or a normal pace?",
+    "options": [
+      "Slow-motion scenes",
+      "Normal pace",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you watch movies during holidays or regular days?",
+    "options": [
+      "Holidays",
+      "Regular days",
+      "Both",
+      "Depends on my mood"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you like movies with a lot of chase scenes or more intellectual challenges?",
+    "options": [
+      "Chase scenes",
+      "Intellectual challenges",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the opening scene of a movie sets the tone for the rest?",
+    "options": [
+      "Yes, always",
+      "Sometimes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you like movies with a lot of underwater scenes or more land-based action?",
+    "options": [
+      "Underwater scenes",
+      "Land-based action",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you watch movies when you are tired or only when you are energetic?",
+    "options": [
+      "When tired",
+      "When energetic",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you like movies with a lot of explosions or more subtle drama?",
+    "options": [
+      "Explosions",
+      "Subtle drama",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think the ending credits of a movie are worth watching?",
+    "options": [
+      "Yes, always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you like movies with a lot of time travel or more present-day settings?",
+    "options": [
+      "Time travel",
+      "Present-day settings",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you watch movies when you are in a good mood or bad mood?",
+    "options": [
+      "Good mood",
+      "Bad mood",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you like movies with a lot of fantasy elements or more science-based?",
+    "options": [
+      "Fantasy elements",
+      "Science-based",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you think the previews before a movie affect your choice for the next one?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you like movies with a lot of cultural references or more universal themes?",
+    "options": [
+      "Cultural references",
+      "Universal themes",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you watch movies when you are alone at home or with family?",
+    "options": [
+      "Alone at home",
+      "With family",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you like movies with a lot of dark humor or more light-hearted comedy?",
+    "options": [
+      "Dark humor",
+      "Light-hearted comedy",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you think the color grading of a movie enhances the experience?",
+    "options": [
+      "Yes, a lot",
+      "Somewhat",
+      "Not very much",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you like movies with a lot of political themes or more personal stories?",
+    "options": [
+      "Political themes",
+      "Personal stories",
+      "Both",
+      "Depends on the movie"
+    ],
+    "correctAnswer": ""
+  }
+]

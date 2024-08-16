@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "question": "Do you often shop online?",
+    "options": [
+      "Yes, almost every week",
+      "Yes, several times a month",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is the main reason you choose to shop online?",
+    "options": [
+      "The price is cheap",
+      "A wide variety of goods",
+      "Convenient and fast, save time",
+      "You can shop at home without going out"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What are the main types of goods you buy when shopping online?",
+    "options": [
+      "Clothing",
+      "Electronic products",
+      "Food and beverages",
+      "Household items"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "How much do you spend on online shopping per month on average?",
+    "options": [
+      "0-200",
+      "201-500",
+      "501-1000",
+      "More than 1000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is the most important factor you look for when choosing an online shopping platform?",
+    "options": [
+      "Quality of goods",
+      "After-sales service",
+      "Platform reputation",
+      "Price concessions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you shop more often because of promotions on online shopping platforms?",
+    "options": [
+      "Yes, often",
+      "Yes, occasionally",
+      "No, buy on demand",
+      "Never pay attention to promotions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the most common payment method you use when shopping online?",
+    "options": [
+      "Alipay",
+      "Wechat Pay",
+      "Bank card payment",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "How satisfied are you with the quality of goods purchased online?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Have you ever encountered quality problems when shopping online?",
+    "options": [
+      "Often encountered",
+      "Occasionally",
+      "Rarely encountered",
+      "Never met"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "When you encounter quality problems, what do you usually do?",
+    "options": [
+      "Contact the merchant for A return or exchange",
+      "Give a bad review but do nothing else",
+      "Complain to the platform",
+      "Admit bad luck and let it go"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How satisfied are you with the logistics speed of online shopping?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "When you shop online, do you refer to other consumers' reviews?",
+    "options": [
+      "Definitely, very seriously",
+      "Will refer to, but not completely rely on",
+      "Occasional reference",
+      "Never refer"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you think the product description of the online shopping platform is accurate?",
+    "options": [
+      "Very accurate",
+      "It's more accurate",
+      "Partially accurate",
+      "Inaccurate"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "When you shop online, do you pay attention to the reputation and rating of the merchant?",
+    "options": [
+      "Definitely, only select high reputation merchants",
+      "Will be a reference, but not a determining factor",
+      "Occasional attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Have you ever bought fake goods online?",
+    "options": [
+      "Yes, many times",
+      "Yes, occasionally",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "How satisfied are you with the after-sales service of online shopping?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you worry about personal information being leaked when you shop online?",
+    "options": [
+      "Very worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think the return and exchange process of online shopping is convenient?",
+    "options": [
+      "It's very convenient",
+      "It's more convenient",
+      "It's not convenient",
+      "It's very inconvenient"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "When you shop online, do you buy cross-border goods?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "What are the factors you are most concerned about when buying cross-border goods?",
+    "options": [
+      "Quality of goods",
+      "Price",
+      "Logistics speed",
+      "Customs fees and charges"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you buy fresh food online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "What is your biggest concern when buying fresh food?",
+    "options": [
+      "Freshness",
+      "Delivery speed",
+      "Food safety",
+      "The package is damaged"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you buy luxury goods online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "What is your biggest concern when buying luxury goods?",
+    "options": [
+      "Authenticity of goods",
+      "After-sales service",
+      "The price is too high",
+      "Style update"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you buy medicine online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What factors do you pay most attention to when purchasing medicine?",
+    "options": [
+      "Drug quality",
+      "Drug prices",
+      "Drug instructions",
+      "Pharmaceutical brands"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you buy used goods online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What is your biggest concern when buying used goods?",
+    "options": [
+      "Quality of goods",
+      "Commodity hygiene",
+      "After-sales service",
+      "Transaction security"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you purchase virtual goods (such as recharge cards, game coins, etc.) online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What is your biggest concern when buying virtual goods?",
+    "options": [
+      "Recharge failed",
+      "The goods are out of date",
+      "Trading fraud",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you buy customized items online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What is your biggest concern when buying customized goods?",
+    "options": [
+      "Customization effect does not meet expectations",
+      "The customization period is too long",
+      "The price is too high",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you purchase travel products (such as airline tickets, hotel reservations, etc.) online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What are the factors that you are most concerned about when purchasing travel products?",
+    "options": [
+      "Price",
+      "Schedule",
+      "Quality of service",
+      "Evaluate word of mouth"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you purchase educational products (such as online courses, learning materials, etc.) online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "What factors do you pay most attention to when purchasing educational products?",
+    "options": [
+      "Curriculum quality",
+      "Price",
+      "Teaching staff",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you buy beauty products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What is your biggest concern when buying beauty products?",
+    "options": [
+      "Product effect",
+      "Product allergy",
+      "Product authenticity",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you buy sports and fitness products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What are the factors that you are most concerned about when buying sports and fitness products?",
+    "options": [
+      "Product quality",
+      "Product functions",
+      "Product price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you buy pet supplies online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What are the factors you are most concerned about when buying pet supplies?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product suitability",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you buy home building products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "What are the factors that you are most concerned about when buying home building products?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product style",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you buy car supplies online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What are the factors you are most concerned about when buying automotive supplies?",
+    "options": [
+      "Product quality",
+      "Product suitability",
+      "Product price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you buy baby and baby products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "What are the factors that you are most concerned about when buying maternal and child products?",
+    "options": [
+      "Product quality",
+      "Product safety",
+      "Product price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you buy books and Audiovisual products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "What are the factors that you are most concerned about when buying book audio and video products?",
+    "options": [
+      "Content quality",
+      "Price",
+      "Genuine or not",
+      "Delivery speed"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you buy office supplies online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "What are the factors that you pay the most attention to when buying office supplies?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product category",
+      "Delivery speed"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you buy gifts online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "What are the factors you are most concerned about when buying gifts?",
+    "options": [
+      "Gift quality",
+      "Gift prices",
+      "Gift ideas",
+      "Gift wrapping"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you buy jewelry online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "What are the factors that you are most concerned about when buying jewelry?",
+    "options": [
+      "Material quality",
+      "Style design",
+      "Price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you buy home appliances online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "What are the factors you are most concerned about when buying home appliances?",
+    "options": [
+      "Product quality",
+      "Product functions",
+      "Product price",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy furniture products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "When you buy furniture products, the most concerned factor?",
+    "options": [
+      "Product quality",
+      "Product style",
+      "Product price",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you buy digital accessories (such as phone cases, headphones, etc.) online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "What are the factors you are most concerned about when buying digital accessories?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product style",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you buy beauty tools (such as brushes, curling irons, etc.) online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "What are the factors you pay most attention to when buying beauty tools?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product functions",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you buy kitchen supplies online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "What factors do you pay most attention to when buying kitchen supplies?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product material",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you buy outdoor goods online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What are the factors you are most concerned about when buying outdoor goods?",
+    "options": [
+      "Product quality",
+      "Product functions",
+      "Product price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you buy underwear tights online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "What are the factors you are most concerned about when buying underwear tights?",
+    "options": [
+      "Product quality",
+      "Product comfort",
+      "Product price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you buy bedding online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "What are the factors you are most concerned about when buying bedding?",
+    "options": [
+      "Product quality",
+      "Product material",
+      "Product price",
+      "Product style"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you buy watch accessories online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "What are the factors you are most concerned about when buying watch accessories?",
+    "options": [
+      "Product quality",
+      "Product style",
+      "Product price",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you buy sporting goods (such as stationery, sports equipment, etc.) online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "What are the factors that you are most concerned about when buying sports and sports goods?",
+    "options": [
+      "Product quality",
+      "Product price",
+      "Product category",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you buy creative home products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Rarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "What are the factors that you pay the most attention to when buying creative home products?",
+    "options": [
+      "Product ideas",
+      "Product quality",
+      "Product price",
+      "Product practicality"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Do you buy handmade products online?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "RRarely buy",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "What factors do you pay most attention to when buying handmade products?",
+    "options": [
+      "Manual craft",
+      "Product ideas",
+      "Product price",
+      "Product quality"
+    ],
+    "correctAnswer": ""
+  }
+]

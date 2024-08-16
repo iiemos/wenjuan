@@ -1,0 +1,968 @@
+
+[
+  {
+    "id": 1,
+    "question": "Do you like dessert?",
+    "options": [
+      "Very much",
+      "Like",
+      "General",
+      "No",
+      "Not very much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "How many times do you eat dessert per week on average?",
+    "options": [
+      "More than 3 times",
+      "Two or three times",
+      "Once or twice",
+      "Less than once",
+      "Hardly eat"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "When do you usually have dessert?",
+    "options": [
+      "Breakfast",
+      "After lunch",
+      "After dinner",
+      "Afternoon tea time",
+      "Extra meals in the evening"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Where do you buy desserts?",
+    "options": [
+      "Dessert shop",
+      "Supermarkets",
+      "Restaurant",
+      "Order online",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is the most important factor for you to choose dessert?",
+    "options": [
+      "Taste",
+      "Appearance",
+      "Price",
+      "Brand",
+      "Health factors"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What price range can you accept for dessert?",
+    "options": [
+      "Less than 10 $",
+      "10 to 20 $",
+      "21-30 $",
+      "31-50 $",
+      "More than 50 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following types of desserts do you prefer?",
+    "options": [
+      "Cake",
+      "Ice cream",
+      "Pudding",
+      "Chocolate",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What do you prefer about the sweetness of desserts?",
+    "options": [
+      "It's sweet",
+      "Sweeter",
+      "Moderate",
+      "Slightly sweet",
+      "No sugar"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What innovative flavors do you want for dessert?",
+    "options": [
+      "Fruit mixed with flowers",
+      "Tea combined with chocolate",
+      "Salty and sweet",
+      "No particular hope"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Will you buy the dessert because of its packaging?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Will you buy new desserts because of brand promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Will you try new desserts because of the promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What is your preference for dessert material?",
+    "options": [
+      "Natural ingredients",
+      "Synthetic ingredients",
+      "It can be both"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you think the color of dessert has a great influence on your purchase decision?",
+    "options": [
+      "Big",
+      "Larger",
+      "General",
+      "Smaller",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Which design of dessert do you prefer to buy?",
+    "options": [
+      "Exquisite and gorgeous",
+      "Simple and fresh",
+      "Cute cartoon",
+      "Unique creativity",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you have any requirements on the size of the dessert?",
+    "options": [
+      "Small and delicate",
+      "Medium size",
+      "A lot of satisfaction"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you buy desserts with a variety of flavor combinations?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you prefer to buy handmade desserts or machine-made desserts?",
+    "options": [
+      "Handmade",
+      "Machine production",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Will you purchase customizable desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you have a high requirement for the freshness of your dessert?",
+    "options": [
+      "Very high",
+      "Higher",
+      "General",
+      "Lower",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you buy desserts with low fat and sugar?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you buy desserts with gluten-free features?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you buy desserts with added probiotics?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you buy desserts with organic ingredients?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you buy desserts with local ingredients?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "How concerned are you about the shelf life of desserts?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General concern",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you buy desserts from famous brands?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you buy desserts with international certification marks?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you buy desserts with eco-friendly packaging?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you buy desserts made with traditional craftsmanship?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Will you buy desserts with personalized labels?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Would you like to purchase a dessert set with drinks?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you buy desserts with a variety of fruits?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Will you buy desserts with nut decorations?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you buy desserts decorated with flowers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you buy desserts with creative shapes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you buy desserts with holiday themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you buy dessert with a constellation theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you buy desserts with anime themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Will you buy desserts with movie and television themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Will you buy desserts with a sports theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Will you buy desserts with musical themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you buy desserts with artistic themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you buy desserts with historical and cultural themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you buy desserts with regional themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you buy desserts with a retro style?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you buy desserts with a modern and simple style?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you buy European style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Would you like to buy dessert with Chinese style?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you buy Japanese-style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you buy Korean-style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Would you like to buy Thai style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you buy American-style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you buy French style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you buy Italian style desserts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you buy desserts recommended by Internet celebrities?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Will you buy desserts with celebrity endorsement?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Will you buy desserts recommended by food bloggers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy desserts recommended by a nutritionist?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you buy desserts recommended by your doctor?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you buy desserts recommended by your fitness coach?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you buy desserts recommended by the chef?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you buy desserts recommended by travel experts?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you buy desserts recommended by fashion bloggers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Would you buy a dessert recommended by a beauty blogger?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you buy desserts with a parent-child theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you buy desserts with a couple theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you buy desserts with a bestie theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you buy desserts with a family party theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Would you like to buy desserts with a business banquet theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you buy desserts with wedding themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you buy dessert with birthday party theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Will you buy desserts with a graduation party theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Would you like to buy a dessert with a housewarming theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you buy desserts with a promotion theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you buy desserts with festive themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Will you buy desserts with anniversary themes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Would you like to buy dessert with opening ceremony theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Will you buy desserts with a group building theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Will you buy desserts with a class reunion theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "Would you like to buy desserts with a reunion theme?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  }
+]

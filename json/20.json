@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options": [
+      "Male",
+      "Female",
+      "Other",
+      "Not willing to disclose"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "In which of the following age ranges do you fall?",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36 years of age and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your monthly income level?",
+    "options": [
+      "Less than 5000",
+      "5001-10000",
+      "10001-20000",
+      "More than 20,000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "How much do you know about fashion brands?",
+    "options": [
+      "Very familiar with multiple brands",
+      "Get to know some famous brands",
+      "I've heard something about it, but I'm not sure",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is the main channel for you to get the information of fashion brands?",
+    "options": [
+      "Social media",
+      "Fashion magazines",
+      "Recommended by friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Which of the following trend brands have you heard of? (Multiple options available)",
+    "options": [
+      "Supreme",
+      "Off-White",
+      "Stussy",
+      "Bape"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How often do you buy fashion brand products?",
+    "options": [
+      "Buy frequently, several times A month",
+      "Buy occasionally, a few times a quarter",
+      "Buy very rarely, a few times a year",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What are your main reasons for buying Fashion brand products?",
+    "options": [
+      "Like brand design",
+      "Pursue quality",
+      "Follow the trend",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What is the acceptable price range for you to buy fashion brand products?",
+    "options": [
+      "Less than 500",
+      "501-1000",
+      "1001-2000",
+      "More than 2000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which of the following places do you usually buy fashion brand products?",
+    "options": [
+      "Brand stores",
+      "Large shopping malls",
+      "Online shopping platform",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Which of the following products do you prefer to buy from trendy brands?",
+    "options": [
+      "Clothing",
+      "Shoes",
+      "Bag",
+      "Accessories"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What is your favorite fashion brand product style?",
+    "options": [
+      "Simple and stylish",
+      "Exaggerated personality",
+      "Vintage classics",
+      "Sports and leisure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you prefer the color matching of fashion brands?",
+    "options": [
+      "Bright and vivid colors",
+      "Understated, calm colors",
+      "Black and white classic color matching",
+      "Colorful mixing and matching colors"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "When you choose fashion brand products, pay more attention to?",
+    "options": [
+      "Novel style",
+      "Brand awareness",
+      "Comfort",
+      "Affordable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What is your attitude towards co-branded products launched by trendy brands?",
+    "options": [
+      "Very interested, will give priority to purchase",
+      "Interested, would consider buying",
+      "In general, it depends",
+      "Not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "What do you think is the most important image factor for a fashion brand?",
+    "options": [
+      "Brand story",
+      "Brand spokesperson",
+      "Brand logo",
+      "Brand activities"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following brand values appeals to you more?",
+    "options": [
+      "The spirit of innovation",
+      "Environmental protection concept",
+      "Social responsibility",
+      "Personalized expression"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Are you more inclined to buy fashion brands that are socially responsible?",
+    "options": [
+      "Yes, it will be preferred",
+      "Will consider, but not be a determining factor",
+      "Not paying much attention",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What do you think about the cultural connotations of fashion brands?",
+    "options": [
+      "It is important and influences purchasing decisions",
+      "It has certain influence",
+      "Not paying much attention",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think fashion brands should actively participate in public welfare activities?",
+    "options": [
+      "Yes, it can enhance the brand image",
+      "Participation is possible, but not necessary",
+      "It doesn't matter",
+      "No, focus on the product itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Which of the following branding approaches gets your attention the most?",
+    "options": [
+      "Celebrity endorsement",
+      "Social media advertising",
+      "Offline activities",
+      "Recommended by fashion bloggers"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "What do you think of trendy brands' marketing campaigns on social media?",
+    "options": [
+      "Very engaging and frequently engaged",
+      "Occasionally pay attention",
+      "Feel average, do not pay much attention",
+      "Disgusted, feel too commercial"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you buy products because of the promotion of trendy brands?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "How do you think limited-edition products from trendy brands appeal to you?",
+    "options": [
+      "Very big, will snap up",
+      "Larger, will pay attention",
+      "In general, not too concerned",
+      "Not attractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What is your opinion on cross-border cooperation between fashion brands and other brands?",
+    "options": [
+      "Looking forward to it, it will increase your interest in buying",
+      "Feel fresh, but do not necessarily buy",
+      "Not paying much attention",
+      "Don't like it, think it affects the brand image"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "How often do you use the fashion brand online shopping platform?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Rarely used",
+      "Never used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "How satisfied are you with the page design of the fashion brand online shopping platform?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What do you worry about most when shopping online for fashion brands?",
+    "options": [
+      "Product quality",
+      "The size doesn't fit",
+      "Logistics speed",
+      "After-sales service"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "How satisfied are you with the customer service of fashion brand online shopping?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What functions do you think should be added to the fashion brand online shopping platform?",
+    "options": [
+      "Virtual try",
+      "Product collocation recommendation",
+      "User evaluation classification",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "How often do you shop in physical stores of trendy brands?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never been there"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "How satisfied are you with the physical store environment of fashion brands?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What do you value most when shopping in a fashion brand physical store?",
+    "options": [
+      "Staff service attitude",
+      "Product display",
+      "Fitting room facilities",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "How satisfied are you with the promotion activities of fashion brand physical stores?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What do you think the trend brand physical store should improve?",
+    "options": [
+      "Increase the variety of products",
+      "Optimize store layout",
+      "Improve the professional level of shop assistants",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you have a favorite fashion brand?",
+    "options": [
+      "Yes, and only buy this one brand",
+      "Yes, but I also try other brands",
+      "No, I change brands frequently",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "How often do you recommend fashion brands to your friends?",
+    "options": [
+      "Often recommend",
+      "Occasionally recommended",
+      "Rarely recommended",
+      "Never recommend"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What is your attitude if there is negative news about your favorite fashion brand?",
+    "options": [
+      "No more purchases",
+      "Wait and see for a while before deciding",
+      "Remain unaffected and continue to purchase",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Which of the following factors do you think will increase your loyalty to fashion brands? (Multiple options available)",
+    "options": [
+      "Quality products",
+      "Good service",
+      "Unique brand image",
+      "Member benefits"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What is your acceptance level for new fashion brands?",
+    "options": [
+      "Very willing to try",
+      "Be willing to try",
+      "Reluctant to try",
+      "Totally unwilling to try"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What is your plan to buy trendy brand products in the next six months?",
+    "options": [
+      "Will increase purchases",
+      "Remain unchanged",
+      "Will buy less",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What do you think is the future trend of fashion brands?",
+    "options": [
+      "Pay more attention to environmental protection",
+      "More closely integrated with technology",
+      "More personalized",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What is your view on the future development prospects of domestic fashion brands?",
+    "options": [
+      "Very optimistic",
+      "More optimistic",
+      "Not sure",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you willing to pay more for custom services from trendy brands?",
+    "options": [
+      "Willing",
+      "It can be considered",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "What do you think fashion brands should pay more attention to in the future? (Multiple options available)",
+    "options": [
+      "Product innovation",
+      "Brand promotion",
+      "Customer service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What do you think are the main problems in the current fashion brand market?",
+    "options": [
+      "Serious product homogeneity",
+      "The price is inflated",
+      "Uneven quality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What is your opinion on the combination of fashion brands and traditional culture?",
+    "options": [
+      "It's very creative and will attract more consumers",
+      "You can try, but do it properly",
+      "Not too optimistic, worried about losing the trend",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Are you concerned about the environmental initiatives of trendy brands?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you think fashion brands should launch more products for different occasions?",
+    "options": [
+      "Should",
+      "It shouldn't",
+      "It doesn't matter",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you influence your purchasing decisions because of where a trendy brand comes from?",
+    "options": [
+      "Yes, brands of certain origin are preferred",
+      "It will have a certain impact",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "What do you think of the smart products (such as smart clothing, smart accessories) of fashion brands?",
+    "options": [
+      "Very interested, looking forward to more innovation",
+      "Feel fresh, but practical remains to be seen",
+      "Not paying much attention",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think fashion brands should strengthen their engagement with consumers?",
+    "options": [
+      "Should, enhance user stickiness",
+      "Can be appropriately strengthened",
+      "The current interaction is sufficient",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you buy products because of limited-edition packaging from trendy brands?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "What is your opinion on the collaboration between fashion brands and the art field?",
+    "options": [
+      "Very creative, can enhance the artistic sense of the brand",
+      "Look at the specific forms and effects of cooperation",
+      "Not paying much attention",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think trend brands should launch more gender-specific and age-specific products?",
+    "options": [
+      "Should",
+      "It shouldn't",
+      "It doesn't matter",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you buy products because of trendy brands' charity campaigns?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+   {
+    "id": 57,
+    "question": "What do you think of the virtual products (such as digital collections, virtual clothing) of fashion brands?",
+    "options": [
+      "Very promising, willing to try",
+      "I don't understand. I'm on the fence",
+      "Not interested",
+      "feel no practical value"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you think fashion brands should pay attention to the sustainability of their products?",
+    "options": [
+      "Yes, it's A social responsibility",
+      "It can be considered, but it is not the focus",
+      "Not paying much attention",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you have an emotional connection to a trendy brand's brand story?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "What is your after-sales service expectation of Fashion brand?",
+    "options": [
+      "Quick response and problem solving",
+      "Provide more after-sales protection",
+      "Regular return visits and care",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you think fashion brands should hold more offline experience events?",
+    "options": [
+      "Yes, enhance the brand experience",
+      "It can be properly organized",
+      "Current activities are sufficient",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you choose to buy products from trendy brands because of their brand culture?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "What is your opinion on the cooperation between fashion brands and sports?",
+    "options": [
+      "It is very dynamic and can attract more consumers",
+      "Look at the specific projects and results of the cooperation",
+      "Not paying much attention",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think fashion brands should release more limited edition peripheral products?",
+    "options": [
+      "Should, increase brand uniqueness",
+      "No, focus on core products",
+      "It doesn't matter",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you buy products from trendy brands because of their brand positioning?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "What is your need for personalized customization services from fashion brands?",
+    "options": [
+      "Much needed",
+      "More need",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think fashion brands should strengthen their partnerships with social media influencers?",
+    "options": [
+      "Yes, expand the brand influence",
+      "Can cooperate as appropriate",
+      "Current cooperation is sufficient",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you buy products from trendy brands because of their co-branding?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "What do you think of the membership system of fashion brands?",
+    "options": [
+      "It's attractive and increases loyalty",
+      "General, need improvement",
+      "Not paying much attention",
+      "It's not necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think fashion brands should keep introducing new product lines?",
+    "options": [
+      "Yes, keep it fresh",
+      "Moderate launch can be",
+      "No, focus on classic styles",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  }
+]

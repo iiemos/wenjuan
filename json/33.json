@@ -1,0 +1,754 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Female",
+      "Male"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Housewives",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your monthly income:",
+    "options": [
+      "Less than 3000 ",
+      "3001-5000 ",
+      "5001-8000 ",
+      "8001-12000 ",
+      "More than 12,000 "
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you use lipstick?",
+    "options": [
+      "Yes",
+      "No (If you select \"No\", please skip to question 50)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How often do you use lipstick?",
+    "options": [
+      "Every day",
+      "Often (3-5 times per week)",
+      "Occasionally (1-2 times per week)",
+      "Only for special occasions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Under what circumstances do you usually use lipstick? (Multiple options available)",
+    "options": [
+      "Daily work/study",
+      "Dating",
+      "Parties/social events",
+      "Stage performance/photo shoot",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "The number of lipsticks you own:",
+    "options": [
+      "1-3 pieces",
+      "4-6 pieces",
+      "7-10 pieces",
+      "More than 10"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "The main channels you buy lipstick are: (multiple options)",
+    "options": [
+      "Counters",
+      "Brand official website",
+      "E-commerce platform (such as Taobao, Jingdong)",
+      "Beauty collection stores (such as Sephora)",
+      "Purchase on behalf of others",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "The factors you pay most attention to when buying lipstick are: (multiple choices)",
+    "options": [
+      "Brand",
+      "Color",
+      "Texture",
+      "Durability",
+      "Moisture level",
+      "Price",
+      "Packaging",
+      "Word of mouth",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What is your favorite lipstick color: (multiple choices)",
+    "options": [
+      "Red (normal red, vintage red, etc.)",
+      "Pink (nude powder, Barbie powder, etc.)",
+      "Orange (Coral orange, Maple orange, etc.)",
+      "bean paste color",
+      "Plum color system",
+      "Brown color",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Which texture of lipstick do you prefer? (Multiple options available)",
+    "options": [
+      "Matte finish",
+      "Moisturize",
+      "Velvet",
+      "Water light",
+      "Jelly",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Your requirements for the durability of lipstick are:",
+    "options": [
+      "Very durable, do not take off makeup all day",
+      "More lasting, more than half a day",
+      "Generally, it lasts for a few hours",
+      "Don't care too much about durability"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Your moisture requirements for lipstick are:",
+    "options": [
+      "It's very moist and doesn't need A base",
+      "More moist, light primer can be",
+      "In general, it is necessary to do a good lip base",
+      "Don't care too much about moisture"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you like lipstick with special effects, such as pearl, glitter, etc.?",
+    "options": [
+      "Very much",
+      "Like",
+      "General",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Which lipstick brands are you familiar with? (Multiple options available)",
+    "options": [
+      "Dior",
+      "Chanel",
+      "Saint Laurent (YSL)",
+      "Armani",
+      "Givenchy",
+      "MAC",
+      "Lancome",
+      "Estee Lauder",
+      "Tom Ford",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "The most common lipstick brands you buy are:",
+    "options": [
+      "(Please fill in the brand you buy most often)",
+      "Others (please fill in)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "The main reasons you choose this brand are: (multiple choices can be made)",
+    "options": [
+      "High brand awareness",
+      "The product quality is good",
+      "There are many color choices",
+      "The packaging is exquisite",
+      "The price is reasonable",
+      "Recommended by friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Will you try a new lipstick brand?",
+    "options": [
+      "Yes, try often",
+      "Yes, occasionally",
+      "Not really, I'm worried about the quality",
+      "No, only trust familiar brands"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "The price range of lipstick you can accept is:",
+    "options": [
+      "Less than 100 ",
+      "101-200 ",
+      "201-300 ",
+      "301-500 ",
+      "More than 500 "
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Your average monthly spending on lipstick is:",
+    "options": [
+      "Less than 100 ",
+      "101-200 ",
+      "201-500 ",
+      "501-1000 ",
+      "More than 1000 "
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you buy more lipstick because of the promotion?",
+    "options": [
+      "Yes, it's easy to be attracted by promotions",
+      "Yes, but it's still rational",
+      "Not very good, only according to demand",
+      "No, the promotion doesn't affect me"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you think lipstick has a big impact on the overall effect of your makeup?",
+    "options": [
+      "It's really big and it's key to makeup",
+      "Relatively large, can enhance the complexion",
+      "In general, dispensable",
+      "Not much, other parts are more important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you think lipstick can boost your self-confidence?",
+    "options": [
+      "Yes, it makes me feel more confident",
+      "It has a certain effect",
+      "It's not obvious",
+      "can't"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think the color of lipstick can affect the impression of others?",
+    "options": [
+      "Yes, different colors convey different feelings",
+      "It may, to some extent",
+      "Not really, it depends on the overall image",
+      "No, people won't pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Are you concerned about the safety of lipstick ingredients?",
+    "options": [
+      "Pay close attention and only choose lipsticks with natural ingredients",
+      "More concerned, will check the ingredients list",
+      "In general, don't know much about it but will pay attention",
+      "Don't care, as long as the color looks good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Did you know that long-term use of lipstick may affect the health of lips?",
+    "options": [
+      "Know, will pay attention to maintenance",
+      "Yes, but I'm not sure about the specific impact",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you take measures to reduce the damage of lipstick on your lips, such as regularly removing makeup and using lip mask?",
+    "options": [
+      "Yes, measures are often taken",
+      "Yes, occasionally",
+      "Not really, not aware of the problem",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you pay attention to the trend of lipstick?",
+    "options": [
+      "Yes, keep up with fashion trends",
+      "Yes, for appropriate reference",
+      "Don't pay much attention, only choose what suits you",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What do you think the future trend of lipstick will be? (Multiple options available)",
+    "options": [
+      "More environmentally friendly and sustainable",
+      "More innovative textures and effects",
+      "Personalized customization",
+      "Integration with technology (such as smart lipstick)",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "How do you accept the following innovative lipstick concepts? (Multiple options available)",
+    "options": [
+      "Color-changing lipstick (changes color according to body temperature or environment)",
+      "Edible lipstick",
+      "Lipstick with sun protection",
+      "Scented lipstick",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you buy lipstick because of the recommendation of a celebrity or influencer?",
+    "options": [
+      "Yes, it's easy to be influenced",
+      "Yes, but all things considered",
+      "Not really, have their own judgment",
+      "No, I don't believe in recommendations"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "When you choose lipstick, do you consider the matching of your skin tone?",
+    "options": [
+      "Definitely, very much",
+      "Will give due consideration",
+      "Not too concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which skin tones do you think look best with which lipstick colors? (Multiple options available)",
+    "options": [
+      "White skin suitable for pink",
+      "Yellow leather suitable for orange",
+      "Black leather is suitable for red",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you buy a lipstick because of its brand story or cultural connotations?",
+    "options": [
+      "Yes, it appeals to me",
+      "It may, to some extent",
+      "Not really, more concerned about the product itself",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you think the price of lipstick on the market is reasonable?",
+    "options": [
+      "Reasonable, in line with product quality and brand value",
+      "Some brands are reasonable, some are high",
+      "Generally high",
+      "Generally low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "If you don't use lipstick, why not? (Multiple options available)",
+    "options": [
+      "Find it troublesome",
+      "Doesn't like makeup",
+      "Concerns about health effects",
+      "Didn't find the right fit for you",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you know the proper way to use and store lipstick?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "How much influence do you think the packaging design of lipstick has on your purchasing decision?",
+    "options": [
+      "It has A great impact, and will preferentially choose the package that looks good",
+      "It has certain influence",
+      "Less impact, more attention attention to product quality",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you buy lipstick from the same brand and collection in different colors?",
+    "options": [
+      "Yes, often",
+      "Yes, occasionally",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you pay attention to where your lipstick is produced?",
+    "options": [
+      "Yes, very concerned",
+      "Yes, it does",
+      "Not too concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What do you think are the advantages and disadvantages of domestic lipstick brands compared with international brands? (Multiple options available)",
+    "options": [
+      "Advantage: Affordable price",
+      "Advantage: more suitable for Chinese skin color",
+      "Insufficient: low brand awareness",
+      "Insufficient: Product quality is unstable",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Will you try DIY lipstick?",
+    "options": [
+      "Yes, very interested",
+      "Maybe, want to try it",
+      "Not really. I find it troublesome",
+      "No, not interested"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think lipstick should be waterproof?",
+    "options": [
+      "Very needed, very practical",
+      "There is a certain need",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you choose or forgo a product because of the taste of your lipstick?",
+    "options": [
+      "Yes, very concerned about the taste",
+      "It may, to some extent",
+      "Not really, taste is not the key factor",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you think the shelf life of lipstick has an impact on your purchase?",
+    "options": [
+      "Very influential, only buy fresh",
+      "It has certain influence",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you buy a lipstick gift set?",
+    "options": [
+      "Yes, often given as A gift",
+      "Yes, collect it yourself",
+      "Occasionally, if you like it",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you remove lip makeup after applying lipstick?",
+    "options": [
+      "Definitely, take makeup off very seriously",
+      "Yes, but it's easier",
+      "Occasionally",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you choose lipstick products because of the brand's environmental philosophy?",
+    "options": [
+      "Yes, very supportive of environmental brands",
+      "Maybe, with some bonus points",
+      "Not really, more concerned about the product itself",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Where do you think lipstick brands should focus on when promoting? (Multiple options available)",
+    "options": [
+      "Color display",
+      "Model makeup effect",
+      "Component description",
+      "User evaluation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you buy lipstick because of the brand's charity activities?",
+    "options": [
+      "Yes, it's very meaningful",
+      "It may, to some extent",
+      "Not really, mainly looking at the product",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "In what direction do you think lipstick packaging will develop in the future? (Multiple options available)",
+    "options": [
+      "More minimalist",
+      "More gorgeous",
+      "Be more creative",
+      "Environmentally friendly and recyclable",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you buy lipsticks with special shapes (such as hearts, stars)?",
+    "options": [
+      "Yes, it's very new",
+      "Maybe, it depends",
+      "Not really. I don't think it's practical",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think the brush head design of lipstick is important?",
+    "options": [
+      "Very important, affecting the user experience",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you want to buy a lipstick because of its name?",
+    "options": [
+      "Yes, an attractive name will increase interest",
+      "It may, to some extent",
+      "Not really, mainly depending on the product itself",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you think lipstick brands should launch a line for men?",
+    "options": [
+      "Yes, there is A market demand",
+      "Can try, but not sure of the market reaction",
+      "Not necessary",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you buy lipsticks with medicinal properties, such as treating cheilitis?",
+    "options": [
+      "Yes, there is A demand",
+      "Maybe, depending on the effect",
+      "Not really, concerned that the medicinal ingredients are not safe",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you think the collaboration between lipstick brands and other brands will attract you?",
+    "options": [
+      "Yes, looking forward to it",
+      "Maybe, depending on the partner and the product",
+      "Not really. I think it's just a gimmick",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Are you eager to buy a lipstick because it is available in limited quantities?",
+    "options": [
+      "Yes, afraid of missing out",
+      "Maybe, depending on how much you like it",
+      "Not very good, rational treatment",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the price of lipstick is directly proportional to the quality?",
+    "options": [
+      "Usually in direct proportion",
+      "Not necessarily, some of the high prices are of average quality",
+      "It's not proportional. Some cheap ones are good",
+      "Hard to say"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you buy lipstick with cultural characteristics (such as Chinese style, animation theme)?",
+    "options": [
+      "Yes, very much",
+      "Maybe, depending on the design",
+      "Not really, I think it's too fancy",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you follow the social media accounts of lipstick brands for the latest information?",
+    "options": [
+      "Yes, often",
+      "Occasional attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think lipstick brands should launch special collections for different age groups?",
+    "options": [
+      "Yes, more targeted",
+      "It can be considered",
+      "Not necessary",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you buy a lipstick with anti-blue light feature?",
+    "options": [
+      "Yes, feel the need",
+      "Maybe, depending on the effect and the price",
+      "Not really, not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you buy more frequently because of the brand's membership system and points offers?",
+    "options": [
+      "Yes, it's very attractive",
+      "It may, to some extent",
+      "Not really, mainly looking at the product",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think it is necessary for lipstick brands to provide free touch up service in after-sale service?",
+    "options": [
+      "Very necessary",
+      "It is necessary",
+      "Not necessary",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  }
+]

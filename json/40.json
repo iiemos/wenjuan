@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "question": "Have you ever heard of artificial intelligence?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "In your opinion, artificial intelligence is:",
+    "options": [
+      "Technology that thinks and acts like A human",
+      "Tools for processing large amounts of data",
+      "An advanced computer program",
+      "I'm not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "You first learned about artificial intelligence through:",
+    "options": [
+      "Books",
+      "Web articles",
+      "Film and television works",
+      "School curriculum",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Which of the following do you think are the application scenarios of artificial intelligence? (Multiple options available)",
+    "options": [
+      "Intelligent customer service",
+      "Autonomous driving",
+      "Medical diagnosis",
+      "Image recognition",
+      "Speech recognition",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What do you think are the biggest benefits that artificial intelligence will bring to society?",
+    "options": [
+      "Improve production efficiency",
+      "Improving the quality of life",
+      "Promote scientific research",
+      "Create more jobs"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What are the biggest problems you fear AI will bring about:",
+    "options": [
+      "Massive unemployment",
+      "Invasion of personal privacy",
+      "Being used for malicious purposes",
+      "Beyond human control"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How long do you think artificial intelligence will replace most human jobs in the future?",
+    "options": [
+      "Within 10 years",
+      "20-30 years",
+      "More than 50 years",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Have you used any of the following AI products or services? (Multiple options available)",
+    "options": [
+      "Intelligent voice assistant (such as Xiaoai classmates, Siri)",
+      "Smart home devices (such as smart speakers, smart cameras)",
+      "Online intelligent recommendation (such as shopping recommendation, music recommendation)",
+      "Intelligent navigation",
+      "Neither has been used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "How often do you use AI products or services:",
+    "options": [
+      "Multiple times A day",
+      "Once a day",
+      "Several times a week",
+      "Several times a month",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Regarding the application of artificial intelligence in the medical field, in your opinion:",
+    "options": [
+      "Can greatly improve the diagnostic accuracy",
+      "May lead to increased medical errors",
+      "Little impact on the medical industry",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "In your opinion, AI in education should:",
+    "options": [
+      "Auxiliary teaching",
+      "Completely replace teachers",
+      "Should not intervene",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you think the development of artificial intelligence in the field of transportation will:",
+    "options": [
+      "Reduce traffic accidents",
+      "Increase traffic congestion",
+      "No significant effect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Regarding the development speed of artificial intelligence, do you think:",
+    "options": [
+      "It's too fast and needs to be controlled",
+      "Moderate and in line with expectations",
+      "It's too slow. We should speed it up",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Which of the following industries do you think are most likely to be replaced by AI? (Multiple options available)",
+    "options": [
+      "Manufacturing",
+      "Services",
+      "The financial sector",
+      "Transportation industry",
+      "Art creation industry"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you think artificial intelligence is creative?",
+    "options": [
+      "Have, can create new content",
+      "No, it is based on existing data",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Are you worried that artificial intelligence will lead to the deterioration of human thinking ability?",
+    "options": [
+      "Very worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following technologies do you think is the core of artificial intelligence?",
+    "options": [
+      "Machine learning",
+      "Deep learning",
+      "Natural language processing",
+      "Computer vision"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think the development of artificial intelligence will exacerbate social inequality?",
+    "options": [
+      "Yes, rich people can make better use of it",
+      "No, it will benefit everyone",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What role do you think the government should play in the development of AI?",
+    "options": [
+      "Actively push",
+      "Appropriate regulation",
+      "Strict restrictions",
+      "Go with the flow"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think AI should have legal rights?",
+    "options": [
+      "Should",
+      "It shouldn't",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you think AI decisions should be subject to human supervision?",
+    "options": [
+      "Must be supervised",
+      "Partial supervision is sufficient",
+      "No supervision required",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "What impact do you think artificial intelligence will have on human emotional communication?",
+    "options": [
+      "Makes people more apathetic",
+      "Promote communication",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Which of the following countries do you think is leading in the field of artificial intelligence?",
+    "options": [
+      "United States",
+      "China",
+      "Japan",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Are you willing to let AI make investment decisions for you?",
+    "options": [
+      "Willing",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think artificial intelligence can solve the problem of global climate change in the future?",
+    "options": [
+      "Can make A big difference",
+      "Limited role",
+      "Can not be solved",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you think artificial intelligence will change human morality?",
+    "options": [
+      "It will change A lot",
+      "There have been some changes",
+      "Basically it won't change",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you think artificial intelligence can simulate human consciousness?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "In your opinion, the impact of the development of artificial intelligence on cultural inheritance is:",
+    "options": [
+      "Positive, better protection and dissemination",
+      "Negative and destructive of traditional culture",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you think the application of artificial intelligence in the entertainment industry will:",
+    "options": [
+      "Bring more innovation and fun",
+      "Reduce the quality of entertainment",
+      "No significant change",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Which of the following measures do you think can promote the healthy development of artificial intelligence? (Multiple options available)",
+    "options": [
+      "Increase investment in R&D",
+      "Cultivate relevant talents",
+      "Formulate laws and regulations",
+      "Strengthening international cooperation",
+      "Raising public awareness"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you think artificial intelligence will affect human language development?",
+    "options": [
+      "Yes, the language is more concise and efficient",
+      "Yes, the language becomes monolithic",
+      "It will have no effect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What do you think will be the role of artificial intelligence in future warfare?",
+    "options": [
+      "The key to winning or losing",
+      "Auxiliary role",
+      "It has no effect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you think artificial intelligence will lead to a decline in human social ability?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which of the following AI applications do you think poses the greatest threat to personal privacy?",
+    "options": [
+      "Face recognition",
+      "Big data analysis",
+      "Intelligent monitoring",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you think artificial intelligence can solve the problem of poverty?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you think the development of artificial intelligence will change human aesthetic standards?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "In your opinion, what are the application prospects of artificial intelligence in agriculture?",
+    "options": [
+      "It's very broad",
+      "More limited",
+      "There is no prospect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you think artificial intelligence will affect people's religious beliefs?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "In your opinion, the application of artificial intelligence in the field of sports should:",
+    "options": [
+      "Assist in training and refereeing",
+      "Judged entirely by artificial intelligence",
+      "Should not intervene",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think artificial intelligence will change human family relationships?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Which of the following artificial intelligence technologies do you think will have the greatest impact on human life?",
+    "options": [
+      "Intelligent robot",
+      "Virtual Assistant",
+      "Emotion recognition",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think artificial intelligence will affect human artistic creation?",
+    "options": [
+      "Will inspire new creative inspiration",
+      "It will reduce the uniqueness of art",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "In your opinion, what are the applications of artificial intelligence in the legal field:",
+    "options": [
+      "Improving the efficiency of justice",
+      "May lead to misjudgment",
+      "It has no effect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think artificial intelligence will change human education model?",
+    "options": [
+      "Yes, it's more personal",
+      "Yes, it tends to be standardized",
+      "It won't change much",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Which of the following AI applications do you think is most in need of ethics?",
+    "options": [
+      "Medical care",
+      "Finance",
+      "Education",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you think artificial intelligence will affect human political decisions?",
+    "options": [
+      "Yes, more scientific",
+      "Yes, easily manipulated",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think the development of artificial intelligence in the news industry will:",
+    "options": [
+      "Provide more accurate reporting",
+      "Generating false news",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think artificial intelligence will change human consumption habits?",
+    "options": [
+      "Yes, more personalized recommendation",
+      "Yes, more reliant on online consumption",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Which of the following AI technology development do you think requires the most attention to security issues?",
+    "options": [
+      "Autonomous driving",
+      "Smart healthcare",
+      "Smart home",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you think artificial intelligence will affect human mental health?",
+    "options": [
+      "Can increase stress and anxiety",
+      "Yes, provide psychological support",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "In your opinion, the application prospects of artificial intelligence in the field of environmental protection are:",
+    "options": [
+      "Very optimistic",
+      "More limited",
+      "Not optimistic",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think artificial intelligence will change human career choices?",
+    "options": [
+      "There will be new jobs",
+      "Yes, certain occupations will disappear",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "In your opinion, the role of artificial intelligence in scientific research is:",
+    "options": [
+      "Accelerate the scientific research process",
+      "Misleading",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think artificial intelligence will affect human moral judgment?",
+    "options": [
+      "Yes, more objective",
+      "It will be more ambiguous",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the development of artificial intelligence in the field of entertainment and games will:",
+    "options": [
+      "Bring A richer experience",
+      "Make the game less fun",
+      "There is no change",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you think artificial intelligence will change the way humans learn?",
+    "options": [
+      "Will be more autonomous and personalized",
+      "Yes, relying on machine learning",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Which of the following AI applications do you think is most likely to cause social controversy?",
+    "options": [
+      "Gene editing",
+      "Brain-computer interface",
+      "Artificial intelligence weapons",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you think artificial intelligence will affect human social networks?",
+    "options": [
+      "Yes, expand your social circle",
+      "It will reduce the quality of social interaction",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think the application of artificial intelligence in the field of logistics will:",
+    "options": [
+      "Improve distribution efficiency",
+      "Increase the cost",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think artificial intelligence will change human values?",
+    "options": [
+      "Yes, more diverse",
+      "Yes, tends to be homogeneous",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Which of the following AI technology developments do you think most needs public discussion?",
+    "options": [
+      "AI medical diagnosis",
+      "Artificial intelligence education assistance",
+      "Artificial intelligence employment substitution",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you think artificial intelligence will affect the cultural diversity of human beings?",
+    "options": [
+      "Will promote communication and integration",
+      "Will lead to cultural convergence",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "In your opinion, what are the application prospects of artificial intelligence in the field of tourism?",
+    "options": [
+      "Provide better service",
+      "Ruin the travel experience",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think artificial intelligence will change human's ability to innovate?",
+    "options": [
+      "Will stimulate innovation",
+      "Will inhibit innovation",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Which of the following AI applications do you think is most in need of legal regulation?",
+    "options": [
+      "Financial risk prediction",
+      "Social media content management",
+      "Automatic driving accident liability identification",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think artificial intelligence will affect human language diversity?",
+    "options": [
+      "Yes, the variety of languages is reduced",
+      "Yes, promote new language generation",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "In your opinion, the role of artificial intelligence in public services is:",
+    "options": [
+      "Improve service quality",
+      "Waste of resources",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you think artificial intelligence will change the aesthetic diversity of human beings?",
+    "options": [
+      "Yes, tends to be unified",
+      "Will be, more abundant",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Which of the following AI technologies do you think most requires international cooperation?",
+    "options": [
+      "Climate change projections",
+      "Global disease control",
+      "Space exploration",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think artificial intelligence will affect the educational equity of human beings?",
+    "options": [
+      "Will, exacerbate unfairness",
+      "Yes, promote fairness",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "In your opinion, the application of artificial intelligence in the field of advertising and marketing will:",
+    "options": [
+      "More accurate push",
+      "Cause disgust",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you think artificial intelligence will change human's career achievement?",
+    "options": [
+      "Will, reduce the sense of accomplishment",
+      "Yes, enhance the sense of achievement",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Which of the following AI applications do you think is most in need of technical standards development?",
+    "options": [
+      "Intelligent traffic management",
+      "Intelligent energy management",
+      "Smart city planning",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Do you think artificial intelligence will affect the way human culture is passed on?",
+    "options": [
+      "Yes, digital inheritance",
+      "Yes, the traditional way is replaced",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you think the development of artificial intelligence in the field of sports training will:",
+    "options": [
+      "Improving athlete performance",
+      "Damage the fairness of the game",
+      "No impact",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you think artificial intelligence will change human cultural innovation?",
+    "options": [
+      "Will bring about new cultural forms",
+      "Will inhibit cultural innovation",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "In your opinion, which of the following artificial intelligence technologies should take social ethics into consideration most?",
+    "options": [
+      "Artificial intelligence companion",
+      "Ai parenting",
+      "Artificial intelligence for elderly care",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you think artificial intelligence will affect human cultural communication?",
+    "options": [
+      "Yes, to promote cross-cultural understanding",
+      "Will cause culture clash",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "In your opinion, what are the applications applications of artificial intelligence in the field of public safety?",
+    "options": [
+      "Strengthen public security prevention and control",
+      "Invasion of personal privacy",
+      "It has no effect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Do you think artificial intelligence will change human cultural identity?",
+    "options": [
+      "Will, form A new identity",
+      "Will weaken the original identity",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  }
+]

@@ -1,0 +1,858 @@
+[
+  {
+    "id": 1,
+    "question": "Do you own eyeshadow products?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "How much eyeshadow do you own?",
+    "options": [
+      "Paragraphs 1-3",
+      "Models 4-6",
+      "Models 7-10",
+      "10 or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your main motivation for buying eyeshadow?",
+    "options": [
+      "Daily makeup needs",
+      "Special occasion needs",
+      "Follow the trend",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Which brand of eyeshadow do you prefer to buy?",
+    "options": [
+      "International brands",
+      "Well-known domestic brands",
+      "Niche brands",
+      "Open brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you consider the reputation of the brand when choosing eyeshadow?",
+    "options": [
+      "Definitely. Word of mouth is important",
+      "It may be, for reference",
+      "Not really, more attention to the product itself",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you want to buy eye shadow because of the advertisement?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Will you pay attention to new eyeshadow releases?",
+    "options": [
+      "Very concerned, the first time to understand",
+      "More concerned, interested will see",
+      "Not much attention, occasionally know",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you think the durability of eyeshadow is important to you?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Do you buy eyeshadow because of how easy it is to remove?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "When you use eyeshadow, does it happen that your makeup will come off?",
+    "options": [
+      "Often appear",
+      "Appear occasionally",
+      "Rarely appears",
+      "Never appeared"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What do you think is the main cause of eye shadow removal?",
+    "options": [
+      "Eye skin oil",
+      "The product quality is not good",
+      "Applying makeup is not correct",
+      "Environmental factors"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you choose eyeshadow with concealer?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What do you think of eyeshadow with concealer?",
+    "options": [
+      "Very good",
+      "Not bad",
+      "General",
+      "Not good"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Will you buy eyeshadow with brightening effect?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What do you think is the effect of eyeshadow on makeup?",
+    "options": [
+      "Large, make the eyes more lively",
+      "There are some, add highlights",
+      "No, the effect is not obvious",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Will you buy two-tone eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "How difficult do you think two-color eyeshadow is to match?",
+    "options": [
+      "It's simple and easy to match",
+      "In general, it takes some skill",
+      "More difficult, not very easy to match",
+      "Very difficult"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Will you buy four-color eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What do you think are the advantages of four-color eyeshadow over two-color eyeshadow?",
+    "options": [
+      "More color options",
+      "Can create more makeup",
+      "More suitable for different occasions",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you buy nine or more color eyeshadow palette?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "What do you think are the disadvantages of multicolor eyeshadow palette?",
+    "options": [
+      "Can not be used up waste",
+      "Difficulty in choosing",
+      "It is not convenient to carry",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you buy eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What do you think are the advantages of eyeshadow over powder     eyeshadow?",
+    "options": [
+      "More obedient",
+      "Longer lasting",
+      "More intense colors",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you buy liquid eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Where do you think liquid eyeshadow should be used?",
+    "options": [
+      "Daily makeup",
+      "Party makeup",
+      "Stage makeup",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Will you buy pearl eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Which eye type do you think is suitable for pearl eyeshadow?",
+    "options": [
+      "Double eyelids",
+      "Single eyelids",
+      "Inside double",
+      "Both are suitable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you buy matte eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Which style do you think matte eyeshadow is suitable for?",
+    "options": [
+      "Natural everyday",
+      "Mature and steady",
+      "Fashion personality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Will you buy polarized eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "What do you think is the effect of polarized eyeshadow?",
+    "options": [
+      "Unique and novel",
+      "Exaggerating",
+      "Difficult to navigate",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Will you buy eye shadow with glitter?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "What age group do you think is appropriate for eye shadow with glitter?",
+    "options": [
+      "Young people",
+      "Middle-aged people",
+      "Older people",
+      "Regardless of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you buy metallic eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What kind of clothing style do you think metallic eyeshadow is suitable for?",
+    "options": [
+      "Casual",
+      "Formal wind",
+      "Retro style",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Will you buy colored eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "When do you think color eyeshadow is suitable for use?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you buy warm eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Which skin tone do you think warm eyeshadow suits?",
+    "options": [
+      "Fair complexion",
+      "Yellow skin color",
+      "Black skin tone",
+      "Both are suitable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Will you buy cool eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What kind of look do you think cool color eyeshadow is suitable for?",
+    "options": [
+      "Freshness",
+      "Mystery",
+      "Competent",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Will you buy Earth eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What do you think are the advantages of earth color eyeshadow?",
+    "options": [
+      "Everything works",
+      "Naturally low-key",
+      "Suitable for all occasions",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you buy pink eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "What age group do you think pink eyeshadow is suitable for?",
+    "options": [
+      "Young girls",
+      "Mild-ougar",
+      "Mature women",
+      "Regardless of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you buy orange eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Which lip color do you think is suitable for orange eye shadow?",
+    "options": [
+      "Red",
+      "Pink",
+      "Orange",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Will you buy purple eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Which hairstyle do you think is suitable for purple eye shadow?",
+    "options": [
+      "Straight hair",
+      "Curly hair",
+      "Short hair",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you buy green eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which eye type do you think green eyeshadow suits?",
+    "options": [
+      "Big eyes",
+      "Small eyes",
+      "Round eyes",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you buy blue eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "What personality do you think blue eye shadow is suitable for?",
+    "options": [
+      "Lively and cheerful",
+      "Quiet and reserved",
+      "Strong personality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Will you buy brown eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "What skin tones do you think brown eye shadow suits?",
+    "options": [
+      "White skin",
+      "Yellow skin",
+      "Black skin",
+      "Both are suitable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you buy grey eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "What kind of makeup style do you think is suitable for grey eyeshadow?",
+    "options": [
+      "European style",
+      "Solar wind",
+      "Korean style",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Will you buy black eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "When do you think black eye shadow is suitable for use?",
+    "options": [
+      "Dinner Party",
+      "Nightclubs",
+      "Halloween",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you buy white eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "What do you think is the effect of white eyeshadow?",
+    "options": [
+      "Brighten",
+      "Make a foundation",
+      "Create special effects",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Will you buy gold eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "In what festivals do you think gold eye shadow is suitable for use?",
+    "options": [
+      "Christmas",
+      "New Year",
+      "Valentine's Day",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you buy silver eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What kind of accessories do you think will go well with silver eye shadow?",
+    "options": [
+      "Gold and silver jewelry",
+      "Pearl jewelry",
+      "Diamond jewelry",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you buy gradient eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "What do you think are the advantages of gradient eyeshadow?",
+    "options": [
+      "Rich sense of hierarchy",
+      "Transition naturally",
+      "Unique and novel",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you buy color matching eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "What kind of makeup emphasis do you think is suitable for color-matching eyeshadow?",
+    "options": [
+      "Emphasize the eye tail",
+      "Emphasize the eyes",
+      "Create a deep sense of eye sockets",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you buy two-tone eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "What do you think of the effect of two-tone gradient eyeshadow?",
+    "options": [
+      "Simple and brilliant",
+      "Rich in variety",
+      "Easy to use",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you buy a tricolor eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "What kind of blush do you think is suitable for three color gradient eyeshadow?",
+    "options": [
+      "Pink blush",
+      "Orange blush",
+      "Brown blush",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Will you buy four-color eyeshadow?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "What do you think is the difficulty of four-color eyeshadow?",
+    "options": [
+      "Color matching",
+      "Apply order",
+      "Transition naturally",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Will you buy eyeshadow with the brand logo?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "What do you think is the appeal of eyeshadow with brand logo to you?",
+    "options": [
+      "Brand influence",
+      "Unique design",
+      "Show identity",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you buy eyeshadow because of its beautiful packaging?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Rarely",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  }
+]

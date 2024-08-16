@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options":  [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What's your age?",
+    "options": [
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "46-55 years old",
+      "Over 55 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your current occupation?",
+    "options": [
+      "Enterprise management personnel",
+      "Professional and technical personnel",
+      "Self-employed",
+      "General staff",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What is your monthly income level?",
+    "options": [
+      "Less than 5000",
+      "5001-10000",
+      "10001-15000",
+      "15001-20000",
+      "More than 20,000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you own a car?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "If yes, how long have you owned the car?",
+    "options": [
+      "Within 1 year",
+      "1-3 years",
+      "3-5 years",
+      "More than 5 years"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the main purpose of your car purchase?",
+    "options": [
+      "Daily commute",
+      "Family travel",
+      "Business activities",
+      "Leisure tourism",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What is the first thing you consider when buying a car?",
+    "options": [
+      "Price",
+      "Brand",
+      "Performance",
+      "Appearance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What price range can you accept for a car?",
+    "options": [
+      "Less than 50,000",
+      "50,000 to 100,000",
+      "100,000 to 150,000",
+      "150,000 to 200,000",
+      "More than 200,000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What type of car do you prefer to buy?",
+    "options": [
+      "Car",
+      "SUV",
+      "MPV",
+      "Sports cars",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How much do you value a car brand?",
+    "options": [
+      "Attach great importance and only consider well-known brands",
+      "Pay more attention and give priority to well-known brands",
+      "Generally, brand is not the primary consideration",
+      "Don't pay attention, pay more attention to other aspects"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What do you think are the most important features of a car? (Multiple options available)",
+    "options": [
+      "Dynamic performance",
+      "Handling performance",
+      "Fuel economy",
+      "Safety Performance",
+      "Comfort",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What are your requirements for car interior?",
+    "options": [
+      "Luxury and refinement",
+      "Simple and practical",
+      "Strong sense of science and technology",
+      "Personalization",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you pay attention to the environmental performance of your car when you buy it?",
+    "options": [
+      "Very concerned, give priority to environmentally friendly models",
+      "More attention, as a reference factor",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What do you like about the appearance of your car?",
+    "options": [
+      "Stylish and dynamic",
+      "Stable atmosphere",
+      "Unique personality",
+      "Simple and smooth",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Will you choose a new energy vehicle?",
+    "options": [
+      "Yes, environmental protection and energy saving",
+      "Maybe, depending on battery life and charging facilities",
+      "No, worrying about battery life and technical issues"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "How important do you think the space size of your car is to you?",
+    "options": [
+      "Very important and requires ample riding and storage space",
+      "More important, to meet basic needs",
+      "In general, not too concerned",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you care about your car's sound system?",
+    "options": [
+      "Very concerned, to have high quality audio",
+      "More concerned, I hope the effect is good",
+      "Generally, as long as you can listen",
+      "Don't care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What are your comfort requirements for car seats?",
+    "options": [
+      "Very high, to have good support and adjustment function",
+      "Tall and comfortable",
+      "General, no special requirements",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you choose a car with autonomous driving function?",
+    "options": [
+      "Sure, it's convenient and safe",
+      "Maybe, depending on the technology maturity",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "What is your demand for automotive intelligent interconnection system (such as navigation, mobile phone interconnection)?",
+    "options": [
+      "Very needed, powerful",
+      "More need, has a certain practical",
+      "In general, dispensable",
+      "No need"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you consider the warranty rate of your car when buying?",
+    "options": [
+      "Definitely. Value preservation is important",
+      "It may be, for reference",
+      "Not really, not really concerned",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What is your emphasis on car after-sales service?",
+    "options": [
+      "Great attention, good service",
+      "More attention, influence the purchase decision",
+      "General, not the key factor",
+      "Don't pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you buy a car because of a promotion?",
+    "options": [
+      "Sure, if you have the best offer",
+      "Maybe, depending on the circumstances",
+      "No, buy on demand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Will you choose to buy a car on loan?",
+    "options": [
+      "It will definitely reduce the pressure on capital",
+      "Maybe, depending on the interest rate and repayment method",
+      "No, I prefer a lump sum payment"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What is your preference for car color?",
+    "options": [
+      "Classic black and white",
+      "Bright bright colors",
+      "Low-key and steady color",
+      "Personalized custom color"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Will you choose imported car?",
+    "options": [
+      "Certainly, the quality is guaranteed",
+      "Maybe, depending on the model and price",
+      "No, support domestic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you think the trunk space of a car is important?",
+    "options": [
+      "It's very important to be able to hold A lot of things",
+      "More important, to meet the daily use",
+      "In general, not too concerned",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you choose a car with a sunroof?",
+    "options": [
+      "Definitely, like A skylight",
+      "Maybe, depending on the model and price",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you care about the brand and performance of your car tires?",
+    "options": [
+      "Very concerned, want high quality tires",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Will you choose a hybrid car?",
+    "options": [
+      "Sure, good overall performance",
+      "Maybe, depending on the price/performance ratio",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What are your performance requirements for automotive braking systems?",
+    "options": [
+      "Very high, sensitive and reliable",
+      "High, can ensure safety",
+      "Normal, normal is fine",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Will you choose a car with seat heating and ventilation?",
+    "options": [
+      "It will definitely improve the comfort",
+      "Maybe, depending on the price and demand",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What are your requirements for automotive suspension systems?",
+    "options": [
+      "Comfortable type, good filtering effect",
+      "Sporty, strong handling",
+      "Balanced for comfort and control",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you choose a car with self-parking?",
+    "options": [
+      "Sure, it's easy to park",
+      "Maybe, depending on practicality",
+      "No, I can park myself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you concerned about the type and brightness of car headlights?",
+    "options": [
+      "Very concerned, the lighting effect is good",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you choose a car with an on-board refrigerator?",
+    "options": [
+      "Sure will, practical",
+      "Maybe, depending on the demand",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What are your requirements for the display mode and function of the car dashboard?",
+    "options": [
+      "Digital, rich in information",
+      "Traditional pointer type, simple and clear",
+      "It doesn't matter, as long as it displays basic information"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you choose a car with an electric tailgate?",
+    "options": [
+      "Sure, it's convenient and practical",
+      "Maybe, depending on the price",
+      "No, manual is also acceptable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What is your perception and choice of car audio brand?",
+    "options": [
+      "Have A clear brand preference",
+      "Know some well-known brands, will consider",
+      "Don't know much, don't care much"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Will you choose a car with adaptive cruise?",
+    "options": [
+      "It will definitely reduce driving fatigue",
+      "It may be, depending on the usage scenario",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What are your requirements for car interior material?",
+    "options": [
+      "Leather material, high-grade comfort",
+      "Imitation leather material, cost-effective",
+      "Fabric material, environmentally friendly and breathable",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Would you choose a car with 360-degree panoramic images?",
+    "options": [
+      "Sure, it's easy to drive",
+      "Maybe, depending on the price and demand",
+      "No, not much use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Are you concerned about the insulation and privacy features of your car Windows?",
+    "options": [
+      "Very concerned, to have A good effect",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Will you choose a car with a head-up display?",
+    "options": [
+      "It will definitely improve driving safety",
+      "Maybe, depending on practicality",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you care about the difficulty of cleaning and maintenance of car seat materials?",
+    "options": [
+      "Very concerned, to be easy to clean and maintain",
+      "More concerned, will be considered as a factor",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you choose a car with automatic wiper function?",
+    "options": [
+      "Sure, it's convenient and practical",
+      "Maybe, depending on the price",
+      "No, manual is also acceptable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "What are your requirements for engine displacement?",
+    "options": [
+      "Small displacement, economy and energy saving",
+      "Medium displacement, taking into account power and fuel consumption",
+      "Large displacement, the pursuit of strong power",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you choose a car with blind spot monitoring?",
+    "options":  [
+      "It will definitely increase driving safety",
+      "Maybe, depending on the price and demand",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "What is your preference for car transmission type?",
+    "options": [
+      "Manual transmission",
+      "Automatic transmission",
+      "Dual-clutch transmission",
+      "CVT transmission",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Will you choose a car with lane departure warning?",
+    "options": [
+      "It will definitely improve safety",
+      "Maybe, depending on practicality",
+      "No, not really"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "How much do you care about the style and size of your car's wheels?",
+    "options": [
+      "Very concerned, to beautiful atmosphere",
+      "The appearance will be affected",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you choose a car with electric seat memory?",
+    "options": [
+      "Sure, it's convenient for multiple drivers",
+      "Maybe, depending on the price and demand",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "What are your requirements for the height of the car chassis?",
+    "options": [
+      "High chassis, good passability",
+      "Medium chassis, balanced performance",
+      "Low chassis, strong sense of sports",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you choose a car with interior atmosphere lights?",
+    "options": [
+      "It will definitely add to the atmosphere",
+      "Maybe, depending on the effect",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "What are your requirements for the material and feel of the steering wheel?",
+    "options": [
+      "Leather material, feel comfortable",
+      "Plastic material, economical and practical",
+      "It doesn't matter, as long as it works"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Will you choose a car with independent rear air conditioning?",
+    "options": [
+      "It will definitely improve the rear seat comfort",
+      "Maybe, depending on the price and demand",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "How concerned are you about the layout and quantity of car storage space?",
+    "options": [
+      "Very concerned, to be convenient and practical",
+      "More attention, will affect the use",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Will you choose a car with keyless entry and start?",
+    "options": [
+      "Sure, it's quick and easy",
+      "Maybe, depending on the price",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Are you concerned about the insulation and UV protection of the front windshield of your car?",
+    "options": [
+      "Very Concerned, to have A good effect",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you choose a car with rear-seat reclining?",
+    "options": [
+      "Will definitely expand storage space",
+      "Maybe, depending on the demand",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "What are your requirements for the design and operation convenience of the car center console?",
+    "options": [
+      "Simple and intuitive, easy to operate",
+      "Rich functions, strong sense of technology",
+      "It doesn't matter, as long as you can use it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you choose a car with automatic headlights?",
+    "options": [
+      "Sure, it's convenient and practical",
+      "Maybe, depending on the price",
+      "No, manual is also acceptable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Are you concerned about the heating and electric folding functions of the rearview mirror?",
+    "options": [
+      "Very concerned, practical function",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Will you choose a car with automatic engine start-stop function?",
+    "options": [
+      "Definitely, energy saving and emission reduction",
+      "Maybe, depending on how it turns out",
+      "No, I think it will affect the driving experience"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "What are your adjustment and comfort requirements for car seat headrests?",
+    "options": [
+      "Very high, to fit the neck",
+      "Tall and comfortable",
+      "Generally, as long as it can be adjusted",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you choose a car with active noise cancellation?",
+    "options": [
+      "It will definitely improve the quietness of the car",
+      "Maybe, depending on the effect",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you care about the type and size of the spare tire?",
+    "options": [
+      "Very attentive, in case of emergency",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you choose a car with a rear center armrest and cup holder?",
+    "options": [
+      "It will definitely improve the rear seat comfort",
+      "Maybe, depending on the demand",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "What are your material and design requirements for automotive door panel interior?",
+    "options": [
+      "High-grade material, with texture",
+      "Practical material, durable on the line",
+      "It doesn't matter, I don't really care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you choose a car with an onboard air purification system?",
+    "options": [
+      "Will definitely improve the air quality in the car",
+      "Maybe, depending on the effect",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Are you concerned about the comfort and adjustment function of car seat belts?",
+    "options": [
+      "Very concerned, to be comfortable and easy to adjust",
+      "More attention, will be used as a reference",
+      "In general, not too concerned",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Will you choose a car with a panoramic sunroof shade?",
+    "options": [
+      "Definitely, privacy and insulation",
+      "Maybe, depending on the demand",
+      "No, I don't think it's very useful"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "What are your requirements for the material and anti-skid performance of the car floor mat?",
+    "options": [
+      "High quality material, good anti-slip effect",
+      "Ordinary material, can be used on the line",
+      "It doesn't matter, I don't really care"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Will you choose a car with in-car navigation updates?",
+    "options": [
+      "Definitely, to ensure accurate navigation",
+      "Maybe, depending on the frequency and cost of updates",
+      "No, use your phone for navigation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "What other expectations and suggestions do you have for the future development of cars?",
+    "options": [
+      "More intelligent",
+      "Higher security",
+      "Stronger environmental performance",
+      "More personalized customization"
+    ],
+    "correctAnswer": ""
+  }
+]

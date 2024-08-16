@@ -1,0 +1,924 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options":  [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "46-55 years old",
+      "Over 55 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your place of residence:",
+    "options": [
+      "Cities",
+      "Rural areas",
+      "Towns and villages"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you own a pet dog?",
+    "options": [
+      "Yes",
+      "No (Please answer question 36 directly)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How long have you had a pet dog?",
+    "options": [
+      "Within 1 year",
+      "1-3 years",
+      "3-5 years",
+      "More than 5 years"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How many pet dogs do you own?",
+    "options": [
+      "One",
+      "Two of them",
+      "3 or more"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What is the breed of your pet dog?",
+    "options": [
+      "Labrador",
+      "Golden Retriever",
+      "Teddy",
+      "Pomeranian",
+      "Others (please specify)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Why did you choose to have a pet dog in the first place? (Multiple options available)",
+    "options": [
+      "Love dogs",
+      "Companionship",
+      "Develop children's love and responsibility",
+      "Increase family fun",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How did you get your pet dog?",
+    "options": [
+      "Purchase",
+      "Adoption",
+      "Gift from friends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "How much time do you spend taking care of your dog every day?",
+    "options": [
+      "Within 1 hour",
+      "1-2 hours",
+      "2-3 hours",
+      "More than 3 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Do you bathe your dog regularly?",
+    "options": [
+      "Once A week",
+      "Once every two weeks",
+      "Once a month",
+      "Irregular"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Where do you usually bathe your pet dog?",
+    "options": [
+      "At home",
+      "Pet store",
+      "Both"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you trim your dog's hair regularly?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you brush your dog's teeth?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "How often do you take your dog to the vet?",
+    "options": [
+      "Once every six months",
+      "Once a year",
+      "Only go when there is a problem",
+      "Rarely"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you dewormer your dog?",
+    "options": [
+      "Deworming regularly",
+      "Occasionally deworming",
+      "Never deworming"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "What are the main factors you consider when choosing food for your dog? (Multiple options available)",
+    "options": [
+      "Brand",
+      "Nutritional content",
+      "Price",
+      "Pet dog taste",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What type of food does your dog mainly eat?",
+    "options": [
+      "Dry food",
+      "Wet food",
+      "Make your own food",
+      "Mixing"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you give your dog treats?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Have you ever trained your pet dog?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "If you have been trained, what is the main training content? (Multiple options available)",
+    "options": [
+      "Basic instructions (such as sitting, shaking hands, etc.)",
+      "Targeted defecation",
+      "Don't bite",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "How difficult do you think it is to train a pet dog?",
+    "options": [
+      "It's easy",
+      "It's a little difficult, but it can be done",
+      "Very difficult",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you bring your dog to social events (such as pet parties)?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "How does your dog usually act when meeting strangers?",
+    "options": [
+      "Be friendly",
+      "Vigilance",
+      "Fear",
+      "Attack"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "How does your dog usually act when meeting other dogs?",
+    "options": [
+      "Be friendly",
+      "Vigilance",
+      "Fear",
+      "Attack"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Are you worried that your pet dog may cause harm to others?",
+    "options": [
+      "Very worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Where does your pet dog usually sleep?",
+    "options": [
+      "Special kennels",
+      "Master's bed",
+      "Living room sofa",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you have a special space for your dog?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you have any special toys for your dog at home?",
+    "options": [
+      "A lot",
+      "Some",
+      "Rarely",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you regularly clean your dog's living area?",
+    "options": [
+      "Every day",
+      "Every week",
+      "Monthly",
+      "Irregular"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you think the living environment of your pet dog is important for its health?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "How much do you spend on your pet dog per month?",
+    "options": [
+      "Less than 100 yuan",
+      "101-300 yuan",
+      "301-500 yuan",
+      "501-1000 yuan",
+      "More than 1000 yuan"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "What are your main expenses? (Multiple options available)",
+    "options": [
+      "Food",
+      "Medical care",
+      "Toys and supplies",
+      "Beauty and treatment",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you think the cost of your pet dog is worth it?",
+    "options": [
+      "It's worth it",
+      "It's worth it",
+      "General",
+      "It's not worth it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Pet dogs and families",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "What is your family's attitude towards your pet dog?",
+    "options": [
+      "Very supportive",
+      "Support",
+      "It doesn't matter",
+      "Objection"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Has the dog affected your family relationship?",
+    "options": [
+      "Enhance the relationship between family members",
+      "No significant effect",
+      "Some contradictions have arisen"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Does your child like your dog?",
+    "options": [
+      "Very much",
+      "Prefer it",
+      "General",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you leave your dog alone with your child?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Does your pet dog affect your home life (e.g. hygiene, noise, etc.)?",
+    "options": [
+      "Great influence",
+      "There are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Does your community allow pet dogs?",
+    "options": [
+      "Allowed, no restrictions",
+      "Allowed, but with some rules",
+      "Not allowed"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you comply with the community regulations regarding pet dogs?",
+    "options": [
+      "Adhere strictly",
+      "Basically comply",
+      "Not too concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you pick up after your dog while walking in the neighborhood?",
+    "options": [
+      "Every time",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Have you ever had a neighbor complain about your pet dog?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What do you think is the impact of pet dogs on the environment and safety of the community?",
+    "options": [
+      "Positive impact",
+      "No impact",
+      "There are some negative effects",
+      "The negative impact is great"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you travel with your pet dog?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "If traveling with a pet dog, which mode of transportation would you choose?",
+    "options": [
+      "Drive yourself",
+      "Aircraft (Pet consignment)",
+      "Train (pet consignment)",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "What do you do to prepare your dog during your trip? (Multiple options available)",
+    "options": [
+      "Bring plenty of food and water",
+      "Prepare a comfortable place to rest",
+      "Bring common medicines",
+      "Know your destination's pet policy",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Have you changed your travel plans or destinations because of your dog?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "What is the biggest difficulty you have encountered while traveling with your pet dog?",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you know the common diseases of pet dogs?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Is the management of pet dogs reasonable?",
+    "options": [
+      "Very reasonable",
+      "It's reasonable",
+      "It's not reasonable",
+      "Totally unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "What do you think the government should do to strengthen the management of pet dogs? (Multiple options available)",
+    "options": [
+      "Standardize the dog registration system",
+      "Strengthen rabies control",
+      "Increase the pet dog activity area",
+      "Increase the punishment for illegal dog keeping",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you support mandatory vaccinations for pet dogs?",
+    "options": [
+      "Very supportive",
+      "Support",
+      "It doesn't matter",
+      "Objection"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "What social responsibilities do you think pet dog owners should take? (Multiple options available)",
+    "options": [
+      "Walk your dog and clean up after you",
+      "Control pet dogs from disturbing people",
+      "Avoid hurting people with pet dogs",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "What is your opinion on the stray dog problem?",
+    "options": [
+      "Containment and assistance should be strengthened",
+      "Reasonable control and management should be carried out",
+      "The power of individuals is limited, which is mainly solved by the government",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Are you willing to participate in dog related public welfare activities?",
+    "options": [
+      "I'd love to",
+      "Yes, but time is limited",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "What do you think should be the focus of public welfare activities related to pet dogs? (Multiple options available)",
+    "options": [
+      "Stray dog rescue",
+      "Popularization of pet dog health knowledge",
+      "Animal protection publicity",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Have you ever used dog related technology? (e.g. smart collars, trackers, etc.)",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "If so, what do you think of the effects of these technologies?",
+    "options": [
+      "Very good, very practical",
+      "In general, it has a certain effect",
+      "Not very good, not very practical"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Are you willing to try new dog technology?",
+    "options": [
+      "I'd love to",
+      "Yes, but we need to know first",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Which of the following technology products do you think will help your dog's life? (Multiple options available)",
+    "options": [
+      "Automatic feeders",
+      "Smart toys",
+      "Health monitoring equipment",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you obtain information and knowledge about your pet dog through the Internet?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you follow dog related social media accounts or forums?",
+    "options": [
+      "Always pay attention",
+      "Occasional attention",
+      "Pay little attention",
+      "Never pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Pet dogs and culture",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Are you aware of the symbolism of pet dogs in different cultures?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What impact do you think pet dog culture has on society?",
+    "options": [
+      "Enrich people's spiritual life",
+      "To promote harmony between humans and animals",
+      "Drive the development of related industries",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Have you ever participated in any dog related cultural events (dog shows, competitions, etc.)?",
+    "options": [
+      "Attend regularly",
+      "Occasionally",
+      "Never participated, but interested",
+      "Not interested at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you have a birthday party or special celebration for your dog?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Never, but thought about it",
+      "Never, never thought about it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you think a pet dog's name has an impact on its personality?",
+    "options": [
+      "It has A great impact",
+      "There are some effects",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "What do you name your pet dog after? (Multiple options available)",
+    "options": [
+      "Physical characteristics",
+      "Favorite character or character",
+      "Symbolic words",
+      "Random names"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you let your pet dog play with other animals (cats, rabbits, etc.)?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "What do you do if your dog makes a mistake, such as chewing something bad?",
+    "options": [
+      "Severe punishment",
+      "Gentle education",
+      "Regardless"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you dress your dog?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you think pet dogs wear clothes for? (Multiple options available)",
+    "options": [
+      "Keep warm",
+      "Aesthetics",
+      "Imitate human fashion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you take pictures with your pet dog?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you share pictures of your dog on social media?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Do you make a photo album or video for your pet dog?",
+    "options": [
+      "Yes, it has been done",
+      "Want to, but don't have time",
+      "Never thought about it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Do you think pet dogs can sense their owners' emotions?",
+    "options": [
+      "Totally",
+      "Most of them can",
+      "A few can",
+      "Can't"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "When you are in a bad mood, will a pet dog bring you comfort?",
+    "options": [
+      "Yes, great comfort",
+      "Yes, it's a little comforting",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 82,
+    "question": "Do you leave your dog home alone?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 83,
+    "question": "What do you do if you leave your dog home alone? (Multiple options available)",
+    "options": [
+      "Prepare enough food and water",
+      "Turn on the TV or music",
+      "Install monitoring"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 84,
+    "question": "Are you worried about your dog having an accident at home?",
+    "options": [
+      "Very worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 85,
+    "question": "Do you train your pet dog with special skills (such as picking up a ball, opening a door, etc.)?",
+    "options": [
+      "Yes, I've been trained",
+      "Wanted to train, but didn't start",
+      "No, that won't be necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 86,
+    "question": "Do you think the presence of a pet dog can improve your happiness in life?",
+    "options": [
+      "A substantial increase",
+      "There has been some improvement",
+      "The improvement is not obvious",
+      "No improvement"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 87,
+    "question": "Do you take your dog to a training course?",
+    "options": [
+      "Yes, attend regularly",
+      "Occasionally",
+      "No"
+    ],
+    "correctAnswer": ""
+  }
+]
+     

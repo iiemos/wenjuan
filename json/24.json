@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is your age?",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Over 45 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is your occupation?",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Have you ever used an e-cigarette?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How often do you use e-cigarettes?",
+    "options": [
+      "Every day",
+      "Several times a week",
+      "Several times a month",
+      "Rarely used"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is your main reason for using e-cigarettes?",
+    "options": [
+      "Help to quit smoking",
+      "Curious to try",
+      "Social needs",
+      "Fashion trends",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How did you first come into contact with e-cigarettes?",
+    "options": [
+      "Recommendations from friends",
+      "Advertising",
+      "Physical store experience",
+      "Online purchase",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Where do you usually use e-cigarettes?",
+    "options": [
+      "At home",
+      "Public places",
+      "The workplace",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What are your main channels for buying e-cigarettes?",
+    "options": [
+      "Physical stores",
+      "Network platform",
+      "Derivative",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "What are your main considerations when buying e-cigarettes?",
+    "options": [
+      "Price",
+      "Brand",
+      "Taste",
+      "Appearance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What is your preferred e-cigarette flavor?",
+    "options": [
+      "Fruity",
+      "Tobacco smell",
+      "Minty",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Are you aware of the potential health hazards of e-cigarettes?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you think e-cigarettes are healthier than traditional cigarettes?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do many people use e-cigarettes around you?",
+    "options": [
+      "A lot",
+      "There are a few",
+      "Rarely",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you think there should be restrictions on the sale and use of e-cigarettes?",
+    "options": [
+      "It should be strictly limited",
+      "Appropriate restrictions",
+      "There is no need for restrictions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you support banning the use of e-cigarettes in public places?",
+    "options": [
+      "Support",
+      "Objection",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Do you think e-cigarettes are attractive to teenagers?",
+    "options": [
+      "Big",
+      "In general",
+      "Not big"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you know the ingredients of e-cigarettes?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Did you know that e-cigarettes may cause addiction?",
+    "options": [
+      "Know",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think the advertising of e-cigarettes should be regulated?",
+    "options": [
+      "Should",
+      "It shouldn't"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you have a specific preference for the brand of e-cigarette?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "If a new e-cigarette product comes out, will you try it?",
+    "options": [
+      "Will",
+      "It might",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you think the price of e-cigarettes is reasonable?",
+    "options": [
+      "Reasonable",
+      "On the high side",
+      "Low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Are you concerned about the quality and safety of e-cigarettes?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think e-cigarettes will pollute the environment?",
+    "options": [
+      "Will",
+      "No",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you have any uncomfortable reactions after using e-cigarettes?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "If you have discomfort, what are the main symptoms?",
+    "options": [
+      "Cough",
+      "Dizziness",
+      "Nausea",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you think e-cigarettes can help you reduce your dependence on traditional cigarettes?",
+    "options": [
+      "Can",
+      "Can't",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Have you ever tried to quit smoking?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "If you have tried to quit smoking, do e-cigarettes help you quit smoking?",
+    "options": [
+      "It helps A lot",
+      "There is some help",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you think e-cigarettes will affect your oral health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Would you recommend the use of e-cigarettes to others?",
+    "options": [
+      "Will",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "If so, what are the main reasons?",
+    "options": [
+      "The effect is good when used by yourself",
+      "Varied tastes",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you think e-cigarettes will affect your sleep quality?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you think e-cigarettes will affect your cardiovascular health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you understand the use methods and precautions of e-cigarettes?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you think e-cigarettes will affect your respiratory health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Do you think e-cigarettes will affect the health of your immune system?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think e-cigarettes will affect the health of your reproductive system?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think e-cigarettes will affect your mental health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you think e-cigarettes will affect your social life?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think e-cigarettes will affect your work efficiency?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you think e-cigarettes will affect your academic performance?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think e-cigarettes will affect your exercise ability?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you think e-cigarettes will affect your memory?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you think e-cigarettes will affect your concentration?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think e-cigarettes will affect your taste and smell?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think e-cigarettes will affect your eyesight?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you think e-cigarettes will affect your hearing?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you think e-cigarettes will affect your skin health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think e-cigarettes will affect your bone health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you think e-cigarettes will affect your muscle health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you think e-cigarettes can affect your liver health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think e-cigarettes can affect your kidney health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think e-cigarettes will affect your gastrointestinal health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you think e-cigarettes will affect the health of your endocrine system?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think e-cigarettes will affect your nervous system health?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you think e-cigarettes will affect your immune system function?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think e-cigarettes will affect your body's metabolic function?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think e-cigarettes will affect your body repair function?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you think e-cigarettes will affect your body's ability to adapt?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you think e-cigarettes will affect your body's resistance?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think e-cigarettes will affect your body's ability to recover?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think e-cigarettes will affect your body's balance?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you think e-cigarettes will affect your coordination?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think e-cigarettes will affect your body flexibility?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think e-cigarettes will affect your physical endurance?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you think e-cigarettes will affect your body's explosive power?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you think e-cigarettes affect your physical agility?",
+    "options": [
+      "Will",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  }
+]

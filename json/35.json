@@ -1,0 +1,855 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options": [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "Age 46 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Self-employed",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you smoke?",
+    "options": [
+      "Yes",
+      "No (Please answer question 21 directly)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "At what age did you start smoking?",
+    "options": [
+      "Under 15 years of age",
+      "Ages 15-18",
+      "Ages 19-22",
+      "Age 23 and above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How often do you smoke?",
+    "options": [
+      "Smoke every day",
+      "Occasional smoking (less than 3 times a week)",
+      "Smoke regularly (3-6 times per week)",
+      "Frequent smoking (several times a day)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How many cigarettes do you smoke per day on average?",
+    "options": [
+      "1-5 pieces",
+      "6-10 pieces",
+      "11-15 pieces",
+      "16-20 pieces",
+      "More than 20 pieces"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "When do you usually smoke? (Multiple options available)",
+    "options": [
+      "After getting up in the morning",
+      "After meals",
+      "Work gaps",
+      "Before going to bed at night",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Where do you mainly smoke?",
+    "options": [
+      "At home",
+      "The workplace",
+      "Public places (such as restaurants, bars, etc.)",
+      "Outdoors",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you smoke away from others (e.g. children, pregnant women, etc.)?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What was the main reason you started smoking? (Multiple options available)",
+    "options": [
+      "Curious to try",
+      "Relieve stress",
+      "Social needs",
+      "Imitate others",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What is the main reason why you continue to smoke? (Multiple options available)",
+    "options": [
+      "Already addicted, difficult to quit",
+      "Out of habit",
+      "Relieve fatigue",
+      "Need for social occasions",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Have you ever tried to quit smoking?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "If you have tried to quit smoking, why have you failed? (Multiple options available)",
+    "options": [
+      "Smoking is too much to bear",
+      "Lack of perseverance and determination",
+      "Environmental influences (e.g. friends smoking, work pressure, etc.)",
+      "There is no effective smoking cessation method and support",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What factors do you think might motivate you to quit smoking? (Multiple options available)",
+    "options": [
+      "Health problems",
+      "Persuasion from family and friends",
+      "Financial burden",
+      "Restrictions of laws and regulations",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "What brand of cigarettes do you usually buy?",
+    "options": [
+      "Well-known domestic brands",
+      "Imported brands",
+      "Local characteristic brand",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What are your main considerations in choosing a cigarette brand? (Multiple options available)",
+    "options": [
+      "Price",
+      "Taste",
+      "Brand awareness",
+      "Packing",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "How much do you spend on cigarettes per month?",
+    "options": [
+      "Less than 100",
+      "101-200",
+      "201-300",
+      "301-500",
+      "More than 500"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you pay attention to the price fluctuations of cigarettes?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will rising cigarette prices affect how much you smoke or how much you want to buy?",
+    "options": [
+      "Will significantly reduce smoking or stop buying",
+      "Will reduce the amount of smoking",
+      "Basically unaffected"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Are you aware of the health risks of smoking?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Which of the following do you think smoking is harmful to? (Multiple options available)",
+    "options": [
+      "Respiratory system",
+      "Cardiovascular system",
+      "Reproductive system",
+      "The immune system",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Are you aware of the dangers of second-hand smoke to others?",
+    "options": [
+      "Very clear",
+      "Know some",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "What do you think of the ban on smoking in public places?",
+    "options": [
+      "Very supportive and beneficial to public health",
+      "Support, but need to strengthen regulation and enforcement",
+      "It doesn't matter",
+      "No support, limiting personal freedom"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What measures do you think the government should take to reduce the number of smokers? (Multiple options available)",
+    "options": [
+      "Raise tobacco taxes",
+      "Strengthen anti-smoking publicity and education",
+      "Provide smoking cessation assistance and services",
+      "Increase the penalties for illegal smoking",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "What is your family's attitude towards your smoking?",
+    "options": [
+      "Strong objection",
+      "Opposed but helpless",
+      "Neither for nor against",
+      "Support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Is there anyone in your family who smokes?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "What percentage of your friends smoke?",
+    "options": [
+      "Hardly",
+      "A few",
+      "About half",
+      "Most",
+      "Almost all of them"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "How do your friends feel about smoking?",
+    "options": [
+      "Encouragement",
+      "It doesn't matter",
+      "Advise you to smoke less or quit smoking"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you smoke in front of your children?",
+    "options": [
+      "Never",
+      "Occasionally",
+      "Often"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you have any intention to quit smoking?",
+    "options": [
+      "Have A strong will and are planning",
+      "Willing, but no concrete plan yet",
+      "I kind of want to, but I find it difficult to achieve",
+      "Complete lack of will"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "If you want to quit smoking, how soon do you plan to quit?",
+    "options": [
+      "Within 1 month",
+      "1-3 months",
+      "3-6 months",
+      "More than 6 months"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Which of the following do you think might be helpful for quitting smoking? (Multiple options available)",
+    "options": [
+      "Rely on personal perseverance",
+      "Seek support from family and friends",
+      "Use smoking cessation medications",
+      "Attend smoking cessation counseling and counseling",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you know some smoking cessation AIDS (such as e-cigarettes, smoking cessation stickers, etc.)?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What is your opinion on e-cigarettes?",
+    "options": [
+      "Is an effective smoking cessation tool",
+      "Less harmful than traditional cigarettes, but can not quit smoking",
+      "As harmful as traditional cigarettes",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you willing to try smoking cessation AIDS to help you quit smoking?",
+    "options": [
+      "I'd love to",
+      "Be willing to try",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Do you think smoking has an effect on your health?",
+    "options": [
+      "There are obvious adverse effects",
+      "There is some effect, but it is not obvious",
+      "No impact for the moment",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Have you ever suffered from a disease related to smoking (e.g. cough, asthma, cardiovascular disease, etc.)?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "If you already have a smoking-related disease, will that prompt you to quit?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not necessarily",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you have regular medical check-ups to monitor the effects of smoking?",
+    "options": [
+      "Yes, regular medical check-ups",
+      "Occasionally",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you have family conflicts caused by smoking?",
+    "options": [
+      "There are many",
+      "There are a few",
+      "Rarely",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think smoking affects people's mental health?",
+    "options": [
+      "Yes, it can easily lead to anxiety, depression, etc",
+      "Probably, up to a point",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Have you ever been inconvenienced by smoking while traveling or on business?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think smoking affects your sleep quality?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Have you ever known about some of the environmental issues related to smoking (such as cigarette butt pollution, etc.)?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "What do you think of the ban on smoking on public transport?",
+    "options": [
+      "Very supportive and should be strictly implemented",
+      "Support, but the enforcement force can be relaxed",
+      "It doesn't matter",
+      "Does not support, limits the rights of smokers"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think smoking affects your sense of taste and smell?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Will you be limited or pay more for insurance because you smoke?",
+    "options": [
+      "Will",
+      "No",
+      "I don't know"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you feel that smoking affects your pursuit of fashion and trends?",
+    "options": [
+      "Yes, smoking is not fashionable",
+      "Yes, up to a point",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Have you learned about the problems related to smoking and dental health?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think smoking affects your image on social media?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Do you feel inadequate to participate in some sports or fitness activities because of smoking?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you think smoking affects your memory and concentration?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Have you learned about the problems related to smoking and skin health?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think smoking affects your attractiveness when choosing a romantic partner?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Have you ever been offended by smoking when taking part in cultural activities (such as movies, performances, etc.)?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think smoking affects your hearing?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Have you ever heard about the problems of smoking and eye health?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think smoking affects your confidence in social situations?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you feel that smoking affects your social circle and relationships?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you know any smoking cessation organizations or communities?",
+    "options": [
+      "Very familiar with and have participated in",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you think smoking cessation organizations or communities are helpful in quitting smoking?",
+    "options": [
+      "Very big",
+      "It's relatively large",
+      "General",
+      "not big"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Have you ever experienced accommodation restrictions while traveling because of smoking?",
+    "options": [
+      "Often encountered",
+      "Occasionally",
+      "Never met"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you feel that smoking affects your teamwork at work?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Are you aware of the effects of smoking on animals and plants in the environment?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think it is reasonable to set up special smoking areas in public places?",
+    "options": [
+      "Very reasonable",
+      "It's reasonable",
+      "It's not reasonable",
+      "Totally unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think smoking will affect your travel experience?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Have you ever been scolded on public transport for smoking?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you feel that smoking affects your creativity and thinking ability?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Are you aware of some of the problems associated with smoking and bone health?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you think smoking affects your enjoyment of food?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Have you faced obstacles in your job search because you smoke?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you think smoking affects your appreciation of music and art?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Are you aware of some of the intestinal health problems associated with smoking?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you think smoking affects your choice of fashion clothes?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Do you feel tired when taking part in outdoor activities because of smoking?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you think smoking affects your use and interest in technology?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, there are some effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Are you aware of any studies on smoking and mental health treatment?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  }
+]

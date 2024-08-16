@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "question": "Your age:",
+    "options": [
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "46-55 years old",
+      "Over 55 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your monthly income level:",
+    "options": [
+      "Less than 3000",
+      "3001-5000",
+      "5001-8000",
+      "8001-10000",
+      "More than 10,000"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "How often do you shave?",
+    "options": [
+      "Every day",
+      "Every 1-2 days",
+      "Every 3-4 days",
+      "Weekly",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "When do you usually shave?",
+    "options": [
+      "In the morning",
+      "At night",
+      "Other time"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "How often do you shave each time?",
+    "options": [
+      "Within 5 minutes",
+      "5-10 minutes",
+      "10-15 minutes",
+      "More than 15 minutes"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Where do you mainly use your razor?",
+    "options": [
+      "At home",
+      "The workplace",
+      "When traveling",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What type of razor are you currently using?",
+    "options": [
+      "Manual shaver",
+      "Electric shaver",
+      "Both"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What is the main reason for you to choose the type of razor you are currently using?",
+    "options": [
+      "A cleaner shave",
+      "More convenient and fast",
+      "More comfortable",
+      "More affordable",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "If you had the chance to choose again, which type of razor would you choose?",
+    "options": [
+      "Manual shaver",
+      "Electric shaver",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "When you use a manual razor, how often do you change the blades?",
+    "options": [
+      "Replace each use",
+      "Regular replacement (please indicate the frequency of replacement)",
+      "Replace it when it is not sharp",
+      "Rarely replaced"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Which of the following factors do you pay more attention to when buying a manual razor? (Multiple options available)",
+    "options": [
+      "Blade quality",
+      "Tool handle design",
+      "Brand",
+      "Price",
+      "Accessories set (such as shaving cream, aftershave, etc.)",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Have you experienced the following problems when using a manual shaver? (Multiple options available)",
+    "options": [
+      "Scratches the skin",
+      "The blade is not sharp",
+      "Not easy to clean",
+      "The handle of the knife does not feel good",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Which of the following types of electric shaver do you use?",
+    "options": [
+      "Rotary type",
+      "Reciprocating",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Which of the following factors do you pay more attention to when buying an electric shaver? (Multiple options available)",
+    "options": [
+      "Shaving effect",
+      "Endurance",
+      "Charging speed",
+      "Waterproof performance",
+      "Noise level",
+      "Brand",
+      "Price",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "When you use an electric razor, have you encountered the following problems? (Multiple options available)",
+    "options": [
+      "Clip",
+      "Not clean shave",
+      "The battery is not durable",
+      "Clear up difficulties",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following razor brands have you heard of? (Multiple options available)",
+    "options": [
+      "Philips",
+      "Fei Co",
+      "Braun",
+      "Panasonic",
+      "Gillette",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "When you buy a razor, which of the following brands do you prefer?",
+    "options": [
+      "Internationally renowned brands",
+      "Well-known domestic brands",
+      "Cost-effective brand",
+      "Don't care too much about brands"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "What price range are you willing to pay for a satisfactory shaver?",
+    "options": [
+      "Less than 100",
+      "101-200",
+      "201-300",
+      "301-500",
+      "More than 500"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think the price of shavers on the market is reasonable?",
+    "options": [
+      "Reasonable",
+      "On the high side",
+      "Low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Which of the following razor functions do you think is more important? (Multiple options available)",
+    "options": [
+      "Fast charge function",
+      "Intelligent display (such as remaining power, use time, etc.)",
+      "Sideburns trimming function",
+      "dry wet amphibious",
+      "Wash all over",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Do you want your razor to have a travel lock function?",
+    "options": [
+      "Yes",
+      "No",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you want your razor to have a self-cleaning function?",
+    "options": [
+      "Yes",
+      "No",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Which of the following shaver designs do you prefer?",
+    "options": [
+      "Simple and stylish",
+      "Business stability",
+      "Unique personality",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you think the color of the razor has an impact on your choice?",
+    "options": [
+      "It has A great impact",
+      "It has certain influence",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "When you buy a razor, do you pay attention to after-sales service?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Which after-sales service do you think is more important? (Multiple options available)",
+    "options": [
+      "Warranty period",
+      "Maintenance services",
+      "Replacement of parts",
+      "Customer consultation and complaint channels",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "How do you use the razor shave?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied",
+      "Very dissatisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What do you think are the main factors that affect the shaving experience?",
+    "options": [
+      "Shaving effect",
+      "Comfort",
+      "Ease of operation",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Do you use shaving cream, aftershave and other auxiliary products during shaving?",
+    "options": [
+      "Use it frequently",
+      "Use occasionally",
+      "Never use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Which of the following channels do you usually buy razors from?",
+    "options": [
+      "e-commerce platform (such as Taobao, Jingdong, etc.)",
+      "Offline physical stores (such as supermarkets, specialty stores, etc.)",
+      "Brand official website",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What are the main factors you consider when choosing a purchase channel? (Multiple options available)",
+    "options": [
+      "Price",
+      "Product variety richness",
+      "Shopping convenience",
+      "After-sales service",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Will you buy a shaver because of an advertisement or promotion?",
+    "options": [
+      "Yes, it's easy to be influenced",
+      "Yes, but it needs to be taken into consideration",
+      "Not really, more attention to the product itself",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which of the following forms of advertising do you prefer to know about razor products? (Multiple options available)",
+    "options": [
+      "Television advertising",
+      "Internet advertising",
+      "Outdoor advertising",
+      "Magazine advertising",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What kind of advertising content do you think will attract you to buy a razor? (Multiple options available)",
+    "options": [
+      "Product performance display",
+      "User evaluation",
+      "Celebrity endorsement",
+      "Promotional activities",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Do you plan to buy a new razor in the next year?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "If you have a purchase plan, which of the following types of new shavers would you prefer to buy?",
+    "options": [
+      "Manual shaver",
+      "Electric shaver",
+      "It could be both"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "What improvements will you pay more attention to when buying a razor in the future? (Multiple options available)",
+    "options": [
+      "Improve the shaving effect",
+      "Enhance comfort",
+      "Add new functions",
+      "Improve the appearance design",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think the packaging of razors has an impact on your purchase decision?",
+    "options": [
+      "It has A great impact",
+      "It has certain influence",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "What do you think are the problems in the packaging of shavers on the market? (Multiple options available)",
+    "options": [
+      "Not beautiful enough",
+      "Not environmentally friendly",
+      "Lack of creativity",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Would you choose to buy a shaver because of its giveaway?",
+    "options": [
+      "Yes, the giveaways are very attractive",
+      "Maybe, depending on the practicality of the giveaway",
+      "No, just focus on the razor itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "What kind of gifts would you like? (Multiple options available)",
+    "options": [
+      "Spare the blade",
+      "Shaving cream",
+      "Storage box",
+      "Cleaning brush",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you pay attention to the eco-friendly properties of the razor, such as the recyclability of the material?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Not paying much attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "For environmentally friendly shavers, are you willing to pay more for them?",
+    "options": [
+      "Willing",
+      "It depends on the price increase",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Have you ever used multiple razors at the same time?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "If so, why?",
+    "options": [
+      "Use different shavers for different scenarios",
+      "Spare in case of damage",
+      "Try different types of shaving effects",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think the weight of the razor has an impact on the experience?",
+    "options": [
+      "It has A great impact",
+      "It has certain influence",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you prefer lightweight or heavyweight shavers?",
+    "options": [
+      "Lightweight",
+      "Heavyweight",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you choose a different razor depending on the season?",
+    "options": [
+      "Will",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "If so, why?",
+    "options": [
+      "Summer sweats A lot and requires different types of razors",
+      "The skin is dry in winter, and the requirements for shavers are different",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Do you think the number of blades on the razor will affect the shaving effect?",
+    "options": [
+      "Yes, the more the better",
+      "Yes, but not the more the better",
+      "No, the key depends on the quality of the tool head"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you buy a limited edition razor?",
+    "options": [
+      "Yes, I think it's very collectible",
+      "Yes, if the price is reasonable",
+      "No, not limited edition"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you feel that the brand image of the razor affects your personal image?",
+    "options": [
+      "Yes, big brands are more classy",
+      "Yes, it reflects personal taste to some extent",
+      "No, as long as it works"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Would you buy a shaver because its design has won a design award?",
+    "options": [
+      "Yes, the quality of products with good design will not be poor",
+      "May be, as one of the reference factors",
+      "No, I don't care about design awards"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Would you like to participate in the new product trial of shaver?",
+    "options": [
+      "I'd love to",
+      "Yes, but with conditions",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "If so, what support would you like in a trial campaign? (Multiple options available)",
+    "options": [
+      "Detailed instructions for use",
+      "After-sales guarantee",
+      "Opportunities to communicate with R&D staff",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think the current pricing strategy of shavers in the market is reasonable?",
+    "options": [
+      "Reasonable",
+      "Some products are overpriced",
+      "Some products are priced too low",
+      "Unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you pay attention to the origin of razors?",
+    "options": [
+      "Yes, the quality of products from certain places is more guaranteed",
+      "Yes, but not much",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy used razors?",
+    "options": [
+      "Yes, it is cost-effective",
+      "No, there are concerns about hygiene and quality",
+      "It depends"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Would you buy a shaver because it has personalized options (such as lettering, choice of color combinations, etc.)?",
+    "options": [
+      "Yes, it's very attractive",
+      "Maybe, depending on the price and effectiveness of the customization",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Do you think the sound of the razor has any effect on your use?",
+    "options": [
+      "It has A great impact",
+      "It has certain influence",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Would you buy a razor because it was designed by a well-known designer?",
+    "options": [
+      "Yes, believe in the designer's aesthetic and quality",
+      "Maybe, as a plus",
+      "No, only focus on the function of the product itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you buy a razor with a special material tip, such as a ceramic tip?",
+    "options": [
+      "Yes, feel good material effect will be good",
+      "Maybe, want to try new materials",
+      "No, do not understand the advantages of special materials"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you feel that the type of charging interface of the shaver will affect your choice?",
+    "options": [
+      "Yes, the universal interface is more convenient",
+      "Yes, but not a decisive factor",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Would you choose to buy a shaver because it has wireless charging?",
+    "options": [
+      "Yes, it's convenient",
+      "Maybe, depending on the price",
+      "No, it is not considered a necessary function"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Will you buy a razor that is waterproof but costs more?",
+    "options": [
+      "Yes, the waterproof function is very practical",
+      "It may, taking into account other factors",
+      "No, I don't think it's necessary to pay more for the waterproof function"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you choose to buy a shaver brand because it has a good public welfare image?",
+    "options": [
+      "Yes, supporting socially responsible brands",
+      "May be, as a reference factor",
+      "No, just focus on the product itself"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you choose to buy a shaver because its instructions are easy to understand and operate?",
+    "options": [
+      "Yes, the instructions are clear and easier to use",
+      "It may, to some extent",
+      "No, I don't pay much attention to the instructions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you buy a razor with smart connectivity features such as connectivity to your mobile APP?",
+    "options": [
+      "Yes, it feels very new and technological",
+      "Maybe, depending on whether the function is practical",
+      "No, I don't think it's necessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you choose to buy a razor because it has a special design for sensitive skin?",
+    "options": [
+      "Yes, sensitive skin requires special care",
+      "It may be. First understand the specific effects",
+      "No, I don't think I have sensitive skin"
+    ],
+    "correctAnswer": ""
+  }
+]

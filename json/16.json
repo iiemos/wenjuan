@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1,
+    "question": "Your gender:",
+    "options":  [
+      "Male",
+      "Female"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Your age:",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-25",
+      "Ages 26-35",
+      "36-45 years old",
+      "46-55 years old",
+      "Over 55 years of age"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Your education:",
+    "options": [
+      "Junior high school and below",
+      "High school/technical secondary school",
+      "Junior College",
+      "Undergraduate",
+      "Master degree or above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Your occupation:",
+    "options": [
+      "Students",
+      "Office workers",
+      "Freelancers",
+      "Retirees",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "Do you follow the Olympics?",
+    "options": [
+      "Very concerned, watch every session",
+      "More attention, important events will watch",
+      "Occasional attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Which of the following ways do you usually get Olympic-related information? (Multiple options available)",
+    "options": [
+      "Television",
+      "Network",
+      "Newspapers and magazines",
+      "Social media",
+      "Broadcasting",
+      "Others tell"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "How much time do you spend on Olympic news per day?",
+    "options": [
+      "More than 1 hour",
+      "30 minutes - 1 hour",
+      "15-30 minutes",
+      "Less than 15 minutes"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What is your main reason for following the Olympic Games? (Multiple options available)",
+    "options": [
+      "Love sports",
+      "Cheer for the national athletes",
+      "Enjoy a good game",
+      "Follow sports stars",
+      "Add social topics",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What is your favorite Olympic event? (Multiple options available)",
+    "options": [
+      "Track and field",
+      "Swimming",
+      "Gymnastics",
+      "Basketball",
+      "Football",
+      "Table tennis",
+      "Badminton",
+      "Weightlifting",
+      "Shooting",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Why did you choose your favorite Olympic event? (Multiple options available)",
+    "options": [
+      "The game is exciting",
+      "Chinese athletes advantage events",
+      "Personal interests",
+      "The rules are simple and easy to understand",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What is your least favorite Olympic event? (Multiple options available)",
+    "options": [
+      "Equestrian",
+      "Sailing boats",
+      "Wrestling",
+      "Judo",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What do you dislike about some Olympic events? (Multiple options available)",
+    "options": [
+      "The game is not enjoyable",
+      "Don't know the rules",
+      "Not interested in the project",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "How many Olympic champions can you name?",
+    "options": [
+      "More than 5 digits",
+      "3-5 digits",
+      "Bits 1 or 2",
+      "Can't say"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Who is your favorite Olympic athlete? Why?",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "What do you think is the most admirable quality in an Olympic athlete? (Multiple options available)",
+    "options": [
+      "Perseverance",
+      "The spirit of transcendence",
+      "Team spirit",
+      "A sense of honor for the country",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "What support do you think should be given to the development of Olympic athletes after retirement? (Multiple options available)",
+    "options": [
+      "Career guidance and training",
+      "Financial support",
+      "Educational opportunities",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What is your attitude towards the mistakes made by the athletes in the Olympic Games?",
+    "options": [
+      "Understanding and tolerance, continue to support",
+      "Disappointed, but still concerned",
+      "Criticize",
+      "Stop paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "How do you think hosting the Olympic Games will affect the economic development of the host cities?",
+    "options": [
+      "It has A great promotion effect",
+      "It has a certain promoting effect",
+      "Little impact",
+      "Have negative effects"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "How do you think the Olympic Games will affect the infrastructure of the host city (such as transportation, venues, etc.)?",
+    "options": [
+      "Significant improvement",
+      "There has been some improvement",
+      "Little has changed",
+      "Waste of resources"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Have you ever been to an Olympic city to watch an event?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "If you have the chance, would you like to travel to the Olympic host city?",
+    "options": [
+      "I'd love to",
+      "More willing",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Are you satisfied with the utilization of the Olympic venues after the games?",
+    "options": [
+      "Very satisfied",
+      "Satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "What role do you think the Olympic Games play in promoting communication between different countries and cultures?",
+    "options": [
+      "It is very important and greatly promotes cultural exchange",
+      "It is more important and has a certain promoting effect",
+      "The effect is modest",
+      "It has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Do you know the origin and history of the Olympic Games?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "What do you think are the main aspects of the cultural value of the Olympic Games? (Multiple options available)",
+    "options": [
+      "Passing on the Olympic spirit",
+      "Display the cultural characteristics of each country",
+      "Promoting world peace and solidarity",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Have you ever followed the opening and closing ceremonies of the Olympic Games?",
+    "options": [
+      "Very attentive, every must see",
+      "More attention, wonderful will see",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "What is your assessment of the opening and closing ceremonies based on? (Multiple options available)",
+    "options": [
+      "Artistic performance",
+      "Lighting and sound effects",
+      "Theme ideas",
+      "Athletes' entrance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you think the commercialization of the Olympic Games is conducive to its development?",
+    "options": [
+      "Very favorable, financial support provided",
+      "There are pros and cons",
+      "The disadvantages outweigh the advantages",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you be buying Olympic related merchandise (mascots, souvenirs, etc.)?",
+    "options": [
+      "Buy frequently",
+      "Buy occasionally",
+      "Purchase only under special circumstances",
+      "Never buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "What are your main reasons for buying Olympics-related goods? (Multiple options available)",
+    "options": [
+      "Collect memorials",
+      "Support the Olympics",
+      "The goods are attractive",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Will your brand image of an Olympic sponsor be enhanced by their sponsorship of the Games?",
+    "options": [
+      "Significant improvement",
+      "There has been some improvement",
+      "There is no change",
+      "Reduce"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What is your most impressive Olympic Games? Why?",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Have you ever watched an Olympic event live?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "If so, which match left the most impression on you? Why?",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Have you ever participated in any Olympic celebrations?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "How concerned are people around you about the Olympics?",
+    "options": [
+      "Very high",
+      "Higher",
+      "General",
+      "Lower",
+      "It's very low"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you change your life or work schedule because of the Olympics?",
+    "options": [
+      "Yes, often",
+      "Yes, occasionally",
+      "Hardly"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "How do you think the Olympics have affected your personal life?",
+    "options": [
+      "Great positive impact",
+      "It has certain positive effects",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you discuss Olympic topics with your friends and family?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Will your spending habits change during the Olympics?",
+    "options": [
+      "Will increase consumption",
+      "Basically unchanged",
+      "Will reduce consumption"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you think the Olympic Games will help promote friendly international relations?",
+    "options": [
+      "Very helpful",
+      "It helps",
+      "Not much help",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think watching the Olympic Games will motivate you to take part in physical exercise?",
+    "options": [
+      "Yes, it's very exciting",
+      "Yes, there is some excitement",
+      "Hardly",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you think the Olympics will raise the public's awareness of a healthy lifestyle?",
+    "options": [
+      "Yes, A lot of improvement",
+      "Yes, there will be some improvement",
+      "Not much improvement",
+      "No promotion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you understand some of the health concepts and knowledge of the Olympic Games (such as proper diet, scientific training, etc.)?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Do you think the health management model of Olympic athletes can be used as a reference for ordinary people?",
+    "options": [
+      "It makes A lot of sense",
+      "It has some significance",
+      "It doesn't mean much",
+      "There is no point"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do some of the sports injuries in the Olympic Games make you more aware of your own protection during sports activities?",
+    "options": [
+      "Yes, very much",
+      "Yes, more attention",
+      "Average level of attention",
+      "Don't pay attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think the Olympics should pay more attention to athletes' physical and mental health?",
+    "options": [
+      "Very much",
+      "Should",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you think the application of technology in the Olympic Games (such as electronic judging, high-definition broadcasting, etc.) has improved the fairness and enjoyment of the games?",
+    "options": [
+      "Great improvement",
+      "There has been some improvement",
+      "Not much improvement",
+      "No promotion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Are you concerned about the new products and technologies in the Olympic Games?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "How do you think the development of technology will affect the future development of the Olympic Games?",
+    "options": [
+      "Great positive impact",
+      "It has certain positive effects",
+      "Little impact",
+      "May have negative effects"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Would you like to see more high-tech elements incorporated into the Olympics?",
+    "options":  [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "No hope"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "What do you think of the future of the application of artificial intelligence in the Olympic Games (such as athlete training assistance, competition data analysis, etc.)?",
+    "options": [
+      "Broad prospects",
+      "It has certain prospects",
+      "Uncertain prospects",
+      "Not optimistic"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Are you worried that the overuse of technology will diminish the human spirit of the Olympics?",
+    "options": [
+      "Very worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you think schools should strengthen the education of Olympic Games and sportsmanship?",
+    "options": [
+      "Very much",
+      "Should",
+      "Dispensable",
+      "Should not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the story and spirit of the Olympic Games have a positive effect on the growth of young people?",
+    "options": [
+      "It has A great positive effect",
+      "It has certain positive effects",
+      "Little effect",
+      "It has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Do you support schools to organize students to watch the Olympic Games?",
+    "options": [
+      "Very supportive",
+      "Support",
+      "It doesn't matter",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think the Olympic Games can be used as an educational resource to develop students' sense of teamwork and competition?",
+    "options": [
+      "Yes, it works very well",
+      "Yes, it has some effect",
+      "The effect is not obvious",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you want to add Olympics-related content (such as Olympic history, project introduction, etc.) to your educational curriculum?",
+    "options": [
+      "Very much",
+      "More hopeful",
+      "It doesn't matter",
+      "No hope"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you think education through the Olympics is helpful in developing students' international perspective and cultural tolerance?",
+    "options": [
+      "It helps A lot",
+      "It helps",
+      "Not much help",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the Olympic Games should focus on environmental protection measures (such as reducing carbon emissions, recycling resources, etc.)?",
+    "options": [
+      "Very much",
+      "Should",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Are you concerned about the environmental measures and achievements of the Olympic Games?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you think the Olympic Games will promote the environmental protection of the host cities?",
+    "options": [
+      "Yes, it's A big push",
+      "Yes, it has a certain push effect",
+      "Little push effect",
+      "No impetus"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you support the use of more environmentally friendly materials and renewable energy in the Olympics?",
+    "options": [
+      "Very supportive",
+      "Support",
+      "It doesn't matter",
+      "No support"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Do you think that athletes and spectators should practice environmentally friendly behaviors (such as reducing the use of disposable goods, garbage separation, etc.) during the Olympic Games?",
+    "options": [
+      "Very much",
+      "Should",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Are you aware of some of the environmental projects and initiatives in the Olympic Games?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you think environmental protection should be an important consideration in future Olympic Games?",
+    "options": [
+      "Should, is the primary factor",
+      "Should, is one of the important factors",
+      "It is of some importance",
+      "Not important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Do you think the Olympic Games should limit the number of participants per country?",
+    "options": [
+      "Yes, it is conducive to fair competition",
+      "Monopoly by certain countries should be avoided",
+      "No, every country should have equal opportunities",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you think the rules of the Olympic Games need to be updated and adjusted frequently?",
+    "options": [
+      "Need to adapt to the development of The Times",
+      "Make occasional adjustments",
+      "No, keep the tradition",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Do you think that the Olympic Games should add some non-competitive events (such as cultural performances, art exhibitions, etc.)?",
+    "options": [
+      "Yes, enrich the content of the Olympic Games",
+      "It can be considered and has some attraction",
+      "There's no need. Keep sports as the main thing",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "What do you think of the role of the Olympics in promoting the development of niche sports?",
+    "options": [
+      "It has A great effect, improving visibility and participation",
+      "It has some effect, but the effect is limited",
+      "The effect is small",
+      "Almost no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you follow the volunteer service of the Olympic Games?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Do you think volunteer service is important to the success of the Olympic Games?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Generally important",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Would you like to be a volunteer for the Olympic Games?",
+    "options": [
+      "I'd love to",
+      "Yes, but it depends on the circumstances",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Do you think the design of Olympic MEDALS is important?",
+    "options": [
+      "Very important, it is A cultural symbol",
+      "More important, can reflect the characteristics of the game",
+      "Less important, more focused on the game itself",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you think the Olympics have been helpful in promoting mutual understanding between people of different religious and cultural backgrounds?",
+    "options": [
+      "It helps A lot",
+      "It helps",
+      "Not much help",
+      "No help"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Are you aware of the security of the Olympic Games and its importance?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Do you think the security measures of the Olympic Games will affect the spectator experience?",
+    "options": [
+      "Great impact and inconvenience",
+      "There is a certain impact, but it is acceptable",
+      "The impact is small",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Do you think the Olympic Games should have more amateur competitions so that non-professional athletes can participate?",
+    "options": [
+      "The participation of all should be increased",
+      "Can consider, enrich the form of the competition",
+      "No need. Keep it professional",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "How do you think the Olympic Games will promote sports science and technology research?",
+    "options": [
+      "The effect is significant and promotes A lot of innovation",
+      "It has some effect, but it is not obvious enough",
+      "The effect is small",
+      "Almost no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Are you concerned about the diet and nutrition of athletes during the Olympic Games?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 81,
+    "question": "How long do you think the Olympic Games will last for the tourism development of the host city?",
+    "options": [
+      "Long-term sustainability to form A brand effect",
+      "Medium-term duration, with effects over several years",
+      "Short-term impact, only for the duration of the event",
+      "Almost no impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 82,
+    "question": "Do you think the broadcasting rights sales model of the Olympic Games is reasonable?",
+    "options": [
+      "Very reasonable and guaranteed the source of funds for the event",
+      "More reasonable, but could be improved",
+      "Not very reasonable, there is a monopoly problem",
+      "Totally unreasonable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 83,
+    "question": "Do you think the Olympic Games should focus more on the number of gold MEDALS or the athletes' fighting spirit?",
+    "options": [
+      "The number of gold MEDALS, representing national strength",
+      "Fighting spirit, more valuable",
+      "Both are equally important",
+      "Hard to say"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 84,
+    "question": "Are you aware of the anti-doping testing at the Olympic Games and how strict it is?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 85,
+    "question": "How important do you think anti-doping is to the fairness of the Olympic Games?",
+    "options": [
+      "Vital and must be strictly implemented",
+      "It is more important, but it can be relaxed",
+      "Generally important, not the most critical",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 86,
+    "question": "Do you think esports should be added to the Olympics?",
+    "options": [
+      "Yes, in line with the trend of The Times",
+      "It can be considered, and first observe its development",
+      "No, it doesn't belong to traditional sports",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  }
+]

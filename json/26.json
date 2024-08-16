@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you drink beer?",
+    "options": [
+      "Every day",
+      "Several times a week",
+      "Several times a month",
+      "Hardly ever"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "On what occasions do you usually drink beer?",
+    "options": [
+      "Party",
+      "Leisure at home",
+      "Dining at the restaurant",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Which type of beer do you prefer?",
+    "options": [
+      "Light beer",
+      "Dark beer",
+      "Wheat beer",
+      "Fruity beer"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Do you pay more attention to beer selection?",
+    "options": [
+      "Brand",
+      "Price",
+      "Taste",
+      "Packing"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What range of alcohol do you think is appropriate for beer?",
+    "options": [
+      "2% - 4%",
+      "4% - 6%",
+      "6% - 8%",
+      "More than 8%"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is your main source of beer purchase?",
+    "options": [
+      "Supermarket",
+      "Convenience stores",
+      "The bar",
+      "Online mall"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Do you try a new beer brand because of advertising?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What's your impression of domestic beer?",
+    "options": [
+      "High cost performance",
+      "The taste is mediocre",
+      "Diverse brands",
+      "Lack of innovation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What do you think of imported beer?",
+    "options": [
+      "Better quality",
+      "The price is on the high side",
+      "Unique taste",
+      "Difficult to buy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you think the foam of beer is important?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "Not very important",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Would you choose a non-alcoholic beer?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What do you think the aroma of beer should be?",
+    "options": [
+      "Malt aroma",
+      "Fruity",
+      "Flowers",
+      "Other special aromas"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What food do you eat with your beer?",
+    "options": [
+      "Barbecue",
+      "Seafood",
+      "Snacks",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Which packaging of beer do you find more attractive?",
+    "options": [
+      "Glass bottles",
+      "Cans",
+      "Barrels",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Would you like to try a new beer?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you think the color of the beer will affect your choice?",
+    "options": [
+      "Yes, very important",
+      "Yes, it does",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What do you think is the standard of good beer?",
+    "options": [
+      "High quality raw materials",
+      "Exquisite brewing technology",
+      "Rich taste",
+      "All of the above"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you choose to buy beer because of its origin?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you know how beer is made?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Do you think the shelf life of beer has an impact on your purchase?",
+    "options": [
+      "Great influence",
+      "It has certain influence",
+      "Little impact",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you buy limited edition beer?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "In what range do you think the price of beer is more acceptable?",
+    "options": [
+      "Less than 5",
+      "Five to ten",
+      "10-20",
+      "More than 20"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Will you buy more beer because of the promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Which size of beer do you prefer?",
+    "options": [
+      "330ml",
+      "500ml",
+      "1L",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Do you find the brand story of beer appealing to you?",
+    "options": [
+      "Very attractive",
+      "It has a certain appeal",
+      "Not very attractive",
+      "Totally unattractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you pay attention to the nutrition facts of beer?",
+    "options": [
+      "Definitely will",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Which beer do you find more refreshing?",
+    "options": [
+      "Pure draft beer",
+      "Dry beer",
+      "Cold beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you choose to buy beer because of the award?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What level of sweetness do you think is appropriate for beer?",
+    "options": [
+      "It's sweet",
+      "Slightly sweet",
+      "Not sweet",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Which way do you prefer to drink beer?",
+    "options": [
+      "Chilled",
+      "Room temperature",
+      "Heating",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Would you buy craft beer?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "What do you think are the characteristics of craft beer?",
+    "options": [
+      "Personalization",
+      "High quality",
+      "High prices",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Will you buy beer because of its beautiful packaging design?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which beer do you think would go well with hot pot?",
+    "options": [
+      "Light type",
+      "Rich type",
+      "Height number",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "What kind of beer do you think is suitable for women?",
+    "options": [
+      "Fruity beer",
+      "Low alcohol beer",
+      "Soft tasting beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Would you buy low-sugar beer?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "To what extent do you think the bitterness of beer is acceptable?",
+    "options": [
+      "It's bitter",
+      "Slightly bitter",
+      "Hardly bitter",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Would you choose organic beer?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "What kind of beer do you think is suitable for drinking in summer?",
+    "options": [
+      "Pale beer",
+      "Dark beer",
+      "Specialty Beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Will you choose to buy beer because of its environmental concept?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "What kind of beer do you think is suitable for drinking in winter?",
+    "options": [
+      "Height count beer",
+      "Spiced beer",
+      "Strong alcohol beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you buy beer with special ingredients (such as honey, coffee, etc.)?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "What kind of beer do you think is suitable for drinking after exercise?",
+    "options": [
+      "Alcohol-free beer",
+      "Low-calorie beer",
+      "Beer with electrolytes",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you choose to buy beer because of the culture of its origin?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "What kind of beer do you think is suitable for gifts?",
+    "options": [
+      "Premium brand beer",
+      "Specialty packaged beer",
+      "Limited edition beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Would you buy a memorable beer?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "What kind of beer do you think is suitable for an outdoor picnic?",
+    "options": [
+      "Portable packaged beer",
+      "Fresh tasting beer",
+      "Easy to preserve beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Will you choose to buy beer because of the brand spokesperson?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Which beer do you think would go well with dessert?",
+    "options": [
+      "Sweet beer",
+      "Beer with a strong aroma",
+      "Low alcohol beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you buy collectible beer?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Which beer do you think would go well with a fruit salad?",
+    "options": [
+      "Fruity beer",
+      "Light beer",
+      "Low alcohol beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you choose to buy beer because of the innovation of the production process?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Which beer do you think would go well with the roast?",
+    "options": [
+      "Strong beer",
+      "Height count beer",
+      "Smoky beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you buy niche brands of beer?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Which beer do you think would go well with cheese?",
+    "options": [
+      "Full-bodied beer",
+      "Bitter beer",
+      "Beer with complex aroma",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you choose to buy beer because of the advertising idea?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Which beer do you think goes well with nuts?",
+    "options": [
+      "A beer with a strong aroma",
+      "Rich tasting beer",
+      "Beer with higher alcohol content",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you buy functional beers (health, beauty, etc.)?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Which beer do you think would go well with seafood congee?",
+    "options": [
+      "Light beer",
+      "Wheat flavored beer",
+      "Low brew beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you choose to buy beer because the brand has a long history?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Which beer do you think would go well with the spicy pot?",
+    "options": [
+      "Anti-spicy beer",
+      "Strong beer",
+      "Beer with plenty of bubbles",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Would you buy beer without additives?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "NeverNever"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Which beer do you think is suitable for Chinese stir-fry?",
+    "options": [
+      "Domestic beer",
+      "Beer with unique flavor",
+      "Beer to match the taste of the dishes",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you choose to buy beer because of its fashionable brand image?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Which beer do you think is suitable for Western fast food?",
+    "options": [
+      "Imported beer",
+      "Light beer",
+      "Beer that harmonizes with the taste of fast food",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you buy local beers?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Which beer do you think would go well with sushi?",
+    "options": [
+      "Japanese style beer",
+      "Beer with a pure taste",
+      "Low alcohol beer",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Will you choose to buy beer because of its good reputation?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Which beer do you think would go well with pasta?",
+    "options": [
+      "Beer to go with the sauce",
+      "A full-bodied beer",
+      "Beer with Mediterranean flavor",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you choose to buy beer because of its high brand recognition?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  }
+]

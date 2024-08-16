@@ -1,0 +1,949 @@
+[
+  {
+    "id": 1,
+    "question": "Have you ever used massage products?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "How often do you buy massage supplies?",
+    "options": [
+      "Several times A week",
+      "Once a month",
+      "Once a quarter",
+      "Once a year",
+      "Never purchased"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is the main purpose of your purchase of massage supplies?",
+    "options": [
+      "Relieve physical fatigue",
+      "Treatment of disease",
+      "Relax",
+      "Give it as a gift",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "Where do you usually buy massage supplies?",
+    "options": [
+      "Specialty Stores",
+      "Supermarkets",
+      "Online mall",
+      "Corner store",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "When you choose massage supplies, what is the most concerned factor?",
+    "options": [
+      "Brand",
+      "Price",
+      "Quality",
+      "Function",
+      "Appearance"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "What price range of massage supplies can you accept?",
+    "options": [
+      "Less than 50 $",
+      "50 to 100 $",
+      "101-200 $",
+      "201-500 $",
+      "More than 500 $"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "What kind of massage supplies do you prefer to buy?",
+    "options": [
+      "Massage chair",
+      "Massage pillow",
+      "Massage pad",
+      "Massage stick",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you prefer the massage strength of the massage supplies?",
+    "options": [
+      "Gentle",
+      "Moderate",
+      "Strong"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What additional functions do you want massage products to have?",
+    "options": [
+      "Heating function",
+      "Music playback function",
+      "Intelligent control function",
+      "No additional functions"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you buy massage products because of advertising?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you buy massage supplies because your friends recommend?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Will you buy massage supplies because of the promotion?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "What is your material preference for massage supplies?",
+    "options": [
+      "Leather",
+      "Fabric",
+      "Plastic",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you think the color of massage supplies has a big impact on your purchase decision?",
+    "options": [
+      "Big",
+      "Larger",
+      "General",
+      "Smaller",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Which design of massage supplies do you prefer to buy?",
+    "options": [
+      "Simple type",
+      "Fashion type",
+      "Cute type",
+      "Luxury type",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you have any requirements on the size of massage supplies?",
+    "options": [
+      "Small and portable",
+      "Medium size",
+      "Large and comfortable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Will you purchase massage supplies with multiple massage modes?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you prefer to buy massage products with manual control or automatic control?",
+    "options": [
+      "Manual control",
+      "Automatic control"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Will you buy rechargeable massage supplies?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "What is the level of noise you can accept from massage products?",
+    "options": [
+      "Completely silent",
+      "Slight noise",
+      "Moderate noise",
+      "Loud noise"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Will you buy massage supplies that are waterproof?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Will you buy massage products that can adjust the height?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Do you buy massage supplies that can be removed and cleaned?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Will you buy massage supplies with massage point indication function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "Will you buy massage products with timing function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "How concerned are you about the warranty period of massage products?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "General concern",
+      "Don't pay much attention",
+      "No attention at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Do you buy massage products from well-known brands?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Will you buy massage products with international certification marks?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Will you buy massage products with eco-friendly materials?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "Will you buy massage products with ergonomic design?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Will you buy massage supplies with personalized customization?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Will you purchase massage supplies with massage essential oils?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Will you purchase massage products with massage head replacement function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Will you buy massage products with wireless remote control function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Will you buy massage products with memory function?",
+    "options": [
+      "Definitely will",
+           "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Will you purchase massage products with massage site indication function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Will you buy massage products with voice prompt function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "Will you buy massage products with air bag massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Will you buy massage products with vibration massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Will you buy massage products with kneading function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Will you buy massage products with massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Will you buy massage products with shiatsu function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Will you buy massage products with hammer massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Will you buy massage supplies with scraping massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Will you buy massage products with cupping function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Will you purchase massage products with foot massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Will you buy massage products with lumbar massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Will you buy massage products with neck massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Will you buy massage products with shoulder massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Will you buy massage products with back massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Will you buy massage products with leg massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Will you buy massage products with hand massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Will you buy massage products with head massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Will you buy massage products with full body massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Will you buy massage products with topical massage function?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Will you buy massage products that are designed for seniors?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Will you buy massage products designed for office workers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you buy massage products that are designed for sports people?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Do you buy massage products that are designed for women?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Will you buy massage products designed for men?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Will you buy massage products designed for children?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you buy massage products that are designed for pregnant women?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Will you buy massage products that are designed for people with disabilities?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you purchase massage products that have been designed for recovering patients?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you buy massage products that are designed for specific occupational groups?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Do you buy massage products that are designed for long-distance travelers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Will you buy massage products that are designed for insomnia?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you buy massage products designed for people with high stress levels?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you buy massage products with adjuvant treatment for common diseases of the elderly?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Will you buy massage products with auxiliary treatment functions for common diseases of office workers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Will you purchase massage products that can assist in the treatment of common injuries among sports people?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Will you buy massage products with adjuvant treatment for common diseases in women?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Will you buy massage products with adjuvant treatment for common diseases in men?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Will you buy massage products with adjuvant treatment for common diseases in children?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Will you buy massage products that help relieve common discomfort of pregnant women?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Will you purchase massage products that assist in relieving common physical complaints of persons with disabilities?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 77,
+    "question": "Will you purchase massage products that help improve common problems of recovering patients?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 78,
+    "question": "Will you purchase massage products that can assist in the treatment of common occupational diseases in special occupational groups?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 79,
+    "question": "Do you buy massage products that help relieve common body fatigue among long-distance travelers?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 80,
+    "question": "Will you buy massage products that help improve sleep problems common to people with insomnia?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not sure",
+      " Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  }
+]

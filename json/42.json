@@ -1,0 +1,847 @@
+[
+  {
+    "id": 1,
+    "question": "Do you often use disposable utensils?",
+    "options": [
+      "Use it every day",
+      "Regular use (more than 3 times per week)",
+      "Occasional use (1-2 times per week)",
+      "Rarely used (1-2 times per month)",
+      "Hardly ever"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "In which of the following scenarios do you use disposable tableware? (Multiple options available)",
+    "options": [
+      "Take-out",
+      "Dining in a restaurant",
+      "Picnic",
+      "Office dining",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "What is the main reason you choose to use disposable tableware?",
+    "options": [
+      "Convenient and fast",
+      "Feel hygienic",
+      "No reusable cutlery",
+      "Merchants only provide disposable tableware",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What do you think are the main advantages of disposable tableware?",
+    "options": [
+      "Convenience",
+      "Hygiene",
+      "Low cost",
+      "Good appearance",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What do you think are the main disadvantages of disposable tableware?",
+    "options": [
+      "Not environmentally friendly",
+      "Poor quality",
+      "Possible security risks",
+      "Waste of resources",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you know the harm of disposable tableware to the environment?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Yes, but I'm not sure",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following disposable tableware do you think is the most harmful to the environment?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Are you willing to reduce the use of disposable utensils for the sake of environmental protection?",
+    "options": [
+      "Very willing, will try to avoid",
+      "Willing, but sometimes difficult to do",
+      "Not really willing, think it is inconvenient",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "If the restaurant offers reusable tableware, will you choose to use it?",
+    "options": [
+      "Definitely will",
+      "Maybe, it depends",
+      "Not sure",
+      "Probably not",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "Which of the following measures do you think can effectively reduce the use of disposable tableware? (Multiple options available)",
+    "options": [
+      "Strengthen environmental publicity",
+      "Raise the price of disposable tableware",
+      "Subsidize businesses that use reusable tableware",
+      "Introduce relevant laws and regulations to restrict the use",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "Do you support strict regulation of the production and use of disposable tableware?",
+    "options": [
+      "Very supportive",
+      "Support",
+      "It doesn't matter",
+      "No support",
+      "Firmly oppose"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "What do you think about the hygiene of disposable tableware?",
+    "options": [
+      "It's very hygienic",
+      "More hygienic",
+      "General",
+      "Not very hygienic",
+      "It's unsanitary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Are you concerned about the health effects of chemicals in disposable tableware?",
+    "options": [
+      "Very worried",
+      "A little worried",
+      "Not too worried",
+      "Not worried at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you take the initiative to ask not to use disposable tableware when buying takeout?",
+    "options": [
+      "Always",
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Which of the following disposable tableware do you think is more likely to be recycled?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Do you know how to properly dispose of used disposable utensils?",
+    "options": [
+      "Very clear",
+      "Know some",
+      "I'm not sure",
+      "Have no idea"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Which of the following materials do you think degrade the fastest?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Are you willing to pay a higher price for using environmentally friendly disposable tableware?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you think the use of disposable tableware should be completely banned?",
+    "options": [
+      "Yes, ban it immediately",
+      "It should be gradually reduced and eventually banned",
+      "It should not be banned, but it should be strictly managed",
+      "Should not be prohibited, no need to manage"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Which of the following industries do you think uses disposable tableware the most?",
+    "options": [
+      "Catering industry",
+      "Food delivery industry",
+      "Tourism industry",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you think the manufacturers of disposable tableware should take more environmental responsibility?",
+    "options": [
+      "Should",
+      "It shouldn't",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "Are you concerned about the raw materials for the production of disposable tableware?",
+    "options": [
+      "Very concerned",
+      "Pay more attention",
+      "Occasional attention",
+      "Not paying attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "Which of the following ways do you think can improve the environmental performance of disposable tableware? (Multiple options available)",
+    "options": [
+      "Use degradable materials",
+      "Reduce packaging",
+      "Optimize design and reduce material use",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "Would you like to bring your own utensils to reduce the use of disposable utensils?",
+    "options": [
+      "Very willing, often",
+      "Yes, but it's not convenient",
+      "Occasionally",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "In your opinion, which of the following aspects will be affected by the overuse of disposable tableware? (Multiple options available)",
+    "options": [
+      "Soil quality",
+      "Water quality",
+      "Air quality",
+      "Biodiversity",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you think the government should invest more in research and development of disposable tableware alternatives?",
+    "options": [
+      "Yes, invest heavily",
+      "Appropriate input should be provided",
+      "Commitment doesn't matter",
+      "Should not invest"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "Which of the following disposable tableware alternatives do you think is the most practical?",
+    "options": [
+      "Stainless steel tableware",
+      "Glass tableware",
+      "Foldable tableware",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you know the production process of disposable tableware?",
+    "options": [
+      "Very well",
+      "Know something about it",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "Do you think the quality of disposable tableware is directly proportional to the price?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "When choosing disposable tableware, which of the following aspects do you pay more attention to?",
+    "options": [
+      "Price",
+      "Quality",
+      "Appearance",
+      "Brand"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you think the popularity of disposable tableware is an unsustainable consumption pattern?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Which of the following measures do you think can encourage businesses to offer less disposable tableware? (Multiple options available)",
+    "options": [
+      "Consumer complaints",
+      "Industry self-regulation",
+      "Government fines",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "Do you think the use of disposable tableware will affect the image of the city?",
+    "options": [
+      "Yes, there are negative effects",
+      "No, it has no effect",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Which of the following disposable tableware do you think is most likely to be broken during use?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you think the use of disposable tableware is related to personal environmental awareness?",
+    "options": [
+      "It matters A lot",
+      "It has a certain relationship",
+      "It doesn't matter",
+      "It's okay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "Are you willing to participate in environmental protection activities to promote the use of disposable tableware?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "Which age group do you think is more inclined to use disposable tableware?",
+    "options": [
+      "Under 18 years old",
+      "Ages 18-30",
+      "31-50 years old",
+      "Over 50 years old"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "How often do you think disposable tableware will be used in the future?",
+    "options": [
+      "Increase",
+      "Reduction",
+      "Keep it the same",
+      "Not sure"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Which of the following places do you think should give priority to banning the use of disposable tableware?",
+    "options": [
+      "School",
+      "Hospitals",
+      "Government agencies",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Do you think the massive use of disposable tableware will increase the cost of garbage disposal?",
+    "options": [
+      "Yes, A substantial increase",
+      "Yes, there will be a certain increase",
+      "Little impact",
+      "Will not increase"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Which of the following disposable tableware do you think consumes the most resources?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think that merchants should provide consumers with more choices instead of providing disposable tableware by default?",
+    "options": [
+      "Should",
+      "It shouldn't",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "How difficult do you think it is to recycle disposable tableware?",
+    "options": [
+      "Very difficult",
+      "It's more difficult",
+      "General",
+      "It's relatively easy",
+      "It's very easy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "Do you think the production and use of disposable tableware will increase energy consumption?",
+    "options": [
+      "Yes, seriously",
+      "Yes, it does",
+      "Little impact",
+      "It will not affect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Which of the following disposable tableware do you think has the most serious environmental pollution in the production process?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Would you like to buy reusable tableware as a gift to others?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think the widespread use of disposable tableware will affect the environmental awareness of the next generation?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Which of the following factors do you think is the most important to reduce the use of disposable tableware?",
+    "options": [
+      "Personal environmental awareness",
+      "Government policy",
+      "Merchant action",
+      "Public opinion"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you think the use of disposable tableware will affect food safety?",
+    "options": [
+      "Yes, it will have A great impact",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Which of the following disposable tableware raw materials do you think has the greatest ecological damage?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "Are you willing to change your lifestyle in order to reduce the use of disposable tableware?",
+    "options": [
+      "Very willing, will try to change",
+      "Yes, try to change",
+      "Reluctant, difficult to change",
+      "Not willing to change"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Which of the following promotional methods do you think is most effective in reducing the use of disposable tableware? (Multiple options available)",
+    "options": [
+      "Television advertising",
+      "Internet publicity",
+      "Community activities",
+      "Schooling",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you think the use of disposable tableware will affect the sustainable development of cities?",
+    "options": [
+      "Yes, seriously",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "In which season do you think the use of disposable tableware is relatively large?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "Do you think the use of disposable tableware is related to the income level of consumers?",
+    "options": [
+      "It matters A lot",
+      "It has a certain relationship",
+      "It doesn't matter",
+      "It's okay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "Which of the following disposable tableware do you think will do the most damage to the environmental landscape after being discarded?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Are you willing to buy products without disposable tableware packaging?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "How much impact do you think the use of disposable tableware will have on the environment of tourist attractions?",
+    "options": [
+      "Great influence",
+      "Great impact",
+      "General impact",
+      "Minor impact",
+      "Almost no impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "Which of the following disposable tableware do you think is most likely to be damaged during transportation?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "Do you think the usage habits of disposable tableware are related to regional culture?",
+    "options": [
+      "It matters A lot",
+      "It has a certain relationship",
+      "It doesn't matter",
+      "It's okay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Which of the following disposable tableware do you think takes up the most space during storage?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Are you willing to support the campaign launched by environmental organizations to reduce the use of disposable utensils?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think the use of disposable tableware will affect consumers' impression of merchants?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Which of the following countries or regions do you think has done a better job in the management of disposable tableware?",
+    "options": [
+      "Europe",
+      "North America",
+      "Asia",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "Do you think the use of disposable tableware is related to the education level of consumers?",
+    "options": [
+      "It matters A lot",
+      "It has a certain relationship",
+      "It doesn't matter",
+      "It's okay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "Which of the following disposable tableware do you think generates the most waste in the production process?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Would you like to use the sterilized communal tableware provided by the restaurant when eating out?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "Do you think the use of disposable tableware will have an impact on agricultural production?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Which of the following industries do you think should take the lead in reducing the use of disposable tableware?",
+    "options": [
+      "Fast food",
+      "Hospitality industry",
+      "Tourism",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you think the use of disposable tableware is related to the gender of consumers?",
+    "options": [
+      "It matters A lot",
+      "It has a certain relationship",
+      "It doesn't matter",
+      "It's okay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Which of the following disposable tableware do you think is the least environmentally friendly disposal after use?",
+    "options": [
+      "Landfill",
+      "Incineration",
+      "Discard at will",
+      "Other"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "Are you willing to use reusable cutlery in your office?",
+    "options": [
+      "I'd love to",
+      "Yes",
+      "Not really",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Do you think the use of disposable tableware will have an impact on water resources?",
+    "options": [
+      "Yes, it has A big impact",
+      "Yes, it does",
+      "Little impact",
+      "No impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "Which age group do you think is more willing to support reducing the use of disposable tableware?",
+    "options": [
+      "Young people",
+      "Young and middle-aged people",
+      "Middle-aged and elderly",
+      "It's all the same"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 75,
+    "question": "Do you think the use of disposable tableware is related to the occupation of consumers?",
+    "options": [
+      "It matters A lot",
+      "It has a certain relationship",
+      "It doesn't matter",
+      "It's okay"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 76,
+    "question": "Which of the following disposable tableware do you think consumes the most water in the production process?",
+    "options": [
+      "Disposable plastic tableware",
+      "Disposable wooden tableware",
+      "Disposable paper tableware",
+      "Disposable foam tableware"
+    ],
+    "correctAnswer": ""
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you play games?",
+    "options": [
+      "Every day",
+      "3-5 times a week",
+      "1-2 times a week",
+      "Once or twice a month"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "How long do you usually play each game?",
+    "options": [
+      "Within 1 hour",
+      "1-2 hours",
+      "2-4 hours",
+      "More than 4 hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "When do you mainly play games?",
+    "options": [
+      "In the morning",
+      "In the afternoon",
+      "Evening",
+      "In the wee hours"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "What kind of device do you usually use to play games?",
+    "options": [
+      "Computers",
+      "Mobile phone",
+      "Game Console (such as PS, Xbox)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is your favorite type of game?",
+    "options": [
+      "Role-playing Games (RPGS)",
+      "Action games",
+      "Strategy games",
+      "Shooting games"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Which of the following role-playing game elements appeals to you most?",
+    "options": [
+      "Rich plot",
+      "A variety of character classes",
+      "Beautiful picture",
+      "Deep role development"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Do you pay more attention to action games?",
+    "options": [
+      "Feel of operation",
+      "Percussion effects",
+      "Level design",
+      "Types of enemies"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "What do you think is the most important thing in a strategy game?",
+    "options": [
+      "Resource management",
+      "Tactics and strategies",
+      "Map design",
+      "Science and technology tree development"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "What do you prefer about shooting games?",
+    "options": [
+      "First-person perspective",
+      "Third person perspective",
+      "Team competition mode",
+      "Single player campaign mode"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "To what extent does the picture quality of the game influence your game selection?",
+    "options": [
+      "Very important",
+      "It's more important",
+      "General",
+      "Not very important"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 11,
+    "question": "What do you think is the impact of sound on the game experience?",
+    "options": [
+      "Big",
+      "Larger",
+      "General",
+      "Smaller"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 12,
+    "question": "Does the difficulty of the game affect your willingness to play?",
+    "options": [
+      "Yes, if it's too hard, don't play",
+      "Yes, but willing to challenge",
+      "Not really. Difficulty is not the point",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Do you prefer single player or multiplayer?",
+    "options": [
+      "Single-player game, enjoy solo exploration",
+      "Multiplayer games, enjoy interacting with others",
+      "Either, depending on the game",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "What do you care about most in multiplayer games?",
+    "options": [
+      "The cooperation of teammates",
+      "The level of the opponent",
+      "Social interaction function",
+      "Balance of the game"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Are you willing to pay for the game?",
+    "options": [
+      "Willing, frequent purchase of premium games or in-app purchases",
+      "Occasionally, it depends",
+      "Not really, but might consider it",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "If your game has a paid option, which option would you prefer?",
+    "options": [
+      "Purchase the game itself in one time",
+      "In-game purchases of items or virtual currency",
+      "Subscription services (e.g. monthly card)"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "What is the maximum amount you can accept for a single in-game purchase?",
+    "options": [
+      "Less than 50",
+      "50 to 100",
+      "101-200",
+      "More than 200"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "What do you think is a reasonable price range for paid games?",
+    "options": [
+      "0-30",
+      "31-60",
+      "61-100",
+      "More than 100"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Do you try a new game because a friend recommends it?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 20,
+    "question": "Will you make new friends in the game?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 21,
+    "question": "Do you join social groups or forums related to the game?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 22,
+    "question": "What is your main way of communicating with other players in the game?",
+    "options": [
+      "Text chat",
+      "Voice chat",
+      "Emoticons",
+      "Little communication"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 23,
+    "question": "How much does the story appeal to you?",
+    "options": [
+      "Very large, is the main attraction factor",
+      "It is relatively large and will affect the game experience",
+      "General, not the point",
+      "It doesn't matter, I don't pay much attention"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 24,
+    "question": "What kind of game story do you prefer?",
+    "options": [
+      "Big, epic stories",
+      "Warm and touching skit",
+      "Mysterious and suspenseful adventure",
+      "Humorous comedy"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 25,
+    "question": "How important is the game's worldview setting to you?",
+    "options": [
+      "Vital, affecting the immersion of the game",
+      "More important, increase the charm of the game",
+      "In general, not too concerned",
+      "Not important at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 26,
+    "question": "Do you dig into background information because of the game's story and worldview?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 27,
+    "question": "How often do you expect your game to update?",
+    "options": [
+      "Updated weekly",
+      "Monthly update",
+      "Update from time to time, but with significant content",
+      "It doesn't matter, just stable"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 28,
+    "question": "Do you pay more attention to the updated content of the game?",
+    "options": [
+      "New levels and missions",
+      "New characters and items",
+      "Game performance optimization",
+      "Balance adjustment"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 29,
+    "question": "What is your attitude when there is a BUG in the game?",
+    "options": [
+      "Very dissatisfied, affecting the game experience",
+      "Some dissatisfaction, hope to repair as soon as possible",
+      "Yes, wait for repair",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 30,
+    "question": "How satisfied are you with the after-sales service of game developers?",
+    "options": [
+      "Very satisfied",
+      "Relatively satisfied",
+      "General",
+      "Not satisfied"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 31,
+    "question": "Do you care about rankings and competitive scores in your game?",
+    "options": [
+      "Very concerned, striving for A high ranking",
+      "More concerned, will do his best",
+      "Not much, just fun",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 32,
+    "question": "Do you think the competition in the game is fair?",
+    "options": [
+      "Very fair",
+      "It's fair",
+      "General, some problems",
+      "It's not fair"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 33,
+    "question": "For the top ranked players, do you think they mainly rely on?",
+    "options": [
+      "Great skill",
+      "A lot of time investment",
+      "Pay for advantages",
+      "Luck"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 34,
+    "question": "Do you feel anxious because of ranking pressure?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 35,
+    "question": "Do you choose a new game because of a particular brand?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 36,
+    "question": "What is your main source of game information?",
+    "options": [
+      "Game media coverage",
+      "Social media recommendations",
+      "Introduced by a friend",
+      "Game store recommendations"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 37,
+    "question": "How much are you looking forward to new games from well-known game companies?",
+    "options": [
+      "Looking forward to it",
+      "Look forward to it",
+      "General",
+      "Not looking forward to it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 38,
+    "question": "How much influence does word of mouth have on your purchase decision?",
+    "options": [
+      "Big, bad reputation do not play",
+      "Larger, will refer to",
+      "In general, use your own judgment",
+      "Smaller and less concerned"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 39,
+    "question": "Do you think games are educational?",
+    "options": [
+      "It has great educational significance",
+      "It has certain educational significance",
+      "Educational significance is not great",
+      "Totally uneducational"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 40,
+    "question": "Which of the following educational elements in games do you find most valuable?",
+    "options": [
+      "Historical and cultural knowledge",
+      "Scientific knowledge",
+      "Logical thinking training",
+      "Team cooperation ability training"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 41,
+    "question": "Do you choose games with educational features for your children to play?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 42,
+    "question": "Do you think game developers should consider education when designing games?",
+    "options": [
+      "Should, have social responsibility",
+      "It can be considered, but it is not the focus",
+      "It doesn't matter, entertainment is the main thing",
+      "Should not affect the fun of the game"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 43,
+    "question": "Do you think games can be considered an art form?",
+    "options": [
+      "Absolutely",
+      "It works",
+      "Not sure",
+      "It's not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 44,
+    "question": "How does the art style in the game appeal to you?",
+    "options": [
+      "Very attractive",
+      "More attractive",
+      "General",
+      "Not very attractive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 45,
+    "question": "Will you be impressed by the game's music?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Rarely",
+      "No"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 46,
+    "question": "Do you think the cultural elements (traditional culture, foreign culture) in games enrich the content of games?",
+    "options": [
+      "Greatly enriched",
+      "It has a certain enriching effect",
+      "The effect is not obvious",
+      "It has no effect"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 47,
+    "question": "Do you think that playing video games for a long time will affect your health?",
+    "options": [
+      "Definitely, need to control the time",
+      "Maybe. Just take care to rest",
+      "Not really. I can handle it myself",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 48,
+    "question": "Do you cut back on playing because you're worried about your health?",
+    "options": [
+      "Definitely will",
+      "It might",
+      "Not really",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 49,
+    "question": "Do you think game manufacturers should take measures to remind players of their health?",
+    "options": [
+      "Should, have responsibility",
+      "Yes, but not necessary",
+      "It doesn't matter",
+      "No, the player is responsible"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 50,
+    "question": "Do you know some ways to relieve game fatigue?",
+    "options": [
+      "Very understand, often use",
+      "Know something about it and use it occasionally",
+      "Not really",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 51,
+    "question": "How often do you think advertisements should appear?",
+    "options": [
+      "It appears rarely and at long intervals",
+      "Appear moderately, do not affect the game progress",
+      "Appears occasionally and can tolerate",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 52,
+    "question": "Does in-game advertising influence your purchase decision?",
+    "options": [
+      "Great impact, will consider buying",
+      "Have some influence, may be concerned",
+      "Less influence, do not care too much",
+      "No effect at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 53,
+    "question": "Do you uninstall your game because of ads in your game?",
+    "options": [
+      "Definitely. Unbearable",
+      "Maybe, it depends",
+      "Not really, as long as the game is fun",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 54,
+    "question": "Do you like games with difficult challenges?",
+    "options": [
+      "I like it very much and have A sense of accomplishment",
+      "More like, can practice skills",
+      "Average, moderate difficulty is best",
+      "Don't like it, get frustrated too easily"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 55,
+    "question": "How do you think the difficulty of a game should change over time?",
+    "options": [
+      "Gradually increasing and challenging",
+      "First easy, then difficult, and then appropriate reduction",
+      "Maintain relative stability",
+      "Random variation"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 56,
+    "question": "When you encounter a difficult level in the game, do you?",
+    "options": [
+      "Try again and again until you pass",
+      "Find a guide for help",
+      "Give up for now and try again later",
+      "Skip it"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 57,
+    "question": "Do you think hints and guidance in the game are helpful in solving difficult problems?",
+    "options": [
+      "Very helpful and essential",
+      "Some help, but can not rely on",
+      "Not much help, it's better to explore on your own",
+      "Not helpful at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 58,
+    "question": "Do you care about the appearance customization of characters in your game?",
+    "options": [
+      "Really care. Be personal",
+      "More concerned, hope to have a certain choice",
+      "Not too concerned, not too affect the game",
+      "Not at all"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 59,
+    "question": "What do you prefer about character customization?",
+    "options": [
+      "Freely assign attribute points",
+      "Select a preset capability combination",
+      "Grows automatically by game progression",
+      "It doesn't matter"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 60,
+    "question": "How much do you think character customization improves the game experience?",
+    "options": [
+      "Large, increase the sense of substitution",
+      "It's bigger and fresh",
+      "In general, dispensable",
+      "Small and insignificant"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 61,
+    "question": "Would you give up on a game because the character customization isn't rich enough?",
+    "options": [
+      "Definitely, very important",
+      "Maybe, depending on the situation",
+      "Not really. Other factors are more important",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 62,
+    "question": "Do you team up with other players in the game?",
+    "options": [
+      "Often, like team work",
+      "Occasionally, depending on the task requirements",
+      "Rarely, it's more free to play by yourself",
+      "Never"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 63,
+    "question": "Do you think the friend system in the game is convenient and practical?",
+    "options": [
+      "Very convenient and easy to use",
+      "More convenient, can meet the demand",
+      "In general, there is room for improvement",
+      "It is inconvenient and difficult to use"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 64,
+    "question": "Will you join a guild or society in the game?",
+    "options": [
+      "Definitely, A sense of belonging",
+      "Maybe, depending on the guild atmosphere",
+      "Not really. I find it troublesome",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 65,
+    "question": "What do you focus on most when interacting with other players in your game?",
+    "options": [
+      "Be polite and respectful",
+      "Communication efficiency",
+      "Fun and humor",
+      "Professionalism and depth"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 66,
+    "question": "How difficult do you think currency acquisition is in the game?",
+    "options": [
+      "Very easy, no shortage of currency",
+      "It's easier and can meet the needs",
+      "It is difficult and requires effort",
+      "Very difficult, not enough"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 67,
+    "question": "Are the items in the game reasonably priced?",
+    "options": [
+      "Very reasonable and cost-effective",
+      "Reasonable and acceptable",
+      "It's not reasonable. It's a little expensive",
+      "It's unreasonable. It's too expensive"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 68,
+    "question": "What do you think of the trading system in the game (trading between players)?",
+    "options": [
+      "It is necessary to promote communication",
+      "It has a certain role, but it should be regulated",
+      "The effect is not large, easy to cause problems",
+      "Totally unnecessary"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 69,
+    "question": "Will you be investing in the game (buying property, shops, etc.)?",
+    "options": [
+      "Yes, it will",
+      "Maybe, depending on the rate of return",
+      "Not really. It's risky",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 70,
+    "question": "Do you like having story options in your game?",
+    "options": [
+      "Very like, increase the sense of substitution",
+      "Prefer, affect the outcome",
+      "In general, dispensable",
+      "Don't like it, it's too complicated"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 71,
+    "question": "Do you think story choices have a big impact on replayability?",
+    "options": [
+      "Very large, different choices each time",
+      "It's bigger and fresh",
+      "General, not the key factor",
+      "Small, no impact"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 72,
+    "question": "What is your main basis for choosing a story?",
+    "options": [
+      "Personal preferences and values",
+      "Impact on game ending",
+      "Suggestions from other players",
+      "Random selection"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 73,
+    "question": "Are you replaying the game because a story choice leads to a bad ending?",
+    "options": [
+      "Yes, it has to end well",
+      "Maybe, depending on the mood",
+      "Not really. Accept the result",
+      "Definitely not"
+    ],
+    "correctAnswer": ""
+  },
+  {
+    "id": 74,
+    "question": "How do you feel about designing multiple endings in games?",
+    "options": [
+      "It was wonderful and enriched the experience",
+      "Better. Desire to explore",
+      "In general, I don't feel much",
+      "No, it's too confusing"
+    ],
+    "correctAnswer": ""
+  }
+]
