@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="Webpixels">
-  <title>问卷调查</title>
+  <title>Studies | Survey rawds</title>
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800|Roboto:400,500,700" rel="stylesheet">
   <!-- Theme CSS -->
@@ -24,7 +24,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="#FFCA28" d="m7.625 6.4l2.8-3.625q.3-.4.713-.587T12 2t.863.188t.712.587l2.8 3.625l4.25 1.425q.65.2 1.025.738t.375 1.187q0 .3-.088.6t-.287.575l-2.75 3.9l.1 4.1q.025.875-.575 1.475t-1.4.6q-.05 0-.55-.075L12 19.675l-4.475 1.25q-.125.05-.275.063T6.975 21q-.8 0-1.4-.6T5 18.925l.1-4.125l-2.725-3.875q-.2-.275-.288-.575T2 9.75q0-.625.363-1.162t1.012-.763z"/></svg>
           <div class="pinots_warp" style="font-size: 20px;">200</div>
           <div class=" ml-4 btn btn-sm btn-light">
-            退出登录
+            Log out
           </div>
         </div>
         <ul class="nav py-4 ml-lg">
@@ -73,8 +73,10 @@
         <hr class="divider divider-fade divider-dark my-6">
         <div class="row align-items-center justify-content-between">
           <div class="col-md-4">
-            <span class="navbar-brand mr-2"><strong>Ipsos</strong></span>
-            © 2024 Ipsos
+            <span class="navbar-brand mr-2">
+              <!-- <strong>Ipsos</strong> -->
+            </span>
+            <!-- © 2024 Ipsos -->
           </div>
           <div class="col-md-8">
             <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
@@ -109,6 +111,17 @@
     $(document).ready(function () {
       let poin = localStorage.getItem('points')
       if(poin) $('.pinots_warp').text(poin)
+      if(poin >= 500){
+        console.log('poin',poin)
+        setTimeout(function() {
+          localStorage.setItem('points', poin - 500)
+          window.location.href = 'success.html';
+        },5000)
+      }else{
+        setTimeout(function() {
+          window.location.href = 'questionnaire.html';
+        },5000)
+      }
     });
   </script>
 </body>

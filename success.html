@@ -53,16 +53,16 @@
       <div class="col-lg-10">
         <div class="success_box">
           <div class="success_tlt">
-           <h2 class="heading h3 mb-0 text-center">Congratulations on your successful submission</h2>
+           <h2 class="heading h3 mb-0 text-center">Redemption successful</h2>
           </div>
           <div class="success_icon">
             <div id="lottie-container" style="width: 400px; height: 400px;"></div>
           </div>
           <div class="pool-balance">
-            + <span id="random-number">0</span>
+            + <span id="random-number">5 USD</span>
           </div>
           <div class="balance-tips">
-            Personal account points
+            <!-- Personal account points -->
           </div>
         </div>
       </div>
@@ -74,10 +74,10 @@
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
-      function updateNumber() {
-          var numberElement = document.getElementById('random-number');
-          numberElement.textContent = getRandomNumber(3, 9);
-      }
+      // function updateNumber() {
+      //     var numberElement = document.getElementById('random-number');
+      //     numberElement.textContent = getRandomNumber(3, 9);
+      // }
 
     // 在文档加载完毕后运行这段代码
     document.addEventListener("DOMContentLoaded", function() {
@@ -92,7 +92,10 @@
         autoplay: true, // 自动播放
         path: '/lottie/Animation1723098116344.json' // 动画 JSON 文件的路径
       });
-      updateNumber();
+      setTimeout(function() {
+        window.location.href = 'index.html';
+      },5000)
+      // updateNumber();
     });
   </script>
 </body>
