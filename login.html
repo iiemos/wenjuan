@@ -1,0 +1,121 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Login | Survey rawds</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <link rel="stylesheet" href="/assets/css/login.css">
+
+  <body class="vsc-initialized">
+    <div class="container">
+        <div class="myCard">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="myLeftCtn">
+                        <form id="loginForm" class="myForm text-center needs-validation" onsubmit="return validateForm(this)" novalidate="">
+                            <header>Login</header>
+                            <div class="form-group">
+                                <i class="fas fa-user"></i>
+                                <input class="myInput" type="text" placeholder="UserName" id="username" required="">
+                                <div class="invalid-feedback">Please fill out this field.</div>
+                            </div>
+                            <div class="form-group">
+                                <i class="fas fa-lock"></i>
+                                <input class="myInput" type="password" id="password" placeholder="PassWord" required="">
+                                <div class="invalid-feedback">Please fill out this field.</div>
+                            </div>
+                            <input type="submit" class="butt" value="Submit">
+                        </form>
+                        <div id="message" style="text-align: center;"></div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="myRightCtn">
+                        <div class="box">
+                            <header>Hello World!</header>
+
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                sed do eiusmod tempor incididunt ut labore et dolore magna
+                                aliqua. Ut enim ad minim veniam.
+                            </p>
+                            <input type="button" class="butt_out" value="More">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </body>
+  <script src="./assets/js/base64.js"></script>
+  <script>
+  const users = [
+      { "username": "CAI0001", "password": "Q0FJMDAwMQ==" },
+      { "username": "CAI0002", "password": "Q0FJMDAwMg==" },
+      { "username": "CAI0003", "password": "Q0FJMDAwMw==" },
+      { "username": "CAI0004", "password": "Q0FJMDAwNA==" },
+      { "username": "CAI0005", "password": "Q0FJMDAwNQ==" },
+      { "username": "CAI0006", "password": "Q0FJMDAwNg==" },
+      { "username": "CAI0007", "password": "Q0FJMDAwNw==" }, 
+      { "username": "CAI0008", "password": "Q0FJMDAwOA==" }, 
+      { "username": "CAI0009", "password": "Q0FJMDAwOQ==" }, 
+      { "username": "CAI0010", "password": "Q0FJMDAxMA==" },
+      { "username": "CAI0011", "password": "Q0FJMDAxMQ==" },
+      { "username": "CAI0012", "password": "Q0FJMDAxMg==" },
+      { "username": "CAI0013", "password": "Q0FJMDAxMw==" },
+      { "username": "CAI0014", "password": "Q0FJMDAxNA==" },
+      { "username": "CAI0015", "password": "Q0FJMDAxNQ==" },
+      { "username": "CAI0016", "password": "Q0FJMDAxNg==" },
+      { "username": "CAI0017", "password": "Q0FJMDAxNw==" },
+      { "username": "CAI0018", "password": "Q0FJMDAxOA==" },
+      { "username": "CAI0019", "password": "Q0FJMDAxOQ==" },
+      { "username": "CAI0020", "password": "Q0FJMDAyMA==" },
+      { "username": "CAI0021", "password": "Q0FJMDAyMQ==" },
+      { "username": "CAI0022", "password": "Q0FJMDAyMg==" },
+      { "username": "CAI0023", "password": "Q0FJMDAyMw==" },
+      { "username": "CAI0024", "password": "Q0FJMDAyNA==" },
+      { "username": "CAI0025", "password": "Q0FJMDAyNQ==" },
+      { "username": "CAI0026", "password": "Q0FJMDAyNg==" },
+      { "username": "CAI0027", "password": "Q0FJMDAyNw==" },
+      { "username": "CAI0028", "password": "Q0FJMDAyOA==" },
+      { "username": "CAI0029", "password": "Q0FJMDAyOQ==" },
+      { "username": "CAI0030", "password": "Q0FJMDAzMA==" },
+  ];
+  
+  function setCookie(name, value, hours) {
+    var cookies = name + "=" + (value || "") + ";";
+    if (hours) {
+        var date = new Date();
+        date.setTime(date.getTime() + (hours * 60 * 60 * 1000));
+        cookies += "expires=" + date.toUTCString() + ";";
+    }
+    document.cookie = cookies;
+}
+ 
+  // 登录事件处理
+  document.getElementById('loginForm').addEventListener('submit', function (event) {
+      event.preventDefault(); // 阻止表单默认提交行为
+
+      const username = document.getElementById('username').value;
+      const password = document.getElementById('password').value;
+      const hashedPassword = Base64.encode(password);
+      // 检查用户是否存在并且密码匹配
+      const user = users.find(user => user.username === username && user.password === hashedPassword);
+      const messageDiv = document.getElementById('message');
+
+      if (user) {
+          messageDiv.textContent = 'Login successful!';
+          messageDiv.style.color = 'green';
+          // 可以在这里重定向到另一个页面或执行其他操作
+          setCookie('Token', '1', 24); // 设置一个有24小时有效期的cookie
+          setTimeout(function() {
+            window.location.href = 'index.html';
+          },2000)
+      } else {
+          messageDiv.textContent = 'Wrong account or password!';
+          messageDiv.style.color = 'red';
+      }
+  });
+  </script>
+</html>

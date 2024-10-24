@@ -72,6 +72,20 @@
 
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script>
+    function getCookie(name) {
+      let cookies = document.cookie.split('; ');
+      for (let i = 0; i < cookies.length; i++) {
+        let parts = cookies[i].split('=');
+        if (parts[0] === name) {
+          return parts[1];
+        }
+      }
+      return '';
+    }
+    let cookieValue = getCookie('Token');
+    if(cookieValue !== '1'){
+      window.location.href = 'login.html';
+    }
     $(document).ready(function () {
       const randomIndex = Math.floor(Math.random() * 53) + 1;
       const filePath = `/json/${randomIndex}.json`;
